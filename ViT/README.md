@@ -3,15 +3,18 @@
 
 Implmented a ViT Architecture from Scratch using Pytorch on a subset of Food-101 dataset.
 
-[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/1511.06434)
 
 
-## Tech Stack
+## Dataset Information
 
 **Dataset (Train):** Subset of Food101 (3 classes-255 images total)
 **Dataset (Test):** Subset of Food101 (3 classes-75 images total)
 
-**Frameworks:** Pytorch
+
+### Frameworks
+
+**Pytorch**
 
 
 ## Results
