@@ -1,7 +1,7 @@
 
 # Vanilla Transformers for Machine Translation in Pytorch
 
-I implemented the Vanilla Transformers using Pytorch on German-English dataset.
+I implemented the Vanilla Transformers using Pytorch on the German-English dataset.
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
@@ -19,5 +19,7 @@ I implemented the Vanilla Transformers using Pytorch on German-English dataset.
 **Training epochs:** 3
 **Val epochs:** 5
 
-**Train loss:**  (mean)
-**Val loss:** (mean)
+**Train loss:** 0.02  (mean)
+**Val loss:** 0.03 (mean)
+
+[NOTE]: The train and val loss seems to be off. Please submit a PR or open a discussion if you find the issue and would really appreciate your help!
