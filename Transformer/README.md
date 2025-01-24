@@ -19,7 +19,7 @@ I implemented the Vanilla Transformers using Pytorch on the German-English datas
 **Training epochs:** 3
 **Val epochs:** 5
 
-**Train loss:** 0.02  (mean)
-**Val loss:** 0.03 (mean)
+**Train loss:** 0.02  
+**Val loss:** 0.03 
 
-[NOTE]: The train and val loss seems to be off. Please submit a PR or open a discussion if you find the issue and would really appreciate your help!
+[NOTE]: The train and val loss seem to be off. Please submit a PR or open a discussion if you find the issue. We would really appreciate your help!
