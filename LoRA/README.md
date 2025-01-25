@@ -16,8 +16,8 @@ I implemented the LoRA framework using Pytorch on Tinyshakespeare dataset.
 
 ### Results (on A100 GPU Single)
 
-**Training steps:** 2000
-**Training steps:** per 100 training steps
+**Training steps:** 1000
+**Validation steps:** per 100 training steps
 
-**Train loss:**  5.95
-**Val loss:** 5.98
+**Train loss:**  3.51
+**Val loss:** 3.50
