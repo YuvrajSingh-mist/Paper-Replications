@@ -19,5 +19,5 @@ I implemented the Mixtral architecture from scratch using Pytorch on Tinyshakesp
 **Training steps:** 1000
 **Training steps:** per 50 training steps
 
-**Train loss:**  nill
-**Val loss:** nill
+**Train loss:** 2.0422 
+**Val loss:** 2.0898
