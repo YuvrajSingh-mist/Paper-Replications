@@ -14,7 +14,7 @@ I implemented the Mixtral architecture from scratch using Pytorch on Tinyshakesp
 **Pytorch**
 
 
-### Results (on A100 GPU Single)
+### Results (on T4 GPU Single)
 
 **Training steps:** 1000
 **Training steps:** per 50 training steps
