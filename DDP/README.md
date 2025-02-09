@@ -1,7 +1,7 @@
 
 # Trained Llama using DDP in Pytorch
 
-I implemented a training loop and trained a Llama made from scratch using DPP and torchrun.
+I implemented a training loop and trained a Llama made from scratch using Data Distributed Parallel and torchrun.
 
 
 ### ModelArgs Hyperparameters
