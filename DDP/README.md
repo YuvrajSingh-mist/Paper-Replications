@@ -4,7 +4,7 @@
 I implemented a training loop and trained a Llama made from scratch using DPP and torchrun.
 
 
-# ModelArgs Hyperparameters
+### ModelArgs Hyperparameters
 
 | Parameter              | Value         | Description                                                                 |
 |------------------------|---------------|-----------------------------------------------------------------------------|
