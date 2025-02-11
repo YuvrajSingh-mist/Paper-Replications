@@ -61,6 +61,7 @@ pip install wandb
 
 If you want to use your dataset, please take a look at the dataset provided in data/.
 If you have one, move your dataset to the data/ folder and then change the following line to point to your dataset in the data/ (currently only .txt is supported) in the llama_multi_gpu_train.py
+Also please change 'device' to any of your available cuda gpus.
 
 ```python
 'data/input.txt' -> 'data/{YPU_FILE_NAME_HERE}' line  66
