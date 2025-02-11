@@ -21,8 +21,7 @@ I implemented a training loop and trained a Llama made from scratch using Data D
 | `beta_2`               | 0.95          | Exponential decay rate for the second moment estimates in the optimizer.    |
 | `clip`                 | 1.0           | Gradient clipping value.                                                    |
 | `device`               | 'cuda:0'      | The device to run the model on (e.g., 'cuda:0' for GPU).                    |
-| `no_kv_heads`          | 2             | Number of key-value heads.                                                  |
-| `vocab_size`           | 10000         | Size of the vocabulary.                                                     |
+| `no_kv_heads`          | 2             | Number of key-value heads.                                                 
 
 
 ### Datasets
