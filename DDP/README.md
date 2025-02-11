@@ -45,3 +45,32 @@ Train loss - 1.5
 
 Val loss - 1.1
 
+
+### Local setup
+
+
+### Requirements
+
+```python
+pip install torchtune
+pip install torchao
+pip install torchrun
+pip install wandb
+
+```
+
+
+If you want to use your own dataset then refer to the dataset provided in data/.
+If you have one, move your dataset to the data/ folder and then change the following line to point to your dataset in the data/ (currently only .txt is supported)
+
+```python
+'data/input.txt' -> 'data/{YPU_FILE_NAME_HERE}' line  66
+
+```
+To run:
+
+```python
+torchrun --standalone --nproc_per_node=gpu llama_multi_gpu_train.py
+```
+--standalone - if all the gpu are on one server
+--npro_per_node - number of gpus available and use the keyword gpu to use all
