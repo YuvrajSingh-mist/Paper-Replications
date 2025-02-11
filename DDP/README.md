@@ -33,9 +33,15 @@ I implemented a training loop and trained a Llama made from scratch using Data D
 ### Frameworks:
 **Pytorch**
 
-Epochs = 5
 
-Train loss
-Val loss 
+### Epochs/Steps
+Iterations (train) = 8000
 
+Val iterations = every 100
+
+
+### Losses
+Train loss - 1.5
+
+Val loss - 1.1
 
