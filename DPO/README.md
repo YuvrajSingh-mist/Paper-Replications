@@ -1,8 +1,7 @@
 
-# Trained Qwen0.5B-Instruct using Direct Preference Optimization in Pytorch
+# The Direct Preference Optimization in Pytorch from scratch implementation
 
-I implemented a training loop and trained a Llama made from scratch using Data Distributed Parallel and torchrun.
-
+I Trained Qwen0.5B-Instruct using Direct Preference Optimization in Pytorch
 
 ##  ModelArgs Hyperparameters
 
