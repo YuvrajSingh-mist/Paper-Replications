@@ -3,14 +3,13 @@
 
 I Trained Qwen0.5B-Instruct using Direct Preference Optimization in Pytorch
 
-##  ModelArgs Hyperparameters
+## ModelArgs Hyperparameters
 
-| Parameter              | Value         | Description                                                                 |
-|------------------------|---------------|-----------------------------------------------------------------------------|
-
-| `batch_size`           | 2            | The number of samples processed before the model is updated.                |
-| `max_lr`               | 1e-6          | Maximum learning rate.                                                      |
-| `device`               | 'cuda:0'      | The device to run the model on (e.g., 'cuda:0' for GPU).                    |
+| Parameter    | Value    | Description                                                                 |
+|--------------|----------|-----------------------------------------------------------------------------|
+| `batch_size` | 2        | The number of samples processed before the model is updated.                |
+| `max_lr`     | 1e-6     | Maximum learning rate.                                                     |
+| `device`     | 'cuda:0' | The device to run the model on (e.g., 'cuda:0' for GPU).   
 
 ### Datasets
 
