@@ -31,7 +31,6 @@ Train loss - 0.67
 Val loss - 0.68
 
 
-### Local setup
 
 
 
