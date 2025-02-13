@@ -15,7 +15,7 @@ from torch.distributed import init_process_group, destroy_process_group
 import torch
 from torch.utils.data import Dataset, DataLoader
 import wandb 
-
+from tqdm import tqdm 
 
 import os
 
@@ -51,9 +51,9 @@ class ModelArgs:
     vocab_size = 10000
 
 
-# from pathlib import Path
-# data_path = Path('/kaggle/working/data')
-# data_path.mkdir(exist_ok=True)
+from pathlib import Path
+data_path = Path('data')
+data_path.mkdir(exist_ok=True)
 # !wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 # !cp input.txt data/input.txt
 
@@ -63,7 +63,7 @@ class ModelArgs:
 
 # Using tinyshakespeare
 
-with open('/kaggle/input/shakespeare/input.txt', 'r', encoding='utf-8') as f:
+with open('data/input.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
 
