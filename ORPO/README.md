@@ -1,7 +1,7 @@
 
 # ORPO in Pytorch from scratch implementation
 
-I Trained OPT-330M model using ORPO in Pytorch
+Trained OPT-330M model using ORPO in Pytorch for Instruction Following
 
 ## ModelArgs Hyperparameters
 
