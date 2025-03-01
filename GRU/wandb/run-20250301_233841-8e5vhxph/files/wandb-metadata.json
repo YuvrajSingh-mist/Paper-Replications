@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-03-01T23:38:41.499165Z",
+  "program":  "/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/gru.ipynb",
+  "codePath":  "GRU/gru.ipynb",
+  "git":  {
+    "remote":  "https://github.com/YuvrajSingh-mist/Paper-Replications.git",
+    "commit":  "2f7106defc5b838ed77d44e3110fa619f197525d"
+  },
+  "email":  "rajceo2031@gmail.com",
+  "root":  "/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU",
+  "host":  "YuvrajSinghLoq",
+  "executable":  "/home/yuvrajsingh/anaconda3/envs/unsloth_env/bin/python",
+  "codePathLocal":  "gru.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "269427478528",
+      "used":  "79717621760"
+    }
+  },
+  "memory":  {
+    "total":  "8221184000"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "memoryTotal":  "6439305216",
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.7"
+}
