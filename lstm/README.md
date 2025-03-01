@@ -1,39 +1,35 @@
 
-# ORPO in Pytorch from scratch implementation
+# LSTM in Pytorch from scratch implementation
 
-Trained OPT-330M model using ORPO in Pytorch for Instruction Following
+Trained 128K LSTM model in Pytorch 
 
 ## ModelArgs Hyperparameters
 
 | Parameter    | Value    | Description                                                                 
 |--------------|----------|-----------------------------------------------------------------------------|
-| `batch_size` | 2        | The number of samples processed before the model is updated.                |
+| `batch_size` | 32       | The number of samples processed before the model is updated.                |
 | `max_lr`     | 8e-6     | Maximum learning rate.                                                      |
-| `device`     | 'cuda:0' | The device to run the model on (e.g., 'cuda:0' for GPU).                    |
-| `betas`      | 0.95,0.99| Beta values                                                                 |           
-| `weight_decay`| 0.1     | Weight decay values for the optimizer                                       |
+| `dropout`    | 0.2      | Dropout.                                                                    |
+| `epochs`     | 50       | Epochs                                                                      |           
+| `block_size` | 64       | Weight decay values for the optimizer                                       |
 
 
-### Datasets
-
-[UltraFeedback](https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned)
 
 ### Frameworks:
 **Pytorch**
 
 
 ### Epochs/Steps
-Iterations (train) = 3k
+Epochs (train) = 50
 
-Val iterations = every 20
+Val iterations = every epoch
 
 
 ### Losses
 
-Train loss - 1.70 
+Train loss - 0.49 
 
-Val loss - 1.98
-(at 2.5k steps)
+Val loss - 0.48
 
 ### Loss Curves
 
