@@ -1,0 +1,8 @@
+{"time":"2025-03-01T22:17:26.619308957Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/LSTM/wandb/run-20250301_221726-ngq0492x/logs/debug-core.log"}
+{"time":"2025-03-01T22:17:26.805187762Z","level":"INFO","msg":"created new stream","id":"ngq0492x"}
+{"time":"2025-03-01T22:17:26.805824121Z","level":"INFO","msg":"stream: started","id":"ngq0492x"}
+{"time":"2025-03-01T22:17:26.805846009Z","level":"INFO","msg":"writer: Do: started","stream_id":"ngq0492x"}
+{"time":"2025-03-01T22:17:26.805891055Z","level":"INFO","msg":"handler: started","stream_id":"ngq0492x"}
+{"time":"2025-03-01T22:17:26.805930696Z","level":"INFO","msg":"sender: started","stream_id":"ngq0492x"}
+{"time":"2025-03-01T22:17:27.393541095Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T22:17:58.162381209Z","level":"INFO","msg":"Pausing system monitor"}
