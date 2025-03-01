@@ -23,17 +23,21 @@ Trained OPT-330M model using ORPO in Pytorch for Instruction Following
 
 
 ### Epochs/Steps
-Iterations (train) = nil
+Iterations (train) = 3k
 
 Val iterations = every 20
 
 
 ### Losses
-Train loss - nil
 
-Val loss - nil
+Train loss - 1.70 
 
+Val loss - 1.98
+(at 2.5k steps)
 
+### Loss Curves
+
+![Train and Val loss curves](img/curves.jpg)
 
 
 
