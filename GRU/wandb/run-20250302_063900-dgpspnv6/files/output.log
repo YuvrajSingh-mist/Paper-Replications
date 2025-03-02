@@ -1,0 +1,10 @@
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return func(*args, **kwargs)
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Exception ignored in: <bound method IPythonKernel._clean_thread_parent_frames of <ipykernel.ipkernel.IPythonKernel object at 0x7f49091edad0>>
+Traceback (most recent call last):
+  File "/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/ipykernel/ipkernel.py", line 775, in _clean_thread_parent_frames
+    def _clean_thread_parent_frames(
+
+KeyboardInterrupt:

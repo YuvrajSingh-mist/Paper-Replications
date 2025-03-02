@@ -1,18 +1,18 @@
 
 # LSTM in Pytorch from scratch implementation
 
-Trained 128K LSTM model in Pytorch 
+Trained 128K LSTM model coded from scratch in Pytorch 
 
 ## ModelArgs Hyperparameters
 
 | Parameter    | Value    | Description                                                                 
 |--------------|----------|-----------------------------------------------------------------------------|
 | `batch_size` | 32       | The number of samples processed before the model is updated.                |
-| `max_lr`     | 8e-6     | Maximum learning rate.                                                      |
-| `dropout`    | 0.2      | Dropout.                                                                    |
+| `max_lr`     | 1e-4     | Maximum learning rate.                                                      |
+| `dropout`    | 0.1      | Dropout.                                                                    |
 | `epochs`     | 50       | Epochs                                                                      |           
-| `block_size` | 64       | Weight decay values for the optimizer                                       |
-
+| `block_size` | 64       | Sequence length                                                             |
+| `No of neurons`     | 128       | Epochs                                                                      |   
 
 
 ### Frameworks:

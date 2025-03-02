@@ -1,0 +1,7 @@
+{"time":"2025-03-02T06:39:00.698063299Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_063900-dgpspnv6/logs/debug-core.log"}
+{"time":"2025-03-02T06:39:00.88554287Z","level":"INFO","msg":"created new stream","id":"dgpspnv6"}
+{"time":"2025-03-02T06:39:00.885835125Z","level":"INFO","msg":"stream: started","id":"dgpspnv6"}
+{"time":"2025-03-02T06:39:00.885889647Z","level":"INFO","msg":"sender: started","stream_id":"dgpspnv6"}
+{"time":"2025-03-02T06:39:00.885880104Z","level":"INFO","msg":"writer: Do: started","stream_id":"dgpspnv6"}
+{"time":"2025-03-02T06:39:00.885904676Z","level":"INFO","msg":"handler: started","stream_id":"dgpspnv6"}
+{"time":"2025-03-02T06:39:01.58232719Z","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,17 @@
+{"time":"2025-03-02T07:13:35.840883417Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_071335-lggqizqp/logs/debug-core.log"}
+{"time":"2025-03-02T07:13:36.024017882Z","level":"INFO","msg":"created new stream","id":"lggqizqp"}
+{"time":"2025-03-02T07:13:36.024532374Z","level":"INFO","msg":"stream: started","id":"lggqizqp"}
+{"time":"2025-03-02T07:13:36.024615384Z","level":"INFO","msg":"writer: Do: started","stream_id":"lggqizqp"}
+{"time":"2025-03-02T07:13:36.02463314Z","level":"INFO","msg":"handler: started","stream_id":"lggqizqp"}
+{"time":"2025-03-02T07:13:36.024681068Z","level":"INFO","msg":"sender: started","stream_id":"lggqizqp"}
+{"time":"2025-03-02T07:13:36.762408361Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T07:14:01.784456101Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T07:14:09.215172932Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T07:14:09.263512197Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T07:14:09.373307515Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T07:14:09.374555472Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T07:14:09.799244297Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T07:14:09.802975313Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T07:14:14.960441573Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T07:14:14.962391732Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T07:14:15.139992936Z","level":"INFO","msg":"Resuming system monitor"}

@@ -1,0 +1,4900 @@
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Gradient Norm Before Clipping: 1.6088
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 48.0168
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 12.1204
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 10.6567
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 29.2028
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 8.6916
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3947
+Gradient Norm After Clipping: 0.3947
+Gradient Norm Before Clipping: 3.1840
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 6.1693
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 10.4532
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 7.6949
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 5.5240
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 6.1882
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8192
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5725
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.5251
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 5.2738
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 6.0872
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5821
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 5.0231
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 4.9277
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1634
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.9083
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4757
+Gradient Norm After Clipping: 0.4757
+Gradient Norm Before Clipping: 3.3220
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8165
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0868
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.8546
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 5.1516
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3306
+Gradient Norm After Clipping: 0.3306
+Gradient Norm Before Clipping: 7.1975
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 4.9303
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0798
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0578
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1010
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3237
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1476
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0011
+Gradient Norm After Clipping: 0.0011
+Gradient Norm Before Clipping: 1.3898
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9451
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 4.9110
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9574
+Gradient Norm After Clipping: 0.9574
+Gradient Norm Before Clipping: 4.8215
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2429
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.8512
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5407
+Gradient Norm After Clipping: 0.5407
+Gradient Norm Before Clipping: 1.5295
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.6643
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 5.3722
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7726
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2342
+Gradient Norm After Clipping: 0.2342
+Gradient Norm Before Clipping: 2.8811
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9006
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5585
+Gradient Norm After Clipping: 0.5585
+Gradient Norm Before Clipping: 1.5041
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9907
+Gradient Norm After Clipping: 0.9907
+Gradient Norm Before Clipping: 2.1396
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.0952
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1448
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8837
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.8507
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2694
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3022
+Gradient Norm After Clipping: 0.3022
+Gradient Norm Before Clipping: 2.1742
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4769
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5368
+Gradient Norm After Clipping: 0.5368
+Gradient Norm Before Clipping: 0.1228
+Gradient Norm After Clipping: 0.1228
+Gradient Norm Before Clipping: 0.4442
+Gradient Norm After Clipping: 0.4442
+Gradient Norm Before Clipping: 2.3212
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5785
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2715
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0305
+Gradient Norm After Clipping: 0.0305
+Gradient Norm Before Clipping: 2.2434
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.8493
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0649
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9378
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.8508
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2785
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.6790
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.1191
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1687
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9493
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4782
+Gradient Norm After Clipping: 0.4782
+Gradient Norm Before Clipping: 0.4428
+Gradient Norm After Clipping: 0.4428
+Gradient Norm Before Clipping: 0.5787
+Gradient Norm After Clipping: 0.5787
+Gradient Norm Before Clipping: 0.4177
+Gradient Norm After Clipping: 0.4177
+Gradient Norm Before Clipping: 0.6788
+Gradient Norm After Clipping: 0.6788
+Gradient Norm Before Clipping: 0.6617
+Gradient Norm After Clipping: 0.6617
+Gradient Norm Before Clipping: 1.2194
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9705
+Gradient Norm After Clipping: 0.9705
+Gradient Norm Before Clipping: 1.3841
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2523
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6255
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4379
+Gradient Norm After Clipping: 0.4379
+Gradient Norm Before Clipping: 0.7742
+Gradient Norm After Clipping: 0.7742
+Gradient Norm Before Clipping: 2.6958
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3753
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4132
+Gradient Norm After Clipping: 0.4132
+Gradient Norm Before Clipping: 0.0011
+Gradient Norm After Clipping: 0.0011
+Gradient Norm Before Clipping: 0.9178
+Gradient Norm After Clipping: 0.9178
+Gradient Norm Before Clipping: 1.0791
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1318
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2850
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9142
+Gradient Norm After Clipping: 0.9142
+Gradient Norm Before Clipping: 0.0160
+Gradient Norm After Clipping: 0.0160
+Gradient Norm Before Clipping: 0.4581
+Gradient Norm After Clipping: 0.4581
+Gradient Norm Before Clipping: 0.5976
+Gradient Norm After Clipping: 0.5976
+Gradient Norm Before Clipping: 0.3379
+Gradient Norm After Clipping: 0.3379
+Gradient Norm Before Clipping: 0.3976
+Gradient Norm After Clipping: 0.3976
+Gradient Norm Before Clipping: 1.0215
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9035
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3732
+Gradient Norm After Clipping: 0.3732
+Gradient Norm Before Clipping: 1.8192
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5590
+Gradient Norm After Clipping: 0.5590
+Gradient Norm Before Clipping: 0.7400
+Gradient Norm After Clipping: 0.7400
+Gradient Norm Before Clipping: 0.9442
+Gradient Norm After Clipping: 0.9442
+Gradient Norm Before Clipping: 0.9178
+Gradient Norm After Clipping: 0.9178
+Gradient Norm Before Clipping: 0.3653
+Gradient Norm After Clipping: 0.3653
+Gradient Norm Before Clipping: 1.7810
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0018
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.4048
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2603
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9869
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9016
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9655
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5817
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4044
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5780
+Gradient Norm After Clipping: 0.5780
+Gradient Norm Before Clipping: 0.7693
+Gradient Norm After Clipping: 0.7693
+Gradient Norm Before Clipping: 3.7076
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.5989
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3935
+Gradient Norm After Clipping: 0.3935
+Gradient Norm Before Clipping: 0.4276
+Gradient Norm After Clipping: 0.4276
+Gradient Norm Before Clipping: 0.4803
+Gradient Norm After Clipping: 0.4803
+Gradient Norm Before Clipping: 1.0433
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6042
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8576
+Gradient Norm After Clipping: 0.8576
+Gradient Norm Before Clipping: 2.0572
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2979
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1251
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.6560
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3671
+Gradient Norm After Clipping: 0.3671
+Gradient Norm Before Clipping: 3.0264
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2523
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6234
+Gradient Norm After Clipping: 0.6234
+Gradient Norm Before Clipping: 1.2491
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0145
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3048
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8755
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5163
+Gradient Norm After Clipping: 0.5163
+Gradient Norm Before Clipping: 1.4858
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0199
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.9373
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7352
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4058
+Gradient Norm After Clipping: 0.4058
+Gradient Norm Before Clipping: 3.1156
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2793
+Gradient Norm After Clipping: 0.2793
+Gradient Norm Before Clipping: 0.8321
+Gradient Norm After Clipping: 0.8321
+Gradient Norm Before Clipping: 0.3017
+Gradient Norm After Clipping: 0.3017
+Gradient Norm Before Clipping: 2.1827
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7763
+Gradient Norm After Clipping: 0.7763
+Gradient Norm Before Clipping: 3.8107
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4583
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1104
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3928
+Gradient Norm After Clipping: 0.3928
+Gradient Norm Before Clipping: 2.6208
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4725
+Gradient Norm After Clipping: 0.4725
+Gradient Norm Before Clipping: 1.5835
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7883
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6206
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7103
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7217
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0315
+Gradient Norm After Clipping: 0.0315
+Gradient Norm Before Clipping: 0.2907
+Gradient Norm After Clipping: 0.2907
+Gradient Norm Before Clipping: 0.1239
+Gradient Norm After Clipping: 0.1239
+Gradient Norm Before Clipping: 1.1433
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1009
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2875
+Gradient Norm After Clipping: 0.2875
+Gradient Norm Before Clipping: 0.6359
+Gradient Norm After Clipping: 0.6359
+Gradient Norm Before Clipping: 0.5435
+Gradient Norm After Clipping: 0.5435
+Gradient Norm Before Clipping: 2.3079
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4334
+Gradient Norm After Clipping: 0.4334
+Gradient Norm Before Clipping: 0.9486
+Gradient Norm After Clipping: 0.9486
+Gradient Norm Before Clipping: 2.6108
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3342
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2078
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.7675
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9946
+Gradient Norm After Clipping: 0.9946
+Gradient Norm Before Clipping: 0.5545
+Gradient Norm After Clipping: 0.5545
+Gradient Norm Before Clipping: 0.7165
+Gradient Norm After Clipping: 0.7165
+Gradient Norm Before Clipping: 0.7897
+Gradient Norm After Clipping: 0.7897
+Gradient Norm Before Clipping: 0.1638
+Gradient Norm After Clipping: 0.1638
+Gradient Norm Before Clipping: 2.0374
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 4.2009
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.9478
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5836
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7063
+Gradient Norm After Clipping: 0.7063
+Gradient Norm Before Clipping: 1.8371
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6124
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7258
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 4.2777
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8123
+Gradient Norm After Clipping: 0.8123
+Gradient Norm Before Clipping: 1.1160
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4433
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.4665
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8855
+Gradient Norm After Clipping: 0.8855
+Gradient Norm Before Clipping: 0.4589
+Gradient Norm After Clipping: 0.4589
+Gradient Norm Before Clipping: 0.4837
+Gradient Norm After Clipping: 0.4837
+Gradient Norm Before Clipping: 0.0113
+Gradient Norm After Clipping: 0.0113
+Gradient Norm Before Clipping: 2.1404
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6681
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5054
+Gradient Norm After Clipping: 0.5054
+Gradient Norm Before Clipping: 0.6154
+Gradient Norm After Clipping: 0.6154
+Gradient Norm Before Clipping: 0.7380
+Gradient Norm After Clipping: 0.7380
+Gradient Norm Before Clipping: 0.3256
+Gradient Norm After Clipping: 0.3256
+Gradient Norm Before Clipping: 1.0974
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1237
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4751
+Gradient Norm After Clipping: 0.4751
+Gradient Norm Before Clipping: 1.7527
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5734
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5567
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6211
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2720
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6222
+Gradient Norm After Clipping: 0.6222
+Gradient Norm Before Clipping: 1.8199
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7437
+Gradient Norm After Clipping: 0.7437
+Gradient Norm Before Clipping: 1.0400
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8565
+Gradient Norm After Clipping: 0.8565
+Gradient Norm Before Clipping: 0.4560
+Gradient Norm After Clipping: 0.4560
+Gradient Norm Before Clipping: 0.0740
+Gradient Norm After Clipping: 0.0740
+Gradient Norm Before Clipping: 0.0185
+Gradient Norm After Clipping: 0.0185
+Gradient Norm Before Clipping: 1.1557
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2651
+Gradient Norm After Clipping: 0.2651
+Gradient Norm Before Clipping: 2.0165
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2753
+Gradient Norm After Clipping: 0.2753
+Gradient Norm Before Clipping: 0.2364
+Gradient Norm After Clipping: 0.2364
+Gradient Norm Before Clipping: 0.9621
+Gradient Norm After Clipping: 0.9621
+Gradient Norm Before Clipping: 1.4263
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3583
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2447
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2025
+Gradient Norm After Clipping: 0.2025
+Gradient Norm Before Clipping: 1.3426
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4223
+Gradient Norm After Clipping: 0.4223
+Gradient Norm Before Clipping: 0.6398
+Gradient Norm After Clipping: 0.6398
+Gradient Norm Before Clipping: 1.4586
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4247
+Gradient Norm After Clipping: 0.4247
+Gradient Norm Before Clipping: 2.1830
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0212
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6166
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4612
+Gradient Norm After Clipping: 0.4612
+Gradient Norm Before Clipping: 1.8807
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1403
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.8649
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1963
+Gradient Norm After Clipping: 0.1963
+Gradient Norm Before Clipping: 0.4411
+Gradient Norm After Clipping: 0.4411
+Gradient Norm Before Clipping: 1.3667
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4018
+Gradient Norm After Clipping: 0.4018
+Gradient Norm Before Clipping: 0.8819
+Gradient Norm After Clipping: 0.8819
+Gradient Norm Before Clipping: 0.7097
+Gradient Norm After Clipping: 0.7097
+Gradient Norm Before Clipping: 0.8452
+Gradient Norm After Clipping: 0.8452
+Gradient Norm Before Clipping: 0.1516
+Gradient Norm After Clipping: 0.1516
+Gradient Norm Before Clipping: 1.7653
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.7357
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8474
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4683
+Gradient Norm After Clipping: 0.4683
+Gradient Norm Before Clipping: 1.8511
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3805
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6845
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3516
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5183
+Gradient Norm After Clipping: 0.5183
+Gradient Norm Before Clipping: 1.9334
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1481
+Gradient Norm After Clipping: 0.1481
+Gradient Norm Before Clipping: 1.6979
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3389
+Gradient Norm After Clipping: 0.3389
+Gradient Norm Before Clipping: 2.6542
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9440
+Gradient Norm After Clipping: 0.9440
+Gradient Norm Before Clipping: 0.0273
+Gradient Norm After Clipping: 0.0273
+Gradient Norm Before Clipping: 1.2821
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8930
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3175
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5921
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8107
+Gradient Norm After Clipping: 0.8107
+Gradient Norm Before Clipping: 4.0143
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0265
+Gradient Norm After Clipping: 0.0265
+Gradient Norm Before Clipping: 0.9112
+Gradient Norm After Clipping: 0.9112
+Gradient Norm Before Clipping: 1.2450
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3762
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0786
+Gradient Norm After Clipping: 0.0786
+Gradient Norm Before Clipping: 1.8808
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8303
+Gradient Norm After Clipping: 0.8303
+Gradient Norm Before Clipping: 0.1501
+Gradient Norm After Clipping: 0.1501
+Gradient Norm Before Clipping: 0.3037
+Gradient Norm After Clipping: 0.3037
+Gradient Norm Before Clipping: 0.6606
+Gradient Norm After Clipping: 0.6606
+Gradient Norm Before Clipping: 2.1156
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2225
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.4573
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0446
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2276
+Gradient Norm After Clipping: 0.2276
+Gradient Norm Before Clipping: 3.3516
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4016
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1013
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7225
+Gradient Norm After Clipping: 0.7225
+Gradient Norm Before Clipping: 1.2383
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4619
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0582
+Gradient Norm After Clipping: 0.0582
+Gradient Norm Before Clipping: 1.0312
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3821
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0331
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1866
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1768
+Gradient Norm After Clipping: 0.1768
+Gradient Norm Before Clipping: 0.1457
+Gradient Norm After Clipping: 0.1457
+Gradient Norm Before Clipping: 1.1733
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0197
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4786
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2324
+Gradient Norm After Clipping: 0.2324
+Gradient Norm Before Clipping: 1.9515
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7693
+Gradient Norm After Clipping: 0.7693
+Gradient Norm Before Clipping: 0.2545
+Gradient Norm After Clipping: 0.2545
+Gradient Norm Before Clipping: 2.7307
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1847
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3864
+Gradient Norm After Clipping: 0.3864
+Gradient Norm Before Clipping: 5.4400
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0838
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9985
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4411
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2289
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4146
+Gradient Norm After Clipping: 0.4146
+Gradient Norm Before Clipping: 1.6300
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2569
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7109
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5442
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0500
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0748
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.2965
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9468
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3241
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3535
+Gradient Norm After Clipping: 0.3535
+Gradient Norm Before Clipping: 2.1526
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0387
+Gradient Norm After Clipping: 0.0387
+Gradient Norm Before Clipping: 0.9131
+Gradient Norm After Clipping: 0.9131
+Gradient Norm Before Clipping: 0.3842
+Gradient Norm After Clipping: 0.3842
+Gradient Norm Before Clipping: 0.4844
+Gradient Norm After Clipping: 0.4844
+Gradient Norm Before Clipping: 1.2440
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4089
+Gradient Norm After Clipping: 0.4089
+Gradient Norm Before Clipping: 1.8525
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1426
+Gradient Norm After Clipping: 0.1426
+Gradient Norm Before Clipping: 0.8027
+Gradient Norm After Clipping: 0.8027
+Gradient Norm Before Clipping: 0.7477
+Gradient Norm After Clipping: 0.7477
+Gradient Norm Before Clipping: 1.5580
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0634
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4782
+Gradient Norm After Clipping: 0.4782
+Gradient Norm Before Clipping: 1.0051
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5735
+Gradient Norm After Clipping: 0.5735
+Gradient Norm Before Clipping: 0.4905
+Gradient Norm After Clipping: 0.4905
+Gradient Norm Before Clipping: 0.2607
+Gradient Norm After Clipping: 0.2607
+Gradient Norm Before Clipping: 0.0279
+Gradient Norm After Clipping: 0.0279
+Gradient Norm Before Clipping: 1.4735
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8090
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7877
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2798
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7812
+Gradient Norm After Clipping: 0.7812
+Gradient Norm Before Clipping: 0.8578
+Gradient Norm After Clipping: 0.8578
+Gradient Norm Before Clipping: 0.6733
+Gradient Norm After Clipping: 0.6733
+Gradient Norm Before Clipping: 1.1392
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2491
+Gradient Norm After Clipping: 0.2491
+Gradient Norm Before Clipping: 0.7816
+Gradient Norm After Clipping: 0.7816
+Gradient Norm Before Clipping: 0.6564
+Gradient Norm After Clipping: 0.6564
+Gradient Norm Before Clipping: 0.6659
+Gradient Norm After Clipping: 0.6659
+Gradient Norm Before Clipping: 0.2722
+Gradient Norm After Clipping: 0.2722
+Gradient Norm Before Clipping: 0.3346
+Gradient Norm After Clipping: 0.3346
+Gradient Norm Before Clipping: 0.0235
+Gradient Norm After Clipping: 0.0235
+Gradient Norm Before Clipping: 1.3683
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1909
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.4069
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9347
+Gradient Norm After Clipping: 0.9347
+Gradient Norm Before Clipping: 0.4941
+Gradient Norm After Clipping: 0.4941
+Gradient Norm Before Clipping: 0.9861
+Gradient Norm After Clipping: 0.9861
+Gradient Norm Before Clipping: 1.1513
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5677
+Gradient Norm After Clipping: 0.5677
+Gradient Norm Before Clipping: 1.4628
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.4830
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5604
+Gradient Norm After Clipping: 0.5604
+Gradient Norm Before Clipping: 0.9721
+Gradient Norm After Clipping: 0.9721
+Gradient Norm Before Clipping: 1.7909
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4817
+Gradient Norm After Clipping: 0.4817
+Gradient Norm Before Clipping: 0.9435
+Gradient Norm After Clipping: 0.9435
+Gradient Norm Before Clipping: 0.2956
+Gradient Norm After Clipping: 0.2956
+Gradient Norm Before Clipping: 0.4291
+Gradient Norm After Clipping: 0.4291
+Gradient Norm Before Clipping: 0.1905
+Gradient Norm After Clipping: 0.1905
+Gradient Norm Before Clipping: 0.9386
+Gradient Norm After Clipping: 0.9386
+Gradient Norm Before Clipping: 1.0980
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0150
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5706
+Gradient Norm After Clipping: 0.5706
+Gradient Norm Before Clipping: 0.3175
+Gradient Norm After Clipping: 0.3175
+Gradient Norm Before Clipping: 0.5883
+Gradient Norm After Clipping: 0.5883
+Gradient Norm Before Clipping: 1.6146
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0203
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9461
+Gradient Norm After Clipping: 0.9461
+Gradient Norm Before Clipping: 1.3262
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6377
+Gradient Norm After Clipping: 0.6377
+Gradient Norm Before Clipping: 0.0269
+Gradient Norm After Clipping: 0.0269
+Gradient Norm Before Clipping: 0.5818
+Gradient Norm After Clipping: 0.5818
+Gradient Norm Before Clipping: 0.7153
+Gradient Norm After Clipping: 0.7153
+Gradient Norm Before Clipping: 0.6482
+Gradient Norm After Clipping: 0.6482
+Gradient Norm Before Clipping: 0.5451
+Gradient Norm After Clipping: 0.5451
+Gradient Norm Before Clipping: 0.4712
+Gradient Norm After Clipping: 0.4712
+Gradient Norm Before Clipping: 0.0901
+Gradient Norm After Clipping: 0.0901
+Gradient Norm Before Clipping: 1.4619
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6802
+Gradient Norm After Clipping: 0.6802
+Gradient Norm Before Clipping: 0.6045
+Gradient Norm After Clipping: 0.6045
+Gradient Norm Before Clipping: 0.1791
+Gradient Norm After Clipping: 0.1791
+Gradient Norm Before Clipping: 1.3216
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5651
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2596
+Gradient Norm After Clipping: 0.2596
+Gradient Norm Before Clipping: 2.5972
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2938
+Gradient Norm After Clipping: 0.2938
+Gradient Norm Before Clipping: 1.6493
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0392
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0407
+Gradient Norm After Clipping: 0.0407
+Gradient Norm Before Clipping: 0.8268
+Gradient Norm After Clipping: 0.8268
+Gradient Norm Before Clipping: 1.0382
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0554
+Gradient Norm After Clipping: 0.0554
+Gradient Norm Before Clipping: 0.9170
+Gradient Norm After Clipping: 0.9170
+Gradient Norm Before Clipping: 0.4443
+Gradient Norm After Clipping: 0.4443
+Gradient Norm Before Clipping: 0.0660
+Gradient Norm After Clipping: 0.0660
+Gradient Norm Before Clipping: 0.2514
+Gradient Norm After Clipping: 0.2514
+Gradient Norm Before Clipping: 2.5441
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2886
+Gradient Norm After Clipping: 0.2886
+Gradient Norm Before Clipping: 1.1637
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0371
+Gradient Norm After Clipping: 0.0371
+Gradient Norm Before Clipping: 0.2201
+Gradient Norm After Clipping: 0.2201
+Gradient Norm Before Clipping: 2.2834
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4198
+Gradient Norm After Clipping: 0.4198
+Gradient Norm Before Clipping: 1.5434
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1151
+Gradient Norm After Clipping: 0.1151
+Gradient Norm Before Clipping: 0.9504
+Gradient Norm After Clipping: 0.9504
+Gradient Norm Before Clipping: 0.6660
+Gradient Norm After Clipping: 0.6660
+Gradient Norm Before Clipping: 0.2494
+Gradient Norm After Clipping: 0.2494
+Gradient Norm Before Clipping: 0.0224
+Gradient Norm After Clipping: 0.0224
+Gradient Norm Before Clipping: 1.5050
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.6693
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4412
+Gradient Norm After Clipping: 0.4412
+Gradient Norm Before Clipping: 1.8567
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5576
+Gradient Norm After Clipping: 0.5576
+Gradient Norm Before Clipping: 0.7461
+Gradient Norm After Clipping: 0.7461
+Gradient Norm Before Clipping: 0.8271
+Gradient Norm After Clipping: 0.8271
+Gradient Norm Before Clipping: 1.3280
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2209
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3682
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2055
+Gradient Norm After Clipping: 0.2055
+Gradient Norm Before Clipping: 0.1684
+Gradient Norm After Clipping: 0.1684
+Gradient Norm Before Clipping: 0.0531
+Gradient Norm After Clipping: 0.0531
+Gradient Norm Before Clipping: 1.4851
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4837
+Gradient Norm After Clipping: 0.4837
+Gradient Norm Before Clipping: 1.3766
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9817
+Gradient Norm After Clipping: 0.9817
+Gradient Norm Before Clipping: 1.0052
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6237
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9809
+Gradient Norm After Clipping: 0.9809
+Gradient Norm Before Clipping: 0.0293
+Gradient Norm After Clipping: 0.0293
+Gradient Norm Before Clipping: 2.2408
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1941
+Gradient Norm After Clipping: 0.1941
+Gradient Norm Before Clipping: 0.4925
+Gradient Norm After Clipping: 0.4925
+Gradient Norm Before Clipping: 0.8296
+Gradient Norm After Clipping: 0.8296
+Gradient Norm Before Clipping: 0.3740
+Gradient Norm After Clipping: 0.3740
+Gradient Norm Before Clipping: 0.8894
+Gradient Norm After Clipping: 0.8894
+Gradient Norm Before Clipping: 0.4060
+Gradient Norm After Clipping: 0.4060
+Gradient Norm Before Clipping: 1.0261
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7049
+Gradient Norm After Clipping: 0.7049
+Gradient Norm Before Clipping: 1.1675
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8213
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7266
+Gradient Norm After Clipping: 0.7266
+Gradient Norm Before Clipping: 1.1219
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1317
+Gradient Norm After Clipping: 0.1317
+Gradient Norm Before Clipping: 0.3435
+Gradient Norm After Clipping: 0.3435
+Gradient Norm Before Clipping: 0.2035
+Gradient Norm After Clipping: 0.2035
+Gradient Norm Before Clipping: 0.3352
+Gradient Norm After Clipping: 0.3352
+Gradient Norm Before Clipping: 1.5648
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3785
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0799
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4463
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2191
+Gradient Norm After Clipping: 0.2191
+Gradient Norm Before Clipping: 0.5298
+Gradient Norm After Clipping: 0.5298
+Gradient Norm Before Clipping: 0.1441
+Gradient Norm After Clipping: 0.1441
+Gradient Norm Before Clipping: 0.8867
+Gradient Norm After Clipping: 0.8867
+Gradient Norm Before Clipping: 0.8667
+Gradient Norm After Clipping: 0.8667
+Gradient Norm Before Clipping: 2.1803
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6278
+Gradient Norm After Clipping: 0.6278
+Gradient Norm Before Clipping: 0.2877
+Gradient Norm After Clipping: 0.2877
+Gradient Norm Before Clipping: 1.5631
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3177
+Gradient Norm After Clipping: 0.3177
+Gradient Norm Before Clipping: 1.0519
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.4622
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5055
+Gradient Norm After Clipping: 0.5055
+Gradient Norm Before Clipping: 0.3275
+Gradient Norm After Clipping: 0.3275
+Gradient Norm Before Clipping: 1.7547
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8777
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0434
+Gradient Norm After Clipping: 0.0434
+Gradient Norm Before Clipping: 0.3518
+Gradient Norm After Clipping: 0.3518
+Epoch:  0 | Step:  500 | Train Loss:  0.5899948477745056
+Epoch:  0 | Step:  1 | Val Loss:  0.5709635019302368
+Epoch:  0 | Step:  2 | Val Loss:  0.44813764095306396
+Epoch:  0 | Step:  3 | Val Loss:  0.567200779914856
+Epoch:  0 | Step:  4 | Val Loss:  0.6203770041465759
+Epoch:  0 | Step:  5 | Val Loss:  0.49954769015312195
+Epoch:  0 | Step:  6 | Val Loss:  0.5473688244819641
+Epoch:  0 | Step:  7 | Val Loss:  0.5211329460144043
+Epoch:  0 | Step:  8 | Val Loss:  0.5470225214958191
+Epoch:  0 | Step:  9 | Val Loss:  0.6557652950286865
+Epoch:  0 | Step:  10 | Val Loss:  0.4538456201553345
+Epoch:  0 | Step:  11 | Val Loss:  0.5037226676940918
+Epoch:  0 | Step:  12 | Val Loss:  0.5851327180862427
+Epoch:  0 | Step:  13 | Val Loss:  0.6712909936904907
+Epoch:  0 | Step:  14 | Val Loss:  0.31263262033462524
+Epoch:  0 | Step:  15 | Val Loss:  0.4030987024307251
+Epoch:  0 | Step:  16 | Val Loss:  0.4446411430835724
+Epoch:  0 | Step:  17 | Val Loss:  0.4086068868637085
+Epoch:  0 | Step:  18 | Val Loss:  0.7196840047836304
+Epoch:  0 | Step:  19 | Val Loss:  0.6039081811904907
+Epoch:  0 | Step:  20 | Val Loss:  0.5069245100021362
+Epoch:  0 | Step:  21 | Val Loss:  0.6604487299919128
+Epoch:  0 | Step:  22 | Val Loss:  0.4977550804615021
+Epoch:  0 | Step:  23 | Val Loss:  0.5739537477493286
+Epoch:  0 | Step:  24 | Val Loss:  0.5729403495788574
+Epoch:  0 | Step:  25 | Val Loss:  0.6434929370880127
+Epoch:  0 | Step:  26 | Val Loss:  0.5315263867378235
+Epoch:  0 | Step:  27 | Val Loss:  0.5375205278396606
+Epoch:  0 | Step:  28 | Val Loss:  0.39535635709762573
+Epoch:  0 | Step:  29 | Val Loss:  0.39706820249557495
+Epoch:  0 | Step:  30 | Val Loss:  0.6406043767929077
+Epoch:  0 | Step:  31 | Val Loss:  0.5913529396057129
+Epoch:  0 | Step:  32 | Val Loss:  0.4969389736652374
+Epoch:  0 | Step:  33 | Val Loss:  0.4112732410430908
+Epoch:  0 | Step:  34 | Val Loss:  0.5965657234191895
+Epoch:  0 | Step:  35 | Val Loss:  0.4504725933074951
+Epoch:  0 | Step:  36 | Val Loss:  0.6921728253364563
+Epoch:  0 | Step:  37 | Val Loss:  0.5146816372871399
+Epoch:  0 | Step:  38 | Val Loss:  0.3936850428581238
+Epoch:  0 | Step:  39 | Val Loss:  0.44797825813293457
+Epoch:  0 | Step:  40 | Val Loss:  0.6717371344566345
+Epoch:  0 | Step:  41 | Val Loss:  0.5316486358642578
+Epoch:  0 | Step:  42 | Val Loss:  0.503264307975769
+Epoch:  0 | Step:  43 | Val Loss:  0.433428019285202
+Epoch:  0 | Step:  44 | Val Loss:  0.5565510988235474
+Epoch:  0 | Step:  45 | Val Loss:  0.5452632904052734
+Epoch:  0 | Step:  46 | Val Loss:  0.487018883228302
+Epoch:  0 | Step:  47 | Val Loss:  0.5789886713027954
+Epoch:  0 | Step:  48 | Val Loss:  0.5772894620895386
+Epoch:  0 | Step:  49 | Val Loss:  0.48481887578964233
+Epoch:  0 | Step:  50 | Val Loss:  0.475885808467865
+Epoch:  0 | Step:  51 | Val Loss:  0.5598534345626831
+Epoch:  0 | Step:  52 | Val Loss:  0.4878353476524353
+Epoch:  0 | Step:  53 | Val Loss:  0.5620285272598267
+Epoch:  0 | Step:  54 | Val Loss:  0.4029245376586914
+Epoch:  0 | Step:  55 | Val Loss:  0.529662013053894
+Epoch:  0 | Step:  56 | Val Loss:  0.6608698964118958
+Epoch:  0 | Step:  57 | Val Loss:  0.4980146288871765
+Epoch:  0 | Step:  58 | Val Loss:  0.4925568401813507
+Epoch:  0 | Step:  59 | Val Loss:  0.3797485828399658
+Epoch:  0 | Step:  60 | Val Loss:  0.46663349866867065
+Epoch:  0 | Step:  61 | Val Loss:  0.47540906071662903
+Epoch:  0 | Step:  62 | Val Loss:  0.44870156049728394
+Epoch:  0 | Step:  63 | Val Loss:  0.43416309356689453
+Epoch:  0 | Step:  64 | Val Loss:  0.555194616317749
+Epoch:  0 | Step:  65 | Val Loss:  0.43369346857070923
+Epoch:  0 | Step:  66 | Val Loss:  0.5209720730781555
+Epoch:  0 | Step:  67 | Val Loss:  0.5036072731018066
+Epoch:  0 | Step:  68 | Val Loss:  0.46187394857406616
+Epoch:  0 | Step:  69 | Val Loss:  0.3581421375274658
+Epoch:  0 | Step:  70 | Val Loss:  0.48478183150291443
+Epoch:  0 | Step:  71 | Val Loss:  0.49684107303619385
+Epoch:  0 | Step:  72 | Val Loss:  0.5462285876274109
+Epoch:  0 | Step:  73 | Val Loss:  0.6291565895080566
+Epoch:  0 | Step:  74 | Val Loss:  0.5528838038444519
+Epoch:  0 | Step:  75 | Val Loss:  0.5345159769058228
+Epoch:  0 | Step:  76 | Val Loss:  0.5055340528488159
+Epoch:  0 | Step:  77 | Val Loss:  0.532581090927124
+Epoch:  0 | Step:  78 | Val Loss:  0.49617427587509155
+Epoch:  0 | Step:  79 | Val Loss:  0.49685049057006836
+Epoch:  0 | Step:  80 | Val Loss:  0.5289156436920166
+Epoch:  0 | Step:  81 | Val Loss:  0.4691219925880432
+Epoch:  0 | Step:  82 | Val Loss:  0.4411880373954773
+Epoch:  0 | Step:  83 | Val Loss:  0.5239541530609131
+Epoch:  0 | Step:  84 | Val Loss:  0.4227132797241211
+Epoch:  0 | Step:  85 | Val Loss:  0.5969119668006897
+Epoch:  0 | Step:  86 | Val Loss:  0.47840505838394165
+Epoch:  0 | Step:  87 | Val Loss:  0.5577924847602844
+Epoch:  0 | Step:  88 | Val Loss:  0.5162308216094971
+Epoch:  0 | Step:  89 | Val Loss:  0.5011178851127625
+Epoch:  0 | Step:  90 | Val Loss:  0.6075366735458374
+Epoch:  0 | Step:  91 | Val Loss:  0.5890329480171204
+Epoch:  0 | Step:  92 | Val Loss:  0.524516224861145
+Epoch:  0 | Step:  93 | Val Loss:  0.5221770405769348
+Epoch:  0 | Step:  94 | Val Loss:  0.5358344912528992
+Epoch:  0 | Step:  95 | Val Loss:  0.48385345935821533
+Epoch:  0 | Step:  96 | Val Loss:  0.7294130325317383
+Epoch:  0 | Step:  97 | Val Loss:  0.6050485372543335
+Epoch:  0 | Step:  98 | Val Loss:  0.46114581823349
+Epoch:  0 | Step:  99 | Val Loss:  0.44121861457824707
+Epoch:  0 | Step:  100 | Val Loss:  0.5507383346557617
+Epoch:  0 | Step:  101 | Val Loss:  0.42550015449523926
+Epoch:  0 | Step:  102 | Val Loss:  0.5664271712303162
+Epoch:  0 | Step:  103 | Val Loss:  0.33928146958351135
+Epoch:  0 | Step:  104 | Val Loss:  0.5483607053756714
+Epoch:  0 | Step:  105 | Val Loss:  0.5760012865066528
+Epoch:  0 | Step:  106 | Val Loss:  0.7308827638626099
+Epoch:  0 | Step:  107 | Val Loss:  0.47706395387649536
+Epoch:  0 | Step:  108 | Val Loss:  0.4077564477920532
+Epoch:  0 | Step:  109 | Val Loss:  0.34400475025177
+Epoch:  0 | Step:  110 | Val Loss:  0.507239580154419
+Epoch:  0 | Step:  111 | Val Loss:  0.5651859045028687
+Epoch:  0 | Step:  112 | Val Loss:  0.5357067584991455
+Epoch:  0 | Step:  113 | Val Loss:  0.49491357803344727
+Epoch:  0 | Step:  114 | Val Loss:  0.4654187560081482
+Epoch:  0 | Step:  115 | Val Loss:  0.46252912282943726
+Epoch:  0 | Step:  116 | Val Loss:  0.4013771116733551
+Epoch:  0 | Step:  117 | Val Loss:  0.5360246896743774
+Epoch:  0 | Step:  118 | Val Loss:  0.6036403179168701
+Epoch:  0 | Step:  119 | Val Loss:  0.5486822128295898
+Epoch:  0 | Step:  120 | Val Loss:  0.5721334218978882
+Epoch:  0 | Step:  121 | Val Loss:  0.5678781270980835
+Epoch:  0 | Step:  122 | Val Loss:  0.4958355128765106
+Epoch:  0 | Step:  123 | Val Loss:  0.5262993574142456
+Epoch:  0 | Step:  124 | Val Loss:  0.30375340580940247
+Epoch:  0 | Step:  125 | Val Loss:  0.618110179901123
+Epoch:  0 | Train Loss:  tensor(0.5654, device='cuda:0') | Val Loss:  tensor(0.5176, device='cuda:0')
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Gradient Norm Before Clipping: 0.6024
+Gradient Norm After Clipping: 0.6024
+Gradient Norm Before Clipping: 1.2508
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0654
+Gradient Norm After Clipping: 0.0654
+Gradient Norm Before Clipping: 0.1965
+Gradient Norm After Clipping: 0.1965
+Gradient Norm Before Clipping: 1.9838
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2830
+Gradient Norm After Clipping: 0.2830
+Gradient Norm Before Clipping: 0.0463
+Gradient Norm After Clipping: 0.0463
+Gradient Norm Before Clipping: 0.9829
+Gradient Norm After Clipping: 0.9829
+Gradient Norm Before Clipping: 0.0963
+Gradient Norm After Clipping: 0.0963
+Gradient Norm Before Clipping: 0.2961
+Gradient Norm After Clipping: 0.2961
+Gradient Norm Before Clipping: 1.4885
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2528
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1124
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4835
+Gradient Norm After Clipping: 0.4835
+Gradient Norm Before Clipping: 0.3604
+Gradient Norm After Clipping: 0.3604
+Gradient Norm Before Clipping: 1.2544
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5464
+Gradient Norm After Clipping: 0.5464
+Gradient Norm Before Clipping: 0.5945
+Gradient Norm After Clipping: 0.5945
+Gradient Norm Before Clipping: 1.0123
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0196
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8310
+Gradient Norm After Clipping: 0.8310
+Gradient Norm Before Clipping: 0.4418
+Gradient Norm After Clipping: 0.4418
+Gradient Norm Before Clipping: 0.0368
+Gradient Norm After Clipping: 0.0368
+Gradient Norm Before Clipping: 1.2419
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1811
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0429
+Gradient Norm After Clipping: 0.0429
+Gradient Norm Before Clipping: 0.6058
+Gradient Norm After Clipping: 0.6058
+Gradient Norm Before Clipping: 0.9941
+Gradient Norm After Clipping: 0.9941
+Gradient Norm Before Clipping: 1.4130
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5375
+Gradient Norm After Clipping: 0.5375
+Gradient Norm Before Clipping: 0.5317
+Gradient Norm After Clipping: 0.5317
+Gradient Norm Before Clipping: 0.2181
+Gradient Norm After Clipping: 0.2181
+Gradient Norm Before Clipping: 0.0948
+Gradient Norm After Clipping: 0.0948
+Gradient Norm Before Clipping: 0.4338
+Gradient Norm After Clipping: 0.4338
+Gradient Norm Before Clipping: 1.3567
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2661
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3656
+Gradient Norm After Clipping: 0.3656
+Gradient Norm Before Clipping: 0.3952
+Gradient Norm After Clipping: 0.3952
+Gradient Norm Before Clipping: 0.6252
+Gradient Norm After Clipping: 0.6252
+Gradient Norm Before Clipping: 2.3363
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1971
+Gradient Norm After Clipping: 0.1971
+Gradient Norm Before Clipping: 0.0635
+Gradient Norm After Clipping: 0.0635
+Gradient Norm Before Clipping: 0.4606
+Gradient Norm After Clipping: 0.4606
+Gradient Norm Before Clipping: 0.6858
+Gradient Norm After Clipping: 0.6858
+Gradient Norm Before Clipping: 0.6539
+Gradient Norm After Clipping: 0.6539
+Gradient Norm Before Clipping: 0.1680
+Gradient Norm After Clipping: 0.1680
+Gradient Norm Before Clipping: 0.7347
+Gradient Norm After Clipping: 0.7347
+Gradient Norm Before Clipping: 0.5953
+Gradient Norm After Clipping: 0.5953
+Gradient Norm Before Clipping: 0.0811
+Gradient Norm After Clipping: 0.0811
+Gradient Norm Before Clipping: 0.0643
+Gradient Norm After Clipping: 0.0643
+Gradient Norm Before Clipping: 0.4810
+Gradient Norm After Clipping: 0.4810
+Gradient Norm Before Clipping: 1.1921
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8899
+Gradient Norm After Clipping: 0.8899
+Gradient Norm Before Clipping: 0.2296
+Gradient Norm After Clipping: 0.2296
+Gradient Norm Before Clipping: 0.5161
+Gradient Norm After Clipping: 0.5161
+Gradient Norm Before Clipping: 0.7755
+Gradient Norm After Clipping: 0.7755
+Gradient Norm Before Clipping: 1.3012
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3264
+Gradient Norm After Clipping: 0.3264
+Gradient Norm Before Clipping: 1.0689
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5317
+Gradient Norm After Clipping: 0.5317
+Gradient Norm Before Clipping: 0.3314
+Gradient Norm After Clipping: 0.3314
+Gradient Norm Before Clipping: 0.2186
+Gradient Norm After Clipping: 0.2186
+Gradient Norm Before Clipping: 0.4524
+Gradient Norm After Clipping: 0.4524
+Gradient Norm Before Clipping: 0.5606
+Gradient Norm After Clipping: 0.5606
+Gradient Norm Before Clipping: 0.6257
+Gradient Norm After Clipping: 0.6257
+Gradient Norm Before Clipping: 0.6272
+Gradient Norm After Clipping: 0.6272
+Gradient Norm Before Clipping: 0.5820
+Gradient Norm After Clipping: 0.5820
+Gradient Norm Before Clipping: 0.8630
+Gradient Norm After Clipping: 0.8630
+Gradient Norm Before Clipping: 0.8430
+Gradient Norm After Clipping: 0.8430
+Gradient Norm Before Clipping: 0.9908
+Gradient Norm After Clipping: 0.9908
+Gradient Norm Before Clipping: 0.3160
+Gradient Norm After Clipping: 0.3160
+Gradient Norm Before Clipping: 1.1180
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4159
+Gradient Norm After Clipping: 0.4159
+Gradient Norm Before Clipping: 0.9069
+Gradient Norm After Clipping: 0.9069
+Gradient Norm Before Clipping: 2.0243
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2431
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2210
+Gradient Norm After Clipping: 0.2210
+Gradient Norm Before Clipping: 0.3092
+Gradient Norm After Clipping: 0.3092
+Gradient Norm Before Clipping: 2.2710
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3218
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6833
+Gradient Norm After Clipping: 0.6833
+Gradient Norm Before Clipping: 1.3044
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6727
+Gradient Norm After Clipping: 0.6727
+Gradient Norm Before Clipping: 0.6098
+Gradient Norm After Clipping: 0.6098
+Gradient Norm Before Clipping: 1.2399
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2083
+Gradient Norm After Clipping: 0.2083
+Gradient Norm Before Clipping: 1.2853
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3309
+Gradient Norm After Clipping: 0.3309
+Gradient Norm Before Clipping: 1.1861
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2188
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3139
+Gradient Norm After Clipping: 0.3139
+Gradient Norm Before Clipping: 0.1945
+Gradient Norm After Clipping: 0.1945
+Gradient Norm Before Clipping: 0.5240
+Gradient Norm After Clipping: 0.5240
+Gradient Norm Before Clipping: 1.0493
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3626
+Gradient Norm After Clipping: 0.3626
+Gradient Norm Before Clipping: 0.5884
+Gradient Norm After Clipping: 0.5884
+Gradient Norm Before Clipping: 0.8729
+Gradient Norm After Clipping: 0.8729
+Gradient Norm Before Clipping: 1.0687
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8611
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7701
+Gradient Norm After Clipping: 0.7701
+Gradient Norm Before Clipping: 0.5395
+Gradient Norm After Clipping: 0.5395
+Gradient Norm Before Clipping: 0.2738
+Gradient Norm After Clipping: 0.2738
+Gradient Norm Before Clipping: 0.0624
+Gradient Norm After Clipping: 0.0624
+Gradient Norm Before Clipping: 0.2144
+Gradient Norm After Clipping: 0.2144
+Gradient Norm Before Clipping: 0.3020
+Gradient Norm After Clipping: 0.3020
+Gradient Norm Before Clipping: 1.9107
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5005
+Gradient Norm After Clipping: 0.5005
+Gradient Norm Before Clipping: 0.1352
+Gradient Norm After Clipping: 0.1352
+Gradient Norm Before Clipping: 0.4869
+Gradient Norm After Clipping: 0.4869
+Gradient Norm Before Clipping: 0.4553
+Gradient Norm After Clipping: 0.4553
+Gradient Norm Before Clipping: 1.0193
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3741
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2453
+Gradient Norm After Clipping: 0.2453
+Gradient Norm Before Clipping: 0.1746
+Gradient Norm After Clipping: 0.1746
+Gradient Norm Before Clipping: 0.6646
+Gradient Norm After Clipping: 0.6646
+Gradient Norm Before Clipping: 1.7059
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0823
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8767
+Gradient Norm After Clipping: 0.8767
+Gradient Norm Before Clipping: 0.5645
+Gradient Norm After Clipping: 0.5645
+Gradient Norm Before Clipping: 1.3971
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1878
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7270
+Gradient Norm After Clipping: 0.7270
+Gradient Norm Before Clipping: 0.7278
+Gradient Norm After Clipping: 0.7278
+Gradient Norm Before Clipping: 1.0181
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2808
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3139
+Gradient Norm After Clipping: 0.3139
+Gradient Norm Before Clipping: 0.2369
+Gradient Norm After Clipping: 0.2369
+Gradient Norm Before Clipping: 1.5713
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5372
+Gradient Norm After Clipping: 0.5372
+Gradient Norm Before Clipping: 0.6154
+Gradient Norm After Clipping: 0.6154
+Gradient Norm Before Clipping: 0.7703
+Gradient Norm After Clipping: 0.7703
+Gradient Norm Before Clipping: 0.4270
+Gradient Norm After Clipping: 0.4270
+Gradient Norm Before Clipping: 0.7478
+Gradient Norm After Clipping: 0.7478
+Gradient Norm Before Clipping: 0.2515
+Gradient Norm After Clipping: 0.2515
+Gradient Norm Before Clipping: 0.4989
+Gradient Norm After Clipping: 0.4989
+Gradient Norm Before Clipping: 1.1831
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3480
+Gradient Norm After Clipping: 0.3480
+Gradient Norm Before Clipping: 0.4825
+Gradient Norm After Clipping: 0.4825
+Gradient Norm Before Clipping: 0.2737
+Gradient Norm After Clipping: 0.2737
+Gradient Norm Before Clipping: 0.2865
+Gradient Norm After Clipping: 0.2865
+Gradient Norm Before Clipping: 0.0830
+Gradient Norm After Clipping: 0.0830
+Gradient Norm Before Clipping: 0.9791
+Gradient Norm After Clipping: 0.9791
+Gradient Norm Before Clipping: 0.6608
+Gradient Norm After Clipping: 0.6608
+Gradient Norm Before Clipping: 0.5698
+Gradient Norm After Clipping: 0.5698
+Gradient Norm Before Clipping: 0.1041
+Gradient Norm After Clipping: 0.1041
+Gradient Norm Before Clipping: 1.4089
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0554
+Gradient Norm After Clipping: 0.0554
+Gradient Norm Before Clipping: 1.4156
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5816
+Gradient Norm After Clipping: 0.5816
+Gradient Norm Before Clipping: 0.5757
+Gradient Norm After Clipping: 0.5757
+Gradient Norm Before Clipping: 0.5567
+Gradient Norm After Clipping: 0.5567
+Gradient Norm Before Clipping: 0.1579
+Gradient Norm After Clipping: 0.1579
+Gradient Norm Before Clipping: 0.2684
+Gradient Norm After Clipping: 0.2684
+Gradient Norm Before Clipping: 0.6181
+Gradient Norm After Clipping: 0.6181
+Gradient Norm Before Clipping: 1.3351
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1051
+Gradient Norm After Clipping: 0.1051
+Gradient Norm Before Clipping: 0.1574
+Gradient Norm After Clipping: 0.1574
+Gradient Norm Before Clipping: 1.8146
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2960
+Gradient Norm After Clipping: 0.2960
+Gradient Norm Before Clipping: 0.4548
+Gradient Norm After Clipping: 0.4548
+Gradient Norm Before Clipping: 0.7516
+Gradient Norm After Clipping: 0.7516
+Gradient Norm Before Clipping: 0.7477
+Gradient Norm After Clipping: 0.7477
+Gradient Norm Before Clipping: 0.0678
+Gradient Norm After Clipping: 0.0678
+Gradient Norm Before Clipping: 1.7024
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4211
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6784
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5474
+Gradient Norm After Clipping: 0.5474
+Gradient Norm Before Clipping: 1.9701
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2313
+Gradient Norm After Clipping: 0.2313
+Gradient Norm Before Clipping: 0.8029
+Gradient Norm After Clipping: 0.8029
+Gradient Norm Before Clipping: 2.0808
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0950
+Gradient Norm After Clipping: 0.0950
+Gradient Norm Before Clipping: 0.2152
+Gradient Norm After Clipping: 0.2152
+Gradient Norm Before Clipping: 0.7553
+Gradient Norm After Clipping: 0.7553
+Gradient Norm Before Clipping: 0.2457
+Gradient Norm After Clipping: 0.2457
+Gradient Norm Before Clipping: 0.3325
+Gradient Norm After Clipping: 0.3325
+Gradient Norm Before Clipping: 2.4065
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0718
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5256
+Gradient Norm After Clipping: 0.5256
+Gradient Norm Before Clipping: 0.8145
+Gradient Norm After Clipping: 0.8145
+Gradient Norm Before Clipping: 1.3933
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0177
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2248
+Gradient Norm After Clipping: 0.2248
+Gradient Norm Before Clipping: 0.3017
+Gradient Norm After Clipping: 0.3017
+Gradient Norm Before Clipping: 0.9164
+Gradient Norm After Clipping: 0.9164
+Gradient Norm Before Clipping: 0.6158
+Gradient Norm After Clipping: 0.6158
+Gradient Norm Before Clipping: 0.0392
+Gradient Norm After Clipping: 0.0392
+Gradient Norm Before Clipping: 0.5508
+Gradient Norm After Clipping: 0.5508
+Gradient Norm Before Clipping: 0.6549
+Gradient Norm After Clipping: 0.6549
+Gradient Norm Before Clipping: 0.9176
+Gradient Norm After Clipping: 0.9176
+Gradient Norm Before Clipping: 0.2100
+Gradient Norm After Clipping: 0.2100
+Gradient Norm Before Clipping: 0.0881
+Gradient Norm After Clipping: 0.0881
+Gradient Norm Before Clipping: 0.1193
+Gradient Norm After Clipping: 0.1193
+Gradient Norm Before Clipping: 0.1970
+Gradient Norm After Clipping: 0.1970
+Gradient Norm Before Clipping: 0.1982
+Gradient Norm After Clipping: 0.1982
+Gradient Norm Before Clipping: 0.6035
+Gradient Norm After Clipping: 0.6035
+Gradient Norm Before Clipping: 0.0520
+Gradient Norm After Clipping: 0.0520
+Gradient Norm Before Clipping: 1.4787
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6654
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5471
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9431
+Gradient Norm After Clipping: 0.9431
+Gradient Norm Before Clipping: 0.0957
+Gradient Norm After Clipping: 0.0957
+Gradient Norm Before Clipping: 1.5755
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0921
+Gradient Norm After Clipping: 0.0921
+Gradient Norm Before Clipping: 0.3708
+Gradient Norm After Clipping: 0.3708
+Gradient Norm Before Clipping: 0.1663
+Gradient Norm After Clipping: 0.1663
+Gradient Norm Before Clipping: 1.4487
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1921
+Gradient Norm After Clipping: 0.1921
+Gradient Norm Before Clipping: 0.7689
+Gradient Norm After Clipping: 0.7689
+Gradient Norm Before Clipping: 0.5573
+Gradient Norm After Clipping: 0.5573
+Gradient Norm Before Clipping: 1.8210
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1684
+Gradient Norm After Clipping: 0.1684
+Gradient Norm Before Clipping: 0.8487
+Gradient Norm After Clipping: 0.8487
+Gradient Norm Before Clipping: 1.4807
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3206
+Gradient Norm After Clipping: 0.3206
+Gradient Norm Before Clipping: 0.7161
+Gradient Norm After Clipping: 0.7161
+Gradient Norm Before Clipping: 0.2942
+Gradient Norm After Clipping: 0.2942
+Gradient Norm Before Clipping: 1.0988
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4308
+Gradient Norm After Clipping: 0.4308
+Gradient Norm Before Clipping: 0.1654
+Gradient Norm After Clipping: 0.1654
+Gradient Norm Before Clipping: 0.3356
+Gradient Norm After Clipping: 0.3356
+Gradient Norm Before Clipping: 0.5503
+Gradient Norm After Clipping: 0.5503
+Gradient Norm Before Clipping: 0.6021
+Gradient Norm After Clipping: 0.6021
+Gradient Norm Before Clipping: 0.6656
+Gradient Norm After Clipping: 0.6656
+Gradient Norm Before Clipping: 0.3414
+Gradient Norm After Clipping: 0.3414
+Gradient Norm Before Clipping: 0.4039
+Gradient Norm After Clipping: 0.4039
+Gradient Norm Before Clipping: 0.7583
+Gradient Norm After Clipping: 0.7583
+Gradient Norm Before Clipping: 0.6470
+Gradient Norm After Clipping: 0.6470
+Gradient Norm Before Clipping: 1.5968
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5714
+Gradient Norm After Clipping: 0.5714
+Gradient Norm Before Clipping: 0.9739
+Gradient Norm After Clipping: 0.9739
+Gradient Norm Before Clipping: 0.4395
+Gradient Norm After Clipping: 0.4395
+Gradient Norm Before Clipping: 0.0942
+Gradient Norm After Clipping: 0.0942
+Gradient Norm Before Clipping: 1.2327
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7054
+Gradient Norm After Clipping: 0.7054
+Gradient Norm Before Clipping: 0.8699
+Gradient Norm After Clipping: 0.8699
+Gradient Norm Before Clipping: 0.0567
+Gradient Norm After Clipping: 0.0567
+Gradient Norm Before Clipping: 0.2494
+Gradient Norm After Clipping: 0.2494
+Gradient Norm Before Clipping: 1.1045
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1262
+Gradient Norm After Clipping: 0.1262
+Gradient Norm Before Clipping: 0.1058
+Gradient Norm After Clipping: 0.1058
+Gradient Norm Before Clipping: 0.5594
+Gradient Norm After Clipping: 0.5594
+Gradient Norm Before Clipping: 0.1535
+Gradient Norm After Clipping: 0.1535
+Gradient Norm Before Clipping: 0.0863
+Gradient Norm After Clipping: 0.0863
+Gradient Norm Before Clipping: 0.1824
+Gradient Norm After Clipping: 0.1824
+Gradient Norm Before Clipping: 0.5178
+Gradient Norm After Clipping: 0.5178
+Gradient Norm Before Clipping: 0.3123
+Gradient Norm After Clipping: 0.3123
+Gradient Norm Before Clipping: 0.5753
+Gradient Norm After Clipping: 0.5753
+Gradient Norm Before Clipping: 1.1275
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1330
+Gradient Norm After Clipping: 0.1330
+Gradient Norm Before Clipping: 0.4565
+Gradient Norm After Clipping: 0.4565
+Gradient Norm Before Clipping: 0.7476
+Gradient Norm After Clipping: 0.7476
+Gradient Norm Before Clipping: 0.0439
+Gradient Norm After Clipping: 0.0439
+Gradient Norm Before Clipping: 0.4545
+Gradient Norm After Clipping: 0.4545
+Gradient Norm Before Clipping: 0.2288
+Gradient Norm After Clipping: 0.2288
+Gradient Norm Before Clipping: 0.5882
+Gradient Norm After Clipping: 0.5882
+Gradient Norm Before Clipping: 0.3740
+Gradient Norm After Clipping: 0.3740
+Gradient Norm Before Clipping: 0.3575
+Gradient Norm After Clipping: 0.3575
+Gradient Norm Before Clipping: 0.7322
+Gradient Norm After Clipping: 0.7322
+Gradient Norm Before Clipping: 0.4640
+Gradient Norm After Clipping: 0.4640
+Gradient Norm Before Clipping: 1.0159
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2104
+Gradient Norm After Clipping: 0.2104
+Gradient Norm Before Clipping: 1.0136
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4247
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1018
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3933
+Gradient Norm After Clipping: 0.3933
+Gradient Norm Before Clipping: 0.4898
+Gradient Norm After Clipping: 0.4898
+Gradient Norm Before Clipping: 0.1229
+Gradient Norm After Clipping: 0.1229
+Gradient Norm Before Clipping: 2.0511
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7846
+Gradient Norm After Clipping: 0.7846
+Gradient Norm Before Clipping: 0.7261
+Gradient Norm After Clipping: 0.7261
+Gradient Norm Before Clipping: 0.6512
+Gradient Norm After Clipping: 0.6512
+Gradient Norm Before Clipping: 0.7559
+Gradient Norm After Clipping: 0.7559
+Gradient Norm Before Clipping: 0.0885
+Gradient Norm After Clipping: 0.0885
+Gradient Norm Before Clipping: 2.1174
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1101
+Gradient Norm After Clipping: 0.1101
+Gradient Norm Before Clipping: 0.4053
+Gradient Norm After Clipping: 0.4053
+Gradient Norm Before Clipping: 0.4339
+Gradient Norm After Clipping: 0.4339
+Gradient Norm Before Clipping: 1.6215
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4609
+Gradient Norm After Clipping: 0.4609
+Gradient Norm Before Clipping: 1.7822
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8450
+Gradient Norm After Clipping: 0.8450
+Gradient Norm Before Clipping: 0.8144
+Gradient Norm After Clipping: 0.8144
+Gradient Norm Before Clipping: 0.3238
+Gradient Norm After Clipping: 0.3238
+Gradient Norm Before Clipping: 1.0345
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8125
+Gradient Norm After Clipping: 0.8125
+Gradient Norm Before Clipping: 0.5374
+Gradient Norm After Clipping: 0.5374
+Gradient Norm Before Clipping: 0.5990
+Gradient Norm After Clipping: 0.5990
+Gradient Norm Before Clipping: 1.9597
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6522
+Gradient Norm After Clipping: 0.6522
+Gradient Norm Before Clipping: 0.9906
+Gradient Norm After Clipping: 0.9906
+Gradient Norm Before Clipping: 0.3178
+Gradient Norm After Clipping: 0.3178
+Gradient Norm Before Clipping: 0.4352
+Gradient Norm After Clipping: 0.4352
+Gradient Norm Before Clipping: 1.6714
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4207
+Gradient Norm After Clipping: 0.4207
+Gradient Norm Before Clipping: 1.6376
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6863
+Gradient Norm After Clipping: 0.6863
+Gradient Norm Before Clipping: 0.0422
+Gradient Norm After Clipping: 0.0422
+Gradient Norm Before Clipping: 0.4148
+Gradient Norm After Clipping: 0.4148
+Gradient Norm Before Clipping: 0.5751
+Gradient Norm After Clipping: 0.5751
+Gradient Norm Before Clipping: 0.5730
+Gradient Norm After Clipping: 0.5730
+Gradient Norm Before Clipping: 0.5938
+Gradient Norm After Clipping: 0.5938
+Gradient Norm Before Clipping: 1.5330
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0477
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3470
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2726
+Gradient Norm After Clipping: 0.2726
+Gradient Norm Before Clipping: 1.3849
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1565
+Gradient Norm After Clipping: 0.1565
+Gradient Norm Before Clipping: 0.1685
+Gradient Norm After Clipping: 0.1685
+Gradient Norm Before Clipping: 0.4633
+Gradient Norm After Clipping: 0.4633
+Gradient Norm Before Clipping: 1.2421
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0136
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4618
+Gradient Norm After Clipping: 0.4618
+Gradient Norm Before Clipping: 0.1644
+Gradient Norm After Clipping: 0.1644
+Gradient Norm Before Clipping: 0.9765
+Gradient Norm After Clipping: 0.9765
+Gradient Norm Before Clipping: 0.1224
+Gradient Norm After Clipping: 0.1224
+Gradient Norm Before Clipping: 0.4788
+Gradient Norm After Clipping: 0.4788
+Gradient Norm Before Clipping: 0.2868
+Gradient Norm After Clipping: 0.2868
+Gradient Norm Before Clipping: 0.4734
+Gradient Norm After Clipping: 0.4734
+Gradient Norm Before Clipping: 0.1611
+Gradient Norm After Clipping: 0.1611
+Gradient Norm Before Clipping: 1.2289
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2041
+Gradient Norm After Clipping: 0.2041
+Gradient Norm Before Clipping: 1.0106
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9049
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6890
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8823
+Gradient Norm After Clipping: 0.8823
+Gradient Norm Before Clipping: 2.4425
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7385
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2243
+Gradient Norm After Clipping: 0.2243
+Gradient Norm Before Clipping: 0.9930
+Gradient Norm After Clipping: 0.9930
+Gradient Norm Before Clipping: 0.5633
+Gradient Norm After Clipping: 0.5633
+Gradient Norm Before Clipping: 1.4013
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8160
+Gradient Norm After Clipping: 0.8160
+Gradient Norm Before Clipping: 0.5391
+Gradient Norm After Clipping: 0.5391
+Gradient Norm Before Clipping: 0.1112
+Gradient Norm After Clipping: 0.1112
+Gradient Norm Before Clipping: 1.4852
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1392
+Gradient Norm After Clipping: 0.1392
+Gradient Norm Before Clipping: 1.0319
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0234
+Gradient Norm After Clipping: 0.0234
+Gradient Norm Before Clipping: 1.5746
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1273
+Gradient Norm After Clipping: 0.1273
+Gradient Norm Before Clipping: 0.2331
+Gradient Norm After Clipping: 0.2331
+Gradient Norm Before Clipping: 0.7292
+Gradient Norm After Clipping: 0.7292
+Gradient Norm Before Clipping: 2.5202
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3596
+Gradient Norm After Clipping: 0.3596
+Gradient Norm Before Clipping: 1.0618
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4775
+Gradient Norm After Clipping: 0.4775
+Gradient Norm Before Clipping: 1.6256
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2592
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3074
+Gradient Norm After Clipping: 0.3074
+Gradient Norm Before Clipping: 0.8205
+Gradient Norm After Clipping: 0.8205
+Gradient Norm Before Clipping: 0.6829
+Gradient Norm After Clipping: 0.6829
+Gradient Norm Before Clipping: 1.1975
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1790
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0261
+Gradient Norm After Clipping: 0.0261
+Gradient Norm Before Clipping: 0.7025
+Gradient Norm After Clipping: 0.7025
+Gradient Norm Before Clipping: 1.4301
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.7364
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3105
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8831
+Gradient Norm After Clipping: 0.8831
+Gradient Norm Before Clipping: 0.0250
+Gradient Norm After Clipping: 0.0250
+Gradient Norm Before Clipping: 0.0859
+Gradient Norm After Clipping: 0.0859
+Gradient Norm Before Clipping: 1.8159
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5432
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6099
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2319
+Gradient Norm After Clipping: 0.2319
+Gradient Norm Before Clipping: 0.8118
+Gradient Norm After Clipping: 0.8118
+Gradient Norm Before Clipping: 0.3810
+Gradient Norm After Clipping: 0.3810
+Gradient Norm Before Clipping: 0.8479
+Gradient Norm After Clipping: 0.8479
+Gradient Norm Before Clipping: 0.6603
+Gradient Norm After Clipping: 0.6603
+Gradient Norm Before Clipping: 0.1860
+Gradient Norm After Clipping: 0.1860
+Gradient Norm Before Clipping: 1.1050
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3318
+Gradient Norm After Clipping: 0.3318
+Gradient Norm Before Clipping: 0.2302
+Gradient Norm After Clipping: 0.2302
+Gradient Norm Before Clipping: 0.6967
+Gradient Norm After Clipping: 0.6967
+Gradient Norm Before Clipping: 0.4117
+Gradient Norm After Clipping: 0.4117
+Gradient Norm Before Clipping: 1.9729
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8656
+Gradient Norm After Clipping: 0.8656
+Gradient Norm Before Clipping: 1.0234
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8835
+Gradient Norm After Clipping: 0.8835
+Gradient Norm Before Clipping: 1.2652
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4401
+Gradient Norm After Clipping: 0.4401
+Gradient Norm Before Clipping: 1.6851
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2156
+Gradient Norm After Clipping: 0.2156
+Gradient Norm Before Clipping: 0.1913
+Gradient Norm After Clipping: 0.1913
+Gradient Norm Before Clipping: 1.2855
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3207
+Gradient Norm After Clipping: 0.3207
+Gradient Norm Before Clipping: 0.0940
+Gradient Norm After Clipping: 0.0940
+Gradient Norm Before Clipping: 0.7380
+Gradient Norm After Clipping: 0.7380
+Gradient Norm Before Clipping: 0.8980
+Gradient Norm After Clipping: 0.8980
+Gradient Norm Before Clipping: 1.3354
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5459
+Gradient Norm After Clipping: 0.5459
+Gradient Norm Before Clipping: 0.4672
+Gradient Norm After Clipping: 0.4672
+Gradient Norm Before Clipping: 0.7993
+Gradient Norm After Clipping: 0.7993
+Gradient Norm Before Clipping: 0.8558
+Gradient Norm After Clipping: 0.8558
+Gradient Norm Before Clipping: 1.8474
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0982
+Gradient Norm After Clipping: 0.0982
+Gradient Norm Before Clipping: 1.3123
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9642
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4548
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0443
+Gradient Norm After Clipping: 0.0443
+Gradient Norm Before Clipping: 1.4412
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1755
+Gradient Norm After Clipping: 0.1755
+Gradient Norm Before Clipping: 0.1366
+Gradient Norm After Clipping: 0.1366
+Gradient Norm Before Clipping: 1.7735
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1307
+Gradient Norm After Clipping: 0.1307
+Gradient Norm Before Clipping: 0.0286
+Gradient Norm After Clipping: 0.0286
+Gradient Norm Before Clipping: 0.6198
+Gradient Norm After Clipping: 0.6198
+Gradient Norm Before Clipping: 0.7867
+Gradient Norm After Clipping: 0.7867
+Gradient Norm Before Clipping: 0.9755
+Gradient Norm After Clipping: 0.9755
+Gradient Norm Before Clipping: 0.3057
+Gradient Norm After Clipping: 0.3057
+Gradient Norm Before Clipping: 1.3096
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5961
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6324
+Gradient Norm After Clipping: 0.6324
+Gradient Norm Before Clipping: 0.3658
+Gradient Norm After Clipping: 0.3658
+Gradient Norm Before Clipping: 0.3168
+Gradient Norm After Clipping: 0.3168
+Gradient Norm Before Clipping: 0.2522
+Gradient Norm After Clipping: 0.2522
+Gradient Norm Before Clipping: 1.2440
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0483
+Gradient Norm After Clipping: 0.0483
+Gradient Norm Before Clipping: 0.3526
+Gradient Norm After Clipping: 0.3526
+Gradient Norm Before Clipping: 0.4576
+Gradient Norm After Clipping: 0.4576
+Gradient Norm Before Clipping: 1.0458
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5458
+Gradient Norm After Clipping: 0.5458
+Gradient Norm Before Clipping: 1.0938
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9447
+Gradient Norm After Clipping: 0.9447
+Gradient Norm Before Clipping: 1.0427
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2361
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8539
+Gradient Norm After Clipping: 0.8539
+Gradient Norm Before Clipping: 0.4569
+Gradient Norm After Clipping: 0.4569
+Gradient Norm Before Clipping: 0.5334
+Gradient Norm After Clipping: 0.5334
+Gradient Norm Before Clipping: 0.7587
+Gradient Norm After Clipping: 0.7587
+Gradient Norm Before Clipping: 1.6323
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2347
+Gradient Norm After Clipping: 0.2347
+Gradient Norm Before Clipping: 0.2958
+Gradient Norm After Clipping: 0.2958
+Gradient Norm Before Clipping: 1.0483
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7210
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0911
+Gradient Norm After Clipping: 0.0911
+Gradient Norm Before Clipping: 0.5083
+Gradient Norm After Clipping: 0.5083
+Gradient Norm Before Clipping: 0.8820
+Gradient Norm After Clipping: 0.8820
+Gradient Norm Before Clipping: 1.0517
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1995
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9762
+Gradient Norm After Clipping: 0.9762
+Gradient Norm Before Clipping: 0.0292
+Gradient Norm After Clipping: 0.0292
+Gradient Norm Before Clipping: 1.1393
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2590
+Gradient Norm After Clipping: 0.2590
+Gradient Norm Before Clipping: 1.1733
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5617
+Gradient Norm After Clipping: 0.5617
+Gradient Norm Before Clipping: 2.2825
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7493
+Gradient Norm After Clipping: 0.7493
+Gradient Norm Before Clipping: 1.1404
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4364
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4179
+Gradient Norm After Clipping: 0.4179
+Gradient Norm Before Clipping: 0.6819
+Gradient Norm After Clipping: 0.6819
+Gradient Norm Before Clipping: 0.3879
+Gradient Norm After Clipping: 0.3879
+Gradient Norm Before Clipping: 0.8210
+Gradient Norm After Clipping: 0.8210
+Gradient Norm Before Clipping: 0.2221
+Gradient Norm After Clipping: 0.2221
+Gradient Norm Before Clipping: 1.4793
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2402
+Gradient Norm After Clipping: 0.2402
+Gradient Norm Before Clipping: 0.3092
+Gradient Norm After Clipping: 0.3092
+Gradient Norm Before Clipping: 1.3461
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1878
+Gradient Norm After Clipping: 0.1878
+Gradient Norm Before Clipping: 1.0542
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0919
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5067
+Gradient Norm After Clipping: 0.5067
+Gradient Norm Before Clipping: 1.1659
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1262
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6382
+Gradient Norm After Clipping: 0.6382
+Gradient Norm Before Clipping: 0.7856
+Gradient Norm After Clipping: 0.7856
+Gradient Norm Before Clipping: 0.2105
+Gradient Norm After Clipping: 0.2105
+Gradient Norm Before Clipping: 0.1267
+Gradient Norm After Clipping: 0.1267
+Gradient Norm Before Clipping: 0.2066
+Gradient Norm After Clipping: 0.2066
+Gradient Norm Before Clipping: 2.2415
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2111
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6234
+Gradient Norm After Clipping: 0.6234
+Gradient Norm Before Clipping: 0.2858
+Gradient Norm After Clipping: 0.2858
+Gradient Norm Before Clipping: 0.6967
+Gradient Norm After Clipping: 0.6967
+Gradient Norm Before Clipping: 0.9417
+Gradient Norm After Clipping: 0.9417
+Gradient Norm Before Clipping: 0.1727
+Gradient Norm After Clipping: 0.1727
+Gradient Norm Before Clipping: 0.3020
+Gradient Norm After Clipping: 0.3020
+Gradient Norm Before Clipping: 0.8292
+Gradient Norm After Clipping: 0.8292
+Gradient Norm Before Clipping: 0.4394
+Gradient Norm After Clipping: 0.4394
+Gradient Norm Before Clipping: 1.4725
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2018
+Gradient Norm After Clipping: 0.2018
+Gradient Norm Before Clipping: 0.1267
+Gradient Norm After Clipping: 0.1267
+Gradient Norm Before Clipping: 1.1176
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4518
+Gradient Norm After Clipping: 0.4518
+Gradient Norm Before Clipping: 0.9588
+Gradient Norm After Clipping: 0.9588
+Gradient Norm Before Clipping: 0.9366
+Gradient Norm After Clipping: 0.9366
+Gradient Norm Before Clipping: 0.7370
+Gradient Norm After Clipping: 0.7370
+Gradient Norm Before Clipping: 0.5557
+Gradient Norm After Clipping: 0.5557
+Gradient Norm Before Clipping: 0.3435
+Gradient Norm After Clipping: 0.3435
+Gradient Norm Before Clipping: 0.0959
+Gradient Norm After Clipping: 0.0959
+Gradient Norm Before Clipping: 1.4352
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2604
+Gradient Norm After Clipping: 0.2604
+Gradient Norm Before Clipping: 0.0311
+Gradient Norm After Clipping: 0.0311
+Gradient Norm Before Clipping: 0.5504
+Gradient Norm After Clipping: 0.5504
+Gradient Norm Before Clipping: 0.1638
+Gradient Norm After Clipping: 0.1638
+Gradient Norm Before Clipping: 0.4037
+Gradient Norm After Clipping: 0.4037
+Gradient Norm Before Clipping: 0.1488
+Gradient Norm After Clipping: 0.1488
+Epoch:  1 | Step:  500 | Train Loss:  0.35317426919937134
+Epoch:  1 | Step:  1 | Val Loss:  0.5195971727371216
+Epoch:  1 | Step:  2 | Val Loss:  0.6064119338989258
+Epoch:  1 | Step:  3 | Val Loss:  0.4522557258605957
+Epoch:  1 | Step:  4 | Val Loss:  0.6135090589523315
+Epoch:  1 | Step:  5 | Val Loss:  0.6013590097427368
+Epoch:  1 | Step:  6 | Val Loss:  0.5354572534561157
+Epoch:  1 | Step:  7 | Val Loss:  0.43028831481933594
+Epoch:  1 | Step:  8 | Val Loss:  0.6902813911437988
+Epoch:  1 | Step:  9 | Val Loss:  0.42045271396636963
+Epoch:  1 | Step:  10 | Val Loss:  0.5175976753234863
+Epoch:  1 | Step:  11 | Val Loss:  0.5383260250091553
+Epoch:  1 | Step:  12 | Val Loss:  0.3625567555427551
+Epoch:  1 | Step:  13 | Val Loss:  0.47687071561813354
+Epoch:  1 | Step:  14 | Val Loss:  0.4982546269893646
+Epoch:  1 | Step:  15 | Val Loss:  0.46197012066841125
+Epoch:  1 | Step:  16 | Val Loss:  0.7731278538703918
+Epoch:  1 | Step:  17 | Val Loss:  0.46949708461761475
+Epoch:  1 | Step:  18 | Val Loss:  0.3216175436973572
+Epoch:  1 | Step:  19 | Val Loss:  0.2555058002471924
+Epoch:  1 | Step:  20 | Val Loss:  0.676586925983429
+Epoch:  1 | Step:  21 | Val Loss:  0.48619240522384644
+Epoch:  1 | Step:  22 | Val Loss:  0.41806840896606445
+Epoch:  1 | Step:  23 | Val Loss:  0.418174684047699
+Epoch:  1 | Step:  24 | Val Loss:  0.559198260307312
+Epoch:  1 | Step:  25 | Val Loss:  0.48529982566833496
+Epoch:  1 | Step:  26 | Val Loss:  0.5339683890342712
+Epoch:  1 | Step:  27 | Val Loss:  0.5142213106155396
+Epoch:  1 | Step:  28 | Val Loss:  0.5061110258102417
+Epoch:  1 | Step:  29 | Val Loss:  0.4615015983581543
+Epoch:  1 | Step:  30 | Val Loss:  0.41972100734710693
+Epoch:  1 | Step:  31 | Val Loss:  0.5838539600372314
+Epoch:  1 | Step:  32 | Val Loss:  0.6232683062553406
+Epoch:  1 | Step:  33 | Val Loss:  0.5160496234893799
+Epoch:  1 | Step:  34 | Val Loss:  0.49025413393974304
+Epoch:  1 | Step:  35 | Val Loss:  0.5148741006851196
+Epoch:  1 | Step:  36 | Val Loss:  0.42019763588905334
+Epoch:  1 | Step:  37 | Val Loss:  0.7729916572570801
+Epoch:  1 | Step:  38 | Val Loss:  0.6518243551254272
+Epoch:  1 | Step:  39 | Val Loss:  0.6538266539573669
+Epoch:  1 | Step:  40 | Val Loss:  0.7438993453979492
+Epoch:  1 | Step:  41 | Val Loss:  0.7013429999351501
+Epoch:  1 | Step:  42 | Val Loss:  0.47191500663757324
+Epoch:  1 | Step:  43 | Val Loss:  0.4491598606109619
+Epoch:  1 | Step:  44 | Val Loss:  0.6751821041107178
+Epoch:  1 | Step:  45 | Val Loss:  0.4747997522354126
+Epoch:  1 | Step:  46 | Val Loss:  0.5487139225006104
+Epoch:  1 | Step:  47 | Val Loss:  0.4557236433029175
+Epoch:  1 | Step:  48 | Val Loss:  0.36014312505722046
+Epoch:  1 | Step:  49 | Val Loss:  0.49421393871307373
+Epoch:  1 | Step:  50 | Val Loss:  0.666728675365448
+Epoch:  1 | Step:  51 | Val Loss:  0.5942549705505371
+Epoch:  1 | Step:  52 | Val Loss:  0.4781094491481781
+Epoch:  1 | Step:  53 | Val Loss:  0.4061203896999359
+Epoch:  1 | Step:  54 | Val Loss:  0.49540966749191284
+Epoch:  1 | Step:  55 | Val Loss:  0.5741283297538757
+Epoch:  1 | Step:  56 | Val Loss:  0.5224541425704956
+Epoch:  1 | Step:  57 | Val Loss:  0.38090670108795166
+Epoch:  1 | Step:  58 | Val Loss:  0.38415777683258057
+Epoch:  1 | Step:  59 | Val Loss:  0.5622959136962891
+Epoch:  1 | Step:  60 | Val Loss:  0.26510605216026306
+Epoch:  1 | Step:  61 | Val Loss:  0.5383107662200928
+Epoch:  1 | Step:  62 | Val Loss:  0.6048319339752197
+Epoch:  1 | Step:  63 | Val Loss:  0.6890406608581543
+Epoch:  1 | Step:  64 | Val Loss:  0.4681582450866699
+Epoch:  1 | Step:  65 | Val Loss:  0.4294600188732147
+Epoch:  1 | Step:  66 | Val Loss:  0.5512830018997192
+Epoch:  1 | Step:  67 | Val Loss:  0.4387209415435791
+Epoch:  1 | Step:  68 | Val Loss:  0.45609530806541443
+Epoch:  1 | Step:  69 | Val Loss:  0.6383566856384277
+Epoch:  1 | Step:  70 | Val Loss:  0.4453752934932709
+Epoch:  1 | Step:  71 | Val Loss:  0.510847806930542
+Epoch:  1 | Step:  72 | Val Loss:  0.6306176781654358
+Epoch:  1 | Step:  73 | Val Loss:  0.5338515043258667
+Epoch:  1 | Step:  74 | Val Loss:  0.39034560322761536
+Epoch:  1 | Step:  75 | Val Loss:  0.40157178044319153
+Epoch:  1 | Step:  76 | Val Loss:  0.5254862904548645
+Epoch:  1 | Step:  77 | Val Loss:  0.5817364454269409
+Epoch:  1 | Step:  78 | Val Loss:  0.47097498178482056
+Epoch:  1 | Step:  79 | Val Loss:  0.5408065319061279
+Epoch:  1 | Step:  80 | Val Loss:  0.39922580122947693
+Epoch:  1 | Step:  81 | Val Loss:  0.5623993873596191
+Epoch:  1 | Step:  82 | Val Loss:  0.4766271412372589
+Epoch:  1 | Step:  83 | Val Loss:  0.4991966187953949
+Epoch:  1 | Step:  84 | Val Loss:  0.5624806880950928
+Epoch:  1 | Step:  85 | Val Loss:  0.4798658490180969
+Epoch:  1 | Step:  86 | Val Loss:  0.434131383895874
+Epoch:  1 | Step:  87 | Val Loss:  0.6531854271888733
+Epoch:  1 | Step:  88 | Val Loss:  0.33694878220558167
+Epoch:  1 | Step:  89 | Val Loss:  0.4793589115142822
+Epoch:  1 | Step:  90 | Val Loss:  0.5927501320838928
+Epoch:  1 | Step:  91 | Val Loss:  0.6045364141464233
+Epoch:  1 | Step:  92 | Val Loss:  0.5304569005966187
+Epoch:  1 | Step:  93 | Val Loss:  0.4850347638130188
+Epoch:  1 | Step:  94 | Val Loss:  0.5325753092765808
+Epoch:  1 | Step:  95 | Val Loss:  0.5372328162193298
+Epoch:  1 | Step:  96 | Val Loss:  0.5056705474853516
+Epoch:  1 | Step:  97 | Val Loss:  0.4314221143722534
+Epoch:  1 | Step:  98 | Val Loss:  0.5487080216407776
+Epoch:  1 | Step:  99 | Val Loss:  0.6084674596786499
+Epoch:  1 | Step:  100 | Val Loss:  0.6382366418838501
+Epoch:  1 | Step:  101 | Val Loss:  0.4396233558654785
+Epoch:  1 | Step:  102 | Val Loss:  0.4499889016151428
+Epoch:  1 | Step:  103 | Val Loss:  0.5270153880119324
+Epoch:  1 | Step:  104 | Val Loss:  0.4062317907810211
+Epoch:  1 | Step:  105 | Val Loss:  0.5380983352661133
+Epoch:  1 | Step:  106 | Val Loss:  0.3739813566207886
+Epoch:  1 | Step:  107 | Val Loss:  0.35278213024139404
+Epoch:  1 | Step:  108 | Val Loss:  0.5775762796401978
+Epoch:  1 | Step:  109 | Val Loss:  0.54860520362854
+Epoch:  1 | Step:  110 | Val Loss:  0.6111920475959778
+Epoch:  1 | Step:  111 | Val Loss:  0.7092515230178833
+Epoch:  1 | Step:  112 | Val Loss:  0.4287559986114502
+Epoch:  1 | Step:  113 | Val Loss:  0.45420223474502563
+Epoch:  1 | Step:  114 | Val Loss:  0.5986214876174927
+Epoch:  1 | Step:  115 | Val Loss:  0.408286988735199
+Epoch:  1 | Step:  116 | Val Loss:  0.4753311574459076
+Epoch:  1 | Step:  117 | Val Loss:  0.5934410095214844
+Epoch:  1 | Step:  118 | Val Loss:  0.30477917194366455
+Epoch:  1 | Step:  119 | Val Loss:  0.4380809962749481
+Epoch:  1 | Step:  120 | Val Loss:  0.6525468826293945
+Epoch:  1 | Step:  121 | Val Loss:  0.589816153049469
+Epoch:  1 | Step:  122 | Val Loss:  0.5055752992630005
+Epoch:  1 | Step:  123 | Val Loss:  0.7846217155456543
+Epoch:  1 | Step:  124 | Val Loss:  0.3999001979827881
+Epoch:  1 | Step:  125 | Val Loss:  0.5276581048965454
+Epoch:  1 | Train Loss:  tensor(0.5180, device='cuda:0') | Val Loss:  tensor(0.5152, device='cuda:0')
+Gradient Norm Before Clipping: 0.7837
+Gradient Norm After Clipping: 0.7837
+Gradient Norm Before Clipping: 0.6860
+Gradient Norm After Clipping: 0.6860
+Gradient Norm Before Clipping: 0.8748
+Gradient Norm After Clipping: 0.8748
+Gradient Norm Before Clipping: 0.3350
+Gradient Norm After Clipping: 0.3350
+Gradient Norm Before Clipping: 0.8781
+Gradient Norm After Clipping: 0.8781
+Gradient Norm Before Clipping: 0.9078
+Gradient Norm After Clipping: 0.9078
+Gradient Norm Before Clipping: 0.6378
+Gradient Norm After Clipping: 0.6378
+Gradient Norm Before Clipping: 0.9635
+Gradient Norm After Clipping: 0.9635
+Gradient Norm Before Clipping: 1.0845
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8215
+Gradient Norm After Clipping: 0.8215
+Gradient Norm Before Clipping: 0.6039
+Gradient Norm After Clipping: 0.6039
+Gradient Norm Before Clipping: 1.3024
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2537
+Gradient Norm After Clipping: 0.2537
+Gradient Norm Before Clipping: 0.3953
+Gradient Norm After Clipping: 0.3953
+Gradient Norm Before Clipping: 0.8299
+Gradient Norm After Clipping: 0.8299
+Gradient Norm Before Clipping: 0.6962
+Gradient Norm After Clipping: 0.6962
+Gradient Norm Before Clipping: 0.1470
+Gradient Norm After Clipping: 0.1470
+Gradient Norm Before Clipping: 0.2198
+Gradient Norm After Clipping: 0.2198
+Gradient Norm Before Clipping: 0.1453
+Gradient Norm After Clipping: 0.1453
+Gradient Norm Before Clipping: 0.5841
+Gradient Norm After Clipping: 0.5841
+Gradient Norm Before Clipping: 0.2676
+Gradient Norm After Clipping: 0.2676
+Gradient Norm Before Clipping: 0.7606
+Gradient Norm After Clipping: 0.7606
+Gradient Norm Before Clipping: 0.3835
+Gradient Norm After Clipping: 0.3835
+Gradient Norm Before Clipping: 1.1257
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1297
+Gradient Norm After Clipping: 0.1297
+Gradient Norm Before Clipping: 0.5301
+Gradient Norm After Clipping: 0.5301
+Gradient Norm Before Clipping: 0.3574
+Gradient Norm After Clipping: 0.3574
+Gradient Norm Before Clipping: 0.7004
+Gradient Norm After Clipping: 0.7004
+Gradient Norm Before Clipping: 0.7504
+Gradient Norm After Clipping: 0.7504
+Gradient Norm Before Clipping: 0.8004
+Gradient Norm After Clipping: 0.8004
+Gradient Norm Before Clipping: 0.2315
+Gradient Norm After Clipping: 0.2315
+Gradient Norm Before Clipping: 0.9657
+Gradient Norm After Clipping: 0.9657
+Gradient Norm Before Clipping: 0.4481
+Gradient Norm After Clipping: 0.4481
+Gradient Norm Before Clipping: 1.5031
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2224
+Gradient Norm After Clipping: 0.2224
+Gradient Norm Before Clipping: 1.2179
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1114
+Gradient Norm After Clipping: 0.1114
+Gradient Norm Before Clipping: 0.0356
+Gradient Norm After Clipping: 0.0356
+Gradient Norm Before Clipping: 0.5110
+Gradient Norm After Clipping: 0.5110
+Gradient Norm Before Clipping: 0.5428
+Gradient Norm After Clipping: 0.5428
+Gradient Norm Before Clipping: 0.8368
+Gradient Norm After Clipping: 0.8368
+Gradient Norm Before Clipping: 0.2183
+Gradient Norm After Clipping: 0.2183
+Gradient Norm Before Clipping: 0.6562
+Gradient Norm After Clipping: 0.6562
+Gradient Norm Before Clipping: 0.1724
+Gradient Norm After Clipping: 0.1724
+Gradient Norm Before Clipping: 0.4596
+Gradient Norm After Clipping: 0.4596
+Gradient Norm Before Clipping: 0.9485
+Gradient Norm After Clipping: 0.9485
+Gradient Norm Before Clipping: 1.6599
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7281
+Gradient Norm After Clipping: 0.7281
+Gradient Norm Before Clipping: 0.1964
+Gradient Norm After Clipping: 0.1964
+Gradient Norm Before Clipping: 0.0805
+Gradient Norm After Clipping: 0.0805
+Gradient Norm Before Clipping: 1.5908
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5358
+Gradient Norm After Clipping: 0.5358
+Gradient Norm Before Clipping: 0.6924
+Gradient Norm After Clipping: 0.6924
+Gradient Norm Before Clipping: 0.9015
+Gradient Norm After Clipping: 0.9015
+Gradient Norm Before Clipping: 0.4507
+Gradient Norm After Clipping: 0.4507
+Gradient Norm Before Clipping: 0.1046
+Gradient Norm After Clipping: 0.1046
+Gradient Norm Before Clipping: 0.4869
+Gradient Norm After Clipping: 0.4869
+Gradient Norm Before Clipping: 0.1975
+Gradient Norm After Clipping: 0.1975
+Gradient Norm Before Clipping: 2.2028
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3310
+Gradient Norm After Clipping: 0.3310
+Gradient Norm Before Clipping: 0.7891
+Gradient Norm After Clipping: 0.7891
+Gradient Norm Before Clipping: 0.3896
+Gradient Norm After Clipping: 0.3896
+Gradient Norm Before Clipping: 0.0972
+Gradient Norm After Clipping: 0.0972
+Gradient Norm Before Clipping: 0.4951
+Gradient Norm After Clipping: 0.4951
+Gradient Norm Before Clipping: 1.2426
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1694
+Gradient Norm After Clipping: 0.1694
+Gradient Norm Before Clipping: 0.1005
+Gradient Norm After Clipping: 0.1005
+Gradient Norm Before Clipping: 0.2743
+Gradient Norm After Clipping: 0.2743
+Gradient Norm Before Clipping: 0.7052
+Gradient Norm After Clipping: 0.7052
+Gradient Norm Before Clipping: 1.0203
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0811
+Gradient Norm After Clipping: 0.0811
+Gradient Norm Before Clipping: 0.5699
+Gradient Norm After Clipping: 0.5699
+Gradient Norm Before Clipping: 0.4540
+Gradient Norm After Clipping: 0.4540
+Gradient Norm Before Clipping: 1.0331
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9769
+Gradient Norm After Clipping: 0.9769
+Gradient Norm Before Clipping: 1.9069
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9849
+Gradient Norm After Clipping: 0.9849
+Gradient Norm Before Clipping: 0.1342
+Gradient Norm After Clipping: 0.1342
+Gradient Norm Before Clipping: 1.7101
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0251
+Gradient Norm After Clipping: 0.0251
+Gradient Norm Before Clipping: 1.0989
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9291
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6669
+Gradient Norm After Clipping: 0.6669
+Gradient Norm Before Clipping: 1.0142
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5032
+Gradient Norm After Clipping: 0.5032
+Gradient Norm Before Clipping: 0.9697
+Gradient Norm After Clipping: 0.9697
+Gradient Norm Before Clipping: 2.1615
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2060
+Gradient Norm After Clipping: 0.2060
+Gradient Norm Before Clipping: 0.1007
+Gradient Norm After Clipping: 0.1007
+Gradient Norm Before Clipping: 0.2665
+Gradient Norm After Clipping: 0.2665
+Gradient Norm Before Clipping: 0.9857
+Gradient Norm After Clipping: 0.9857
+Gradient Norm Before Clipping: 1.0498
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2202
+Gradient Norm After Clipping: 0.2202
+Gradient Norm Before Clipping: 0.5186
+Gradient Norm After Clipping: 0.5186
+Gradient Norm Before Clipping: 0.5565
+Gradient Norm After Clipping: 0.5565
+Gradient Norm Before Clipping: 0.1704
+Gradient Norm After Clipping: 0.1704
+Gradient Norm Before Clipping: 0.2742
+Gradient Norm After Clipping: 0.2742
+Gradient Norm Before Clipping: 0.0604
+Gradient Norm After Clipping: 0.0604
+Gradient Norm Before Clipping: 0.2000
+Gradient Norm After Clipping: 0.2000
+Gradient Norm Before Clipping: 0.4722
+Gradient Norm After Clipping: 0.4722
+Gradient Norm Before Clipping: 1.8239
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3345
+Gradient Norm After Clipping: 0.3345
+Gradient Norm Before Clipping: 1.1604
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8507
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2140
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2907
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3006
+Gradient Norm After Clipping: 0.3006
+Gradient Norm Before Clipping: 0.1032
+Gradient Norm After Clipping: 0.1032
+Gradient Norm Before Clipping: 1.5829
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2010
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1563
+Gradient Norm After Clipping: 0.1563
+Gradient Norm Before Clipping: 2.2434
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0842
+Gradient Norm After Clipping: 0.0842
+Gradient Norm Before Clipping: 1.3972
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1487
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1949
+Gradient Norm After Clipping: 0.1949
+Gradient Norm Before Clipping: 0.2726
+Gradient Norm After Clipping: 0.2726
+Gradient Norm Before Clipping: 0.9508
+Gradient Norm After Clipping: 0.9508
+Gradient Norm Before Clipping: 0.6701
+Gradient Norm After Clipping: 0.6701
+Gradient Norm Before Clipping: 0.0819
+Gradient Norm After Clipping: 0.0819
+Gradient Norm Before Clipping: 0.3267
+Gradient Norm After Clipping: 0.3267
+Gradient Norm Before Clipping: 0.7878
+Gradient Norm After Clipping: 0.7878
+Gradient Norm Before Clipping: 0.3511
+Gradient Norm After Clipping: 0.3511
+Gradient Norm Before Clipping: 0.5542
+Gradient Norm After Clipping: 0.5542
+Gradient Norm Before Clipping: 0.3281
+Gradient Norm After Clipping: 0.3281
+Gradient Norm Before Clipping: 0.5209
+Gradient Norm After Clipping: 0.5209
+Gradient Norm Before Clipping: 0.1196
+Gradient Norm After Clipping: 0.1196
+Gradient Norm Before Clipping: 0.0385
+Gradient Norm After Clipping: 0.0385
+Gradient Norm Before Clipping: 0.3395
+Gradient Norm After Clipping: 0.3395
+Gradient Norm Before Clipping: 0.3078
+Gradient Norm After Clipping: 0.3078
+Gradient Norm Before Clipping: 1.1990
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5391
+Gradient Norm After Clipping: 0.5391
+Gradient Norm Before Clipping: 1.2898
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3402
+Gradient Norm After Clipping: 0.3402
+Gradient Norm Before Clipping: 1.0100
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5159
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7027
+Gradient Norm After Clipping: 0.7027
+Gradient Norm Before Clipping: 1.4603
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7833
+Gradient Norm After Clipping: 0.7833
+Gradient Norm Before Clipping: 0.9192
+Gradient Norm After Clipping: 0.9192
+Gradient Norm Before Clipping: 0.9223
+Gradient Norm After Clipping: 0.9223
+Gradient Norm Before Clipping: 0.2249
+Gradient Norm After Clipping: 0.2249
+Gradient Norm Before Clipping: 0.5997
+Gradient Norm After Clipping: 0.5997
+Gradient Norm Before Clipping: 0.5422
+Gradient Norm After Clipping: 0.5422
+Gradient Norm Before Clipping: 1.1536
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6907
+Gradient Norm After Clipping: 0.6907
+Gradient Norm Before Clipping: 0.8726
+Gradient Norm After Clipping: 0.8726
+Gradient Norm Before Clipping: 0.4888
+Gradient Norm After Clipping: 0.4888
+Gradient Norm Before Clipping: 2.3900
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7879
+Gradient Norm After Clipping: 0.7879
+Gradient Norm Before Clipping: 0.3258
+Gradient Norm After Clipping: 0.3258
+Gradient Norm Before Clipping: 2.9987
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1423
+Gradient Norm After Clipping: 0.1423
+Gradient Norm Before Clipping: 0.2013
+Gradient Norm After Clipping: 0.2013
+Gradient Norm Before Clipping: 0.0902
+Gradient Norm After Clipping: 0.0902
+Gradient Norm Before Clipping: 1.1913
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9743
+Gradient Norm After Clipping: 0.9743
+Gradient Norm Before Clipping: 0.5267
+Gradient Norm After Clipping: 0.5267
+Gradient Norm Before Clipping: 0.4870
+Gradient Norm After Clipping: 0.4870
+Gradient Norm Before Clipping: 0.4772
+Gradient Norm After Clipping: 0.4772
+Gradient Norm Before Clipping: 0.4450
+Gradient Norm After Clipping: 0.4450
+Gradient Norm Before Clipping: 0.1351
+Gradient Norm After Clipping: 0.1351
+Gradient Norm Before Clipping: 0.2523
+Gradient Norm After Clipping: 0.2523
+Gradient Norm Before Clipping: 0.1792
+Gradient Norm After Clipping: 0.1792
+Gradient Norm Before Clipping: 2.3849
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9414
+Gradient Norm After Clipping: 0.9414
+Gradient Norm Before Clipping: 0.1694
+Gradient Norm After Clipping: 0.1694
+Gradient Norm Before Clipping: 0.3417
+Gradient Norm After Clipping: 0.3417
+Gradient Norm Before Clipping: 0.4442
+Gradient Norm After Clipping: 0.4442
+Gradient Norm Before Clipping: 0.1399
+Gradient Norm After Clipping: 0.1399
+Gradient Norm Before Clipping: 1.0895
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5684
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1185
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1251
+Gradient Norm After Clipping: 0.1251
+Gradient Norm Before Clipping: 0.6332
+Gradient Norm After Clipping: 0.6332
+Gradient Norm Before Clipping: 1.4389
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4365
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1334
+Gradient Norm After Clipping: 0.1334
+Gradient Norm Before Clipping: 0.2999
+Gradient Norm After Clipping: 0.2999
+Gradient Norm Before Clipping: 0.1525
+Gradient Norm After Clipping: 0.1525
+Gradient Norm Before Clipping: 1.0222
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3914
+Gradient Norm After Clipping: 0.3914
+Gradient Norm Before Clipping: 2.0592
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0097
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8597
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0605
+Gradient Norm After Clipping: 0.0605
+Gradient Norm Before Clipping: 1.9286
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2969
+Gradient Norm After Clipping: 0.2969
+Gradient Norm Before Clipping: 0.3593
+Gradient Norm After Clipping: 0.3593
+Gradient Norm Before Clipping: 0.2245
+Gradient Norm After Clipping: 0.2245
+Gradient Norm Before Clipping: 0.3036
+Gradient Norm After Clipping: 0.3036
+Gradient Norm Before Clipping: 0.7137
+Gradient Norm After Clipping: 0.7137
+Gradient Norm Before Clipping: 1.3129
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5506
+Gradient Norm After Clipping: 0.5506
+Gradient Norm Before Clipping: 0.0644
+Gradient Norm After Clipping: 0.0644
+Gradient Norm Before Clipping: 0.0614
+Gradient Norm After Clipping: 0.0614
+Gradient Norm Before Clipping: 1.3769
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9559
+Gradient Norm After Clipping: 0.9559
+Gradient Norm Before Clipping: 0.7163
+Gradient Norm After Clipping: 0.7163
+Gradient Norm Before Clipping: 0.7945
+Gradient Norm After Clipping: 0.7945
+Gradient Norm Before Clipping: 0.1108
+Gradient Norm After Clipping: 0.1108
+Gradient Norm Before Clipping: 1.4855
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4353
+Gradient Norm After Clipping: 0.4353
+Gradient Norm Before Clipping: 0.7282
+Gradient Norm After Clipping: 0.7282
+Gradient Norm Before Clipping: 0.6246
+Gradient Norm After Clipping: 0.6246
+Gradient Norm Before Clipping: 3.0053
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6257
+Gradient Norm After Clipping: 0.6257
+Gradient Norm Before Clipping: 1.1291
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0963
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7957
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7536
+Gradient Norm After Clipping: 0.7536
+Gradient Norm Before Clipping: 0.7403
+Gradient Norm After Clipping: 0.7403
+Gradient Norm Before Clipping: 0.7206
+Gradient Norm After Clipping: 0.7206
+Gradient Norm Before Clipping: 1.1179
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.9705
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0425
+Gradient Norm After Clipping: 0.0425
+Gradient Norm Before Clipping: 0.8674
+Gradient Norm After Clipping: 0.8674
+Gradient Norm Before Clipping: 0.6313
+Gradient Norm After Clipping: 0.6313
+Gradient Norm Before Clipping: 1.6415
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3676
+Gradient Norm After Clipping: 0.3676
+Gradient Norm Before Clipping: 1.4199
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0527
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8332
+Gradient Norm After Clipping: 0.8332
+Gradient Norm Before Clipping: 0.8695
+Gradient Norm After Clipping: 0.8695
+Gradient Norm Before Clipping: 0.9857
+Gradient Norm After Clipping: 0.9857
+Gradient Norm Before Clipping: 0.4952
+Gradient Norm After Clipping: 0.4952
+Gradient Norm Before Clipping: 1.5075
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1237
+Gradient Norm After Clipping: 0.1237
+Gradient Norm Before Clipping: 1.0073
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0804
+Gradient Norm After Clipping: 0.0804
+Gradient Norm Before Clipping: 0.2489
+Gradient Norm After Clipping: 0.2489
+Gradient Norm Before Clipping: 2.0933
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5929
+Gradient Norm After Clipping: 0.5929
+Gradient Norm Before Clipping: 0.4345
+Gradient Norm After Clipping: 0.4345
+Gradient Norm Before Clipping: 0.7365
+Gradient Norm After Clipping: 0.7365
+Gradient Norm Before Clipping: 1.2728
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8498
+Gradient Norm After Clipping: 0.8498
+Gradient Norm Before Clipping: 0.0915
+Gradient Norm After Clipping: 0.0915
+Gradient Norm Before Clipping: 2.2798
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8583
+Gradient Norm After Clipping: 0.8583
+Gradient Norm Before Clipping: 0.1636
+Gradient Norm After Clipping: 0.1636
+Gradient Norm Before Clipping: 0.2039
+Gradient Norm After Clipping: 0.2039
+Gradient Norm Before Clipping: 1.4952
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6368
+Gradient Norm After Clipping: 0.6368
+Gradient Norm Before Clipping: 2.8580
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7397
+Gradient Norm After Clipping: 0.7397
+Gradient Norm Before Clipping: 0.6487
+Gradient Norm After Clipping: 0.6487
+Gradient Norm Before Clipping: 0.3734
+Gradient Norm After Clipping: 0.3734
+Gradient Norm Before Clipping: 0.5109
+Gradient Norm After Clipping: 0.5109
+Gradient Norm Before Clipping: 0.7401
+Gradient Norm After Clipping: 0.7401
+Gradient Norm Before Clipping: 0.6022
+Gradient Norm After Clipping: 0.6022
+Gradient Norm Before Clipping: 2.3539
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9161
+Gradient Norm After Clipping: 0.9161
+Gradient Norm Before Clipping: 0.9197
+Gradient Norm After Clipping: 0.9197
+Gradient Norm Before Clipping: 0.7772
+Gradient Norm After Clipping: 0.7772
+Gradient Norm Before Clipping: 0.2849
+Gradient Norm After Clipping: 0.2849
+Gradient Norm Before Clipping: 0.4145
+Gradient Norm After Clipping: 0.4145
+Gradient Norm Before Clipping: 0.3403
+Gradient Norm After Clipping: 0.3403
+Gradient Norm Before Clipping: 0.1247
+Gradient Norm After Clipping: 0.1247
+Gradient Norm Before Clipping: 1.5474
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1626
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2797
+Gradient Norm After Clipping: 0.2797
+Gradient Norm Before Clipping: 0.5763
+Gradient Norm After Clipping: 0.5763
+Gradient Norm Before Clipping: 0.8574
+Gradient Norm After Clipping: 0.8574
+Gradient Norm Before Clipping: 0.1179
+Gradient Norm After Clipping: 0.1179
+Gradient Norm Before Clipping: 1.6388
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1270
+Gradient Norm After Clipping: 0.1270
+Gradient Norm Before Clipping: 1.5199
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3432
+Gradient Norm After Clipping: 0.3432
+Gradient Norm Before Clipping: 0.5156
+Gradient Norm After Clipping: 0.5156
+Gradient Norm Before Clipping: 0.9827
+Gradient Norm After Clipping: 0.9827
+Gradient Norm Before Clipping: 0.1932
+Gradient Norm After Clipping: 0.1932
+Gradient Norm Before Clipping: 0.2441
+Gradient Norm After Clipping: 0.2441
+Gradient Norm Before Clipping: 1.7800
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5783
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1268
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3954
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9103
+Gradient Norm After Clipping: 0.9103
+Gradient Norm Before Clipping: 0.5494
+Gradient Norm After Clipping: 0.5494
+Gradient Norm Before Clipping: 1.2824
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7627
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4849
+Gradient Norm After Clipping: 0.4849
+Gradient Norm Before Clipping: 0.2375
+Gradient Norm After Clipping: 0.2375
+Gradient Norm Before Clipping: 0.0928
+Gradient Norm After Clipping: 0.0928
+Gradient Norm Before Clipping: 1.2821
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.2958
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2395
+Gradient Norm After Clipping: 0.2395
+Gradient Norm Before Clipping: 0.3937
+Gradient Norm After Clipping: 0.3937
+Gradient Norm Before Clipping: 0.5544
+Gradient Norm After Clipping: 0.5544
+Gradient Norm Before Clipping: 0.2054
+Gradient Norm After Clipping: 0.2054
+Gradient Norm Before Clipping: 1.5550
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0533
+Gradient Norm After Clipping: 0.0533
+Gradient Norm Before Clipping: 0.3370
+Gradient Norm After Clipping: 0.3370
+Gradient Norm Before Clipping: 0.7252
+Gradient Norm After Clipping: 0.7252
+Gradient Norm Before Clipping: 1.6951
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4210
+Gradient Norm After Clipping: 0.4210
+Gradient Norm Before Clipping: 1.3226
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8709
+Gradient Norm After Clipping: 0.8709
+Gradient Norm Before Clipping: 0.2026
+Gradient Norm After Clipping: 0.2026
+Gradient Norm Before Clipping: 1.6372
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7723
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0930
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5565
+Gradient Norm After Clipping: 0.5565
+Gradient Norm Before Clipping: 0.1744
+Gradient Norm After Clipping: 0.1744
+Gradient Norm Before Clipping: 2.1739
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2875
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4709
+Gradient Norm After Clipping: 0.4709
+Gradient Norm Before Clipping: 0.5898
+Gradient Norm After Clipping: 0.5898
+Gradient Norm Before Clipping: 1.6473
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0788
+Gradient Norm After Clipping: 0.0788
+Gradient Norm Before Clipping: 1.3401
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6186
+Gradient Norm After Clipping: 0.6186
+Gradient Norm Before Clipping: 0.8743
+Gradient Norm After Clipping: 0.8743
+Gradient Norm Before Clipping: 0.6533
+Gradient Norm After Clipping: 0.6533
+Gradient Norm Before Clipping: 0.3624
+Gradient Norm After Clipping: 0.3624
+Gradient Norm Before Clipping: 2.6896
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8969
+Gradient Norm After Clipping: 0.8969
+Gradient Norm Before Clipping: 0.3285
+Gradient Norm After Clipping: 0.3285
+Gradient Norm Before Clipping: 0.0946
+Gradient Norm After Clipping: 0.0946
+Gradient Norm Before Clipping: 0.6564
+Gradient Norm After Clipping: 0.6564
+Gradient Norm Before Clipping: 0.8222
+Gradient Norm After Clipping: 0.8222
+Gradient Norm Before Clipping: 1.3941
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5021
+Gradient Norm After Clipping: 0.5021
+Gradient Norm Before Clipping: 1.5345
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1959
+Gradient Norm After Clipping: 0.1959
+Gradient Norm Before Clipping: 1.5871
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4404
+Gradient Norm After Clipping: 0.4404
+Gradient Norm Before Clipping: 0.8156
+Gradient Norm After Clipping: 0.8156
+Gradient Norm Before Clipping: 0.9005
+Gradient Norm After Clipping: 0.9005
+Gradient Norm Before Clipping: 1.9679
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4096
+Gradient Norm After Clipping: 0.4096
+Gradient Norm Before Clipping: 0.4320
+Gradient Norm After Clipping: 0.4320
+Gradient Norm Before Clipping: 0.3741
+Gradient Norm After Clipping: 0.3741
+Gradient Norm Before Clipping: 0.0727
+Gradient Norm After Clipping: 0.0727
+Gradient Norm Before Clipping: 1.5858
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3432
+Gradient Norm After Clipping: 0.3432
+Gradient Norm Before Clipping: 1.4986
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5188
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4247
+Gradient Norm After Clipping: 0.4247
+Gradient Norm Before Clipping: 0.1029
+Gradient Norm After Clipping: 0.1029
+Gradient Norm Before Clipping: 0.0653
+Gradient Norm After Clipping: 0.0653
+Gradient Norm Before Clipping: 0.6648
+Gradient Norm After Clipping: 0.6648
+Gradient Norm Before Clipping: 0.2590
+Gradient Norm After Clipping: 0.2590
+Gradient Norm Before Clipping: 1.0908
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6790
+Gradient Norm After Clipping: 0.6790
+Gradient Norm Before Clipping: 1.8882
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5247
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5153
+Gradient Norm After Clipping: 0.5153
+Gradient Norm Before Clipping: 0.7886
+Gradient Norm After Clipping: 0.7886
+Gradient Norm Before Clipping: 0.1017
+Gradient Norm After Clipping: 0.1017
+Gradient Norm Before Clipping: 0.9015
+Gradient Norm After Clipping: 0.9015
+Gradient Norm Before Clipping: 0.3104
+Gradient Norm After Clipping: 0.3104
+Gradient Norm Before Clipping: 0.2619
+Gradient Norm After Clipping: 0.2619
+Gradient Norm Before Clipping: 0.8679
+Gradient Norm After Clipping: 0.8679
+Gradient Norm Before Clipping: 0.3065
+Gradient Norm After Clipping: 0.3065
+Gradient Norm Before Clipping: 0.6680
+Gradient Norm After Clipping: 0.6680
+Gradient Norm Before Clipping: 0.4767
+Gradient Norm After Clipping: 0.4767
+Gradient Norm Before Clipping: 0.6820
+Gradient Norm After Clipping: 0.6820
+Gradient Norm Before Clipping: 0.9355
+Gradient Norm After Clipping: 0.9355
+Gradient Norm Before Clipping: 0.7363
+Gradient Norm After Clipping: 0.7363
+Gradient Norm Before Clipping: 0.3850
+Gradient Norm After Clipping: 0.3850
+Gradient Norm Before Clipping: 1.8262
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0814
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1635
+Gradient Norm After Clipping: 0.1635
+Gradient Norm Before Clipping: 0.0528
+Gradient Norm After Clipping: 0.0528
+Gradient Norm Before Clipping: 1.1170
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3952
+Gradient Norm After Clipping: 0.3952
+Gradient Norm Before Clipping: 0.1401
+Gradient Norm After Clipping: 0.1401
+Gradient Norm Before Clipping: 0.1759
+Gradient Norm After Clipping: 0.1759
+Gradient Norm Before Clipping: 1.5532
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3335
+Gradient Norm After Clipping: 0.3335
+Gradient Norm Before Clipping: 1.7666
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0376
+Gradient Norm After Clipping: 0.0376
+Gradient Norm Before Clipping: 0.5468
+Gradient Norm After Clipping: 0.5468
+Gradient Norm Before Clipping: 0.0599
+Gradient Norm After Clipping: 0.0599
+Gradient Norm Before Clipping: 0.6476
+Gradient Norm After Clipping: 0.6476
+Gradient Norm Before Clipping: 0.5554
+Gradient Norm After Clipping: 0.5554
+Gradient Norm Before Clipping: 0.8764
+Gradient Norm After Clipping: 0.8764
+Gradient Norm Before Clipping: 1.0608
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6230
+Gradient Norm After Clipping: 0.6230
+Gradient Norm Before Clipping: 1.3271
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0880
+Gradient Norm After Clipping: 0.0880
+Gradient Norm Before Clipping: 0.1463
+Gradient Norm After Clipping: 0.1463
+Gradient Norm Before Clipping: 0.6708
+Gradient Norm After Clipping: 0.6708
+Gradient Norm Before Clipping: 0.7431
+Gradient Norm After Clipping: 0.7431
+Gradient Norm Before Clipping: 0.0282
+Gradient Norm After Clipping: 0.0282
+Gradient Norm Before Clipping: 0.4407
+Gradient Norm After Clipping: 0.4407
+Gradient Norm Before Clipping: 0.7816
+Gradient Norm After Clipping: 0.7816
+Gradient Norm Before Clipping: 0.5281
+Gradient Norm After Clipping: 0.5281
+Gradient Norm Before Clipping: 0.0578
+Gradient Norm After Clipping: 0.0578
+Gradient Norm Before Clipping: 1.4740
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2928
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0574
+Gradient Norm After Clipping: 0.0574
+Gradient Norm Before Clipping: 1.3756
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1992
+Gradient Norm After Clipping: 0.1992
+Gradient Norm Before Clipping: 0.7450
+Gradient Norm After Clipping: 0.7450
+Gradient Norm Before Clipping: 0.2187
+Gradient Norm After Clipping: 0.2187
+Gradient Norm Before Clipping: 0.5311
+Gradient Norm After Clipping: 0.5311
+Gradient Norm Before Clipping: 1.8761
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6564
+Gradient Norm After Clipping: 0.6564
+Gradient Norm Before Clipping: 1.2585
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8768
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3644
+Gradient Norm After Clipping: 0.3644
+Gradient Norm Before Clipping: 0.5866
+Gradient Norm After Clipping: 0.5866
+Gradient Norm Before Clipping: 0.5287
+Gradient Norm After Clipping: 0.5287
+Gradient Norm Before Clipping: 1.4021
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8452
+Gradient Norm After Clipping: 0.8452
+Gradient Norm Before Clipping: 0.7582
+Gradient Norm After Clipping: 0.7582
+Gradient Norm Before Clipping: 1.8610
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2804
+Gradient Norm After Clipping: 0.2804
+Gradient Norm Before Clipping: 1.9926
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9517
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8853
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2667
+Gradient Norm After Clipping: 0.2667
+Gradient Norm Before Clipping: 1.3992
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6081
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4105
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8410
+Gradient Norm After Clipping: 0.8410
+Gradient Norm Before Clipping: 0.4062
+Gradient Norm After Clipping: 0.4062
+Gradient Norm Before Clipping: 0.1261
+Gradient Norm After Clipping: 0.1261
+Gradient Norm Before Clipping: 0.4457
+Gradient Norm After Clipping: 0.4457
+Gradient Norm Before Clipping: 0.0423
+Gradient Norm After Clipping: 0.0423
+Gradient Norm Before Clipping: 1.3575
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9771
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2627
+Gradient Norm After Clipping: 0.2627
+Gradient Norm Before Clipping: 1.0405
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2640
+Gradient Norm After Clipping: 0.2640
+Gradient Norm Before Clipping: 0.4296
+Gradient Norm After Clipping: 0.4296
+Gradient Norm Before Clipping: 0.8370
+Gradient Norm After Clipping: 0.8370
+Gradient Norm Before Clipping: 1.1153
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6197
+Gradient Norm After Clipping: 0.6197
+Gradient Norm Before Clipping: 0.3244
+Gradient Norm After Clipping: 0.3244
+Gradient Norm Before Clipping: 0.0407
+Gradient Norm After Clipping: 0.0407
+Gradient Norm Before Clipping: 0.4692
+Gradient Norm After Clipping: 0.4692
+Gradient Norm Before Clipping: 0.7548
+Gradient Norm After Clipping: 0.7548
+Gradient Norm Before Clipping: 1.2867
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9062
+Gradient Norm After Clipping: 0.9062
+Gradient Norm Before Clipping: 0.5133
+Gradient Norm After Clipping: 0.5133
+Gradient Norm Before Clipping: 1.7222
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1281
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1070
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2069
+Gradient Norm After Clipping: 0.2069
+Gradient Norm Before Clipping: 0.5295
+Gradient Norm After Clipping: 0.5295
+Gradient Norm Before Clipping: 0.5867
+Gradient Norm After Clipping: 0.5867
+Gradient Norm Before Clipping: 2.5551
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 3.0829
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4191
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0633
+Gradient Norm After Clipping: 0.0633
+Gradient Norm Before Clipping: 0.4900
+Gradient Norm After Clipping: 0.4900
+Gradient Norm Before Clipping: 0.9126
+Gradient Norm After Clipping: 0.9126
+Gradient Norm Before Clipping: 2.1886
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3842
+Gradient Norm After Clipping: 0.3842
+Gradient Norm Before Clipping: 0.0810
+Gradient Norm After Clipping: 0.0810
+Gradient Norm Before Clipping: 1.1773
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.3437
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7686
+Gradient Norm After Clipping: 0.7686
+Gradient Norm Before Clipping: 0.5970
+Gradient Norm After Clipping: 0.5970
+Gradient Norm Before Clipping: 1.1693
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0912
+Gradient Norm After Clipping: 0.0912
+Gradient Norm Before Clipping: 1.0098
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0716
+Gradient Norm After Clipping: 0.0716
+Gradient Norm Before Clipping: 0.3885
+Gradient Norm After Clipping: 0.3885
+Gradient Norm Before Clipping: 0.6910
+Gradient Norm After Clipping: 0.6910
+Gradient Norm Before Clipping: 0.6839
+Gradient Norm After Clipping: 0.6839
+Gradient Norm Before Clipping: 1.3198
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0837
+Gradient Norm After Clipping: 0.0837
+Gradient Norm Before Clipping: 0.7121
+Gradient Norm After Clipping: 0.7121
+Gradient Norm Before Clipping: 1.2363
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6302
+Gradient Norm After Clipping: 0.6302
+Gradient Norm Before Clipping: 0.3486
+Gradient Norm After Clipping: 0.3486
+Gradient Norm Before Clipping: 0.7048
+Gradient Norm After Clipping: 0.7048
+Gradient Norm Before Clipping: 0.5579
+Gradient Norm After Clipping: 0.5579
+Gradient Norm Before Clipping: 0.2277
+Gradient Norm After Clipping: 0.2277
+Gradient Norm Before Clipping: 1.3478
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4571
+Gradient Norm After Clipping: 0.4571
+Gradient Norm Before Clipping: 1.5692
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7724
+Gradient Norm After Clipping: 0.7724
+Gradient Norm Before Clipping: 0.0319
+Gradient Norm After Clipping: 0.0319
+Gradient Norm Before Clipping: 0.0351
+Gradient Norm After Clipping: 0.0351
+Gradient Norm Before Clipping: 0.3456
+Gradient Norm After Clipping: 0.3456
+Gradient Norm Before Clipping: 0.4862
+Gradient Norm After Clipping: 0.4862
+Gradient Norm Before Clipping: 0.2928
+Gradient Norm After Clipping: 0.2928
+Gradient Norm Before Clipping: 1.1485
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5159
+Gradient Norm After Clipping: 0.5159
+Gradient Norm Before Clipping: 0.9009
+Gradient Norm After Clipping: 0.9009
+Gradient Norm Before Clipping: 0.4183
+Gradient Norm After Clipping: 0.4183
+Gradient Norm Before Clipping: 0.2450
+Gradient Norm After Clipping: 0.2450
+Gradient Norm Before Clipping: 0.4584
+Gradient Norm After Clipping: 0.4584
+Gradient Norm Before Clipping: 1.3797
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0991
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3189
+Gradient Norm After Clipping: 0.3189
+Gradient Norm Before Clipping: 1.1809
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.1409
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4020
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6686
+Gradient Norm After Clipping: 0.6686
+Gradient Norm Before Clipping: 0.2743
+Gradient Norm After Clipping: 0.2743
+Gradient Norm Before Clipping: 0.6946
+Gradient Norm After Clipping: 0.6946
+Gradient Norm Before Clipping: 0.8110
+Gradient Norm After Clipping: 0.8110
+Gradient Norm Before Clipping: 0.5003
+Gradient Norm After Clipping: 0.5003
+Epoch:  2 | Step:  500 | Train Loss:  0.5047597289085388
+Epoch:  2 | Step:  1 | Val Loss:  0.5686779022216797
+Epoch:  2 | Step:  2 | Val Loss:  0.44239410758018494
+Epoch:  2 | Step:  3 | Val Loss:  0.6031875014305115
+Epoch:  2 | Step:  4 | Val Loss:  0.5394174456596375
+Epoch:  2 | Step:  5 | Val Loss:  0.5377049446105957
+Epoch:  2 | Step:  6 | Val Loss:  0.4627852141857147
+Epoch:  2 | Step:  7 | Val Loss:  0.5795187950134277
+Epoch:  2 | Step:  8 | Val Loss:  0.40416380763053894
+Epoch:  2 | Step:  9 | Val Loss:  0.5548516511917114
+Epoch:  2 | Step:  10 | Val Loss:  0.458918035030365
+Epoch:  2 | Step:  11 | Val Loss:  0.566394031047821
+Epoch:  2 | Step:  12 | Val Loss:  0.49674129486083984
+Epoch:  2 | Step:  13 | Val Loss:  0.4359125792980194
+Epoch:  2 | Step:  14 | Val Loss:  0.449817955493927
+Epoch:  2 | Step:  15 | Val Loss:  0.49961307644844055
+Epoch:  2 | Step:  16 | Val Loss:  0.5995736122131348
+Epoch:  2 | Step:  17 | Val Loss:  0.47174564003944397
+Epoch:  2 | Step:  18 | Val Loss:  0.5252948999404907
+Epoch:  2 | Step:  19 | Val Loss:  0.536501407623291
+Epoch:  2 | Step:  20 | Val Loss:  0.3975059688091278
+Epoch:  2 | Step:  21 | Val Loss:  0.5135277509689331
+Epoch:  2 | Step:  22 | Val Loss:  0.5289477109909058
+Epoch:  2 | Step:  23 | Val Loss:  0.39365577697753906
+Epoch:  2 | Step:  24 | Val Loss:  0.4975069761276245
+Epoch:  2 | Step:  25 | Val Loss:  0.43719232082366943
+Epoch:  2 | Step:  26 | Val Loss:  0.6481756567955017
+Epoch:  2 | Step:  27 | Val Loss:  0.3906894326210022
+Epoch:  2 | Step:  28 | Val Loss:  0.5560402870178223
+Epoch:  2 | Step:  29 | Val Loss:  0.7315863370895386
+Epoch:  2 | Step:  30 | Val Loss:  0.411815345287323
+Epoch:  2 | Step:  31 | Val Loss:  0.34212779998779297
+Epoch:  2 | Step:  32 | Val Loss:  0.5390547513961792
+Epoch:  2 | Step:  33 | Val Loss:  0.47962355613708496
+Epoch:  2 | Step:  34 | Val Loss:  0.5010770559310913
+Epoch:  2 | Step:  35 | Val Loss:  0.5015904903411865
+Epoch:  2 | Step:  36 | Val Loss:  0.5678123235702515
+Epoch:  2 | Step:  37 | Val Loss:  0.3971100449562073
+Epoch:  2 | Step:  38 | Val Loss:  0.4900096654891968
+Epoch:  2 | Step:  39 | Val Loss:  0.5296025276184082
+Epoch:  2 | Step:  40 | Val Loss:  0.573632001876831
+Epoch:  2 | Step:  41 | Val Loss:  0.5245749950408936
+Epoch:  2 | Step:  42 | Val Loss:  0.3205697536468506
+Epoch:  2 | Step:  43 | Val Loss:  0.40407997369766235
+Epoch:  2 | Step:  44 | Val Loss:  0.5582515001296997
+Epoch:  2 | Step:  45 | Val Loss:  0.5882883071899414
+Epoch:  2 | Step:  46 | Val Loss:  0.623082160949707
+Epoch:  2 | Step:  47 | Val Loss:  0.4720897972583771
+Epoch:  2 | Step:  48 | Val Loss:  0.5204135179519653
+Epoch:  2 | Step:  49 | Val Loss:  0.486025869846344
+Epoch:  2 | Step:  50 | Val Loss:  0.6143592000007629
+Epoch:  2 | Step:  51 | Val Loss:  0.5635756850242615
+Epoch:  2 | Step:  52 | Val Loss:  0.473464697599411
+Epoch:  2 | Step:  53 | Val Loss:  0.4572793245315552
+Epoch:  2 | Step:  54 | Val Loss:  0.44641929864883423
+Epoch:  2 | Step:  55 | Val Loss:  0.5522390007972717
+Epoch:  2 | Step:  56 | Val Loss:  0.6550699472427368
+Epoch:  2 | Step:  57 | Val Loss:  0.43473637104034424
+Epoch:  2 | Step:  58 | Val Loss:  0.4413668215274811
+Epoch:  2 | Step:  59 | Val Loss:  0.7383716106414795
+Epoch:  2 | Step:  60 | Val Loss:  0.5261287689208984
+Epoch:  2 | Step:  61 | Val Loss:  0.6479325294494629
+Epoch:  2 | Step:  62 | Val Loss:  0.48157423734664917
+Epoch:  2 | Step:  63 | Val Loss:  0.5007355213165283
+Epoch:  2 | Step:  64 | Val Loss:  0.4860556125640869
+Epoch:  2 | Step:  65 | Val Loss:  0.5385689735412598
+Epoch:  2 | Step:  66 | Val Loss:  0.5971068143844604
+Epoch:  2 | Step:  67 | Val Loss:  0.5177456140518188
+Epoch:  2 | Step:  68 | Val Loss:  0.5445913672447205
+Epoch:  2 | Step:  69 | Val Loss:  0.43376508355140686
+Epoch:  2 | Step:  70 | Val Loss:  0.44700291752815247
+Epoch:  2 | Step:  71 | Val Loss:  0.5506590604782104
+Epoch:  2 | Step:  72 | Val Loss:  0.4115029573440552
+Epoch:  2 | Step:  73 | Val Loss:  0.4007532298564911
+Epoch:  2 | Step:  74 | Val Loss:  0.6767928600311279
+Epoch:  2 | Step:  75 | Val Loss:  0.5799089074134827
+Epoch:  2 | Step:  76 | Val Loss:  0.5339216589927673
+Epoch:  2 | Step:  77 | Val Loss:  0.4870225489139557
+Epoch:  2 | Step:  78 | Val Loss:  0.5361581444740295
+Epoch:  2 | Step:  79 | Val Loss:  0.5164488554000854
+Epoch:  2 | Step:  80 | Val Loss:  0.4689829349517822
+Epoch:  2 | Step:  81 | Val Loss:  0.4833287298679352
+Epoch:  2 | Step:  82 | Val Loss:  0.7638840675354004
+Epoch:  2 | Step:  83 | Val Loss:  0.5024591684341431
+Epoch:  2 | Step:  84 | Val Loss:  0.43565183877944946
+Epoch:  2 | Step:  85 | Val Loss:  0.6083775758743286
+Epoch:  2 | Step:  86 | Val Loss:  0.5313713550567627
+Epoch:  2 | Step:  87 | Val Loss:  0.6664671897888184
+Epoch:  2 | Step:  88 | Val Loss:  0.6634466052055359
+Epoch:  2 | Step:  89 | Val Loss:  0.4726138114929199
+Epoch:  2 | Step:  90 | Val Loss:  0.7215762734413147
+Epoch:  2 | Step:  91 | Val Loss:  0.4415786564350128
+Epoch:  2 | Step:  92 | Val Loss:  0.4476931691169739
+Epoch:  2 | Step:  93 | Val Loss:  0.5127586126327515
+Epoch:  2 | Step:  94 | Val Loss:  0.40037795901298523
+Epoch:  2 | Step:  95 | Val Loss:  0.5045937299728394
+Epoch:  2 | Step:  96 | Val Loss:  0.40475308895111084
+Epoch:  2 | Step:  97 | Val Loss:  0.4535287916660309
+Epoch:  2 | Step:  98 | Val Loss:  0.547799825668335
+Epoch:  2 | Step:  99 | Val Loss:  0.48994627594947815
+Epoch:  2 | Step:  100 | Val Loss:  0.62990403175354
+Epoch:  2 | Step:  101 | Val Loss:  0.5259660482406616
+Epoch:  2 | Step:  102 | Val Loss:  0.5299733877182007
+Epoch:  2 | Step:  103 | Val Loss:  0.46826866269111633
+Epoch:  2 | Step:  104 | Val Loss:  0.45474758744239807
+Epoch:  2 | Step:  105 | Val Loss:  0.5787178874015808
+Epoch:  2 | Step:  106 | Val Loss:  0.5115972757339478
+Epoch:  2 | Step:  107 | Val Loss:  0.650551438331604
+Epoch:  2 | Step:  108 | Val Loss:  0.5924506783485413
+Epoch:  2 | Step:  109 | Val Loss:  0.6708663702011108
+Epoch:  2 | Step:  110 | Val Loss:  0.6739477515220642
+Epoch:  2 | Step:  111 | Val Loss:  0.44464102387428284
+Epoch:  2 | Step:  112 | Val Loss:  0.4622555375099182
+Epoch:  2 | Step:  113 | Val Loss:  0.3567158877849579
+Epoch:  2 | Step:  114 | Val Loss:  0.5968887805938721
+Epoch:  2 | Step:  115 | Val Loss:  0.6078298091888428
+Epoch:  2 | Step:  116 | Val Loss:  0.532244086265564
+Epoch:  2 | Step:  117 | Val Loss:  0.5846664905548096
+Epoch:  2 | Step:  118 | Val Loss:  0.40601861476898193
+Epoch:  2 | Step:  119 | Val Loss:  0.4281851053237915
+Epoch:  2 | Step:  120 | Val Loss:  0.42823532223701477
+Epoch:  2 | Step:  121 | Val Loss:  0.4510459303855896
+Epoch:  2 | Step:  122 | Val Loss:  0.4851992726325989
+Epoch:  2 | Step:  123 | Val Loss:  0.48512935638427734
+Epoch:  2 | Step:  124 | Val Loss:  0.5326687097549438
+Epoch:  2 | Step:  125 | Val Loss:  0.49943220615386963
+Epoch:  2 | Train Loss:  tensor(0.5188, device='cuda:0') | Val Loss:  tensor(0.5165, device='cuda:0')
+Gradient Norm Before Clipping: 0.3798
+Gradient Norm After Clipping: 0.3798
+Gradient Norm Before Clipping: 0.5500
+Gradient Norm After Clipping: 0.5500
+Gradient Norm Before Clipping: 0.9498
+Gradient Norm After Clipping: 0.9498
+Gradient Norm Before Clipping: 0.1483
+Gradient Norm After Clipping: 0.1483
+Gradient Norm Before Clipping: 2.5513
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1393
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9035
+Gradient Norm After Clipping: 0.9035
+Gradient Norm Before Clipping: 1.1425
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2457
+Gradient Norm After Clipping: 0.2457
+Gradient Norm Before Clipping: 0.7173
+Gradient Norm After Clipping: 0.7173
+Gradient Norm Before Clipping: 0.9585
+Gradient Norm After Clipping: 0.9585
+Gradient Norm Before Clipping: 1.2132
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9697
+Gradient Norm After Clipping: 0.9697
+Gradient Norm Before Clipping: 1.4906
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4507
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0604
+Gradient Norm After Clipping: 0.0604
+Gradient Norm Before Clipping: 0.7732
+Gradient Norm After Clipping: 0.7732
+Gradient Norm Before Clipping: 0.1514
+Gradient Norm After Clipping: 0.1514
+Gradient Norm Before Clipping: 0.1352
+Gradient Norm After Clipping: 0.1352
+Gradient Norm Before Clipping: 0.7749
+Gradient Norm After Clipping: 0.7749
+Gradient Norm Before Clipping: 0.5564
+Gradient Norm After Clipping: 0.5564
+Gradient Norm Before Clipping: 0.9363
+Gradient Norm After Clipping: 0.9363
+Gradient Norm Before Clipping: 1.7141
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5394
+Gradient Norm After Clipping: 0.5394
+Gradient Norm Before Clipping: 1.3293
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0253
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4444
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4690
+Gradient Norm After Clipping: 0.4690
+Gradient Norm Before Clipping: 0.1755
+Gradient Norm After Clipping: 0.1755
+Gradient Norm Before Clipping: 0.4067
+Gradient Norm After Clipping: 0.4067
+Gradient Norm Before Clipping: 0.1096
+Gradient Norm After Clipping: 0.1096
+Gradient Norm Before Clipping: 0.3088
+Gradient Norm After Clipping: 0.3088
+Gradient Norm Before Clipping: 0.1119
+Gradient Norm After Clipping: 0.1119
+Gradient Norm Before Clipping: 0.8122
+Gradient Norm After Clipping: 0.8122
+Gradient Norm Before Clipping: 0.4812
+Gradient Norm After Clipping: 0.4812
+Gradient Norm Before Clipping: 0.3517
+Gradient Norm After Clipping: 0.3517
+Gradient Norm Before Clipping: 0.0373
+Gradient Norm After Clipping: 0.0373
+Gradient Norm Before Clipping: 2.7569
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9910
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0264
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7569
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3852
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3145
+Gradient Norm After Clipping: 0.3145
+Gradient Norm Before Clipping: 0.5433
+Gradient Norm After Clipping: 0.5433
+Gradient Norm Before Clipping: 0.7013
+Gradient Norm After Clipping: 0.7013
+Gradient Norm Before Clipping: 0.5567
+Gradient Norm After Clipping: 0.5567
+Gradient Norm Before Clipping: 0.2722
+Gradient Norm After Clipping: 0.2722
+Gradient Norm Before Clipping: 0.3038
+Gradient Norm After Clipping: 0.3038
+Gradient Norm Before Clipping: 0.2306
+Gradient Norm After Clipping: 0.2306
+Gradient Norm Before Clipping: 0.6250
+Gradient Norm After Clipping: 0.6250
+Gradient Norm Before Clipping: 0.2630
+Gradient Norm After Clipping: 0.2630
+Gradient Norm Before Clipping: 2.4297
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3446
+Gradient Norm After Clipping: 0.3446
+Gradient Norm Before Clipping: 0.8771
+Gradient Norm After Clipping: 0.8771
+Gradient Norm Before Clipping: 1.1916
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1734
+Gradient Norm After Clipping: 0.1734
+Gradient Norm Before Clipping: 0.6701
+Gradient Norm After Clipping: 0.6701
+Gradient Norm Before Clipping: 0.1995
+Gradient Norm After Clipping: 0.1995
+Gradient Norm Before Clipping: 1.3544
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3816
+Gradient Norm After Clipping: 0.3816
+Gradient Norm Before Clipping: 1.0274
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3361
+Gradient Norm After Clipping: 0.3361
+Gradient Norm Before Clipping: 0.2225
+Gradient Norm After Clipping: 0.2225
+Gradient Norm Before Clipping: 0.1963
+Gradient Norm After Clipping: 0.1963
+Gradient Norm Before Clipping: 0.0917
+Gradient Norm After Clipping: 0.0917
+Gradient Norm Before Clipping: 0.4040
+Gradient Norm After Clipping: 0.4040
+Gradient Norm Before Clipping: 0.9267
+Gradient Norm After Clipping: 0.9267
+Gradient Norm Before Clipping: 1.1482
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6489
+Gradient Norm After Clipping: 0.6489
+Gradient Norm Before Clipping: 0.5828
+Gradient Norm After Clipping: 0.5828
+Gradient Norm Before Clipping: 1.5185
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0477
+Gradient Norm After Clipping: 0.0477
+Gradient Norm Before Clipping: 0.4169
+Gradient Norm After Clipping: 0.4169
+Gradient Norm Before Clipping: 1.4408
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9613
+Gradient Norm After Clipping: 0.9613
+Gradient Norm Before Clipping: 1.2695
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2549
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2234
+Gradient Norm After Clipping: 0.2234
+Gradient Norm Before Clipping: 1.3859
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5272
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2907
+Gradient Norm After Clipping: 0.2907
+Gradient Norm Before Clipping: 0.3577
+Gradient Norm After Clipping: 0.3577
+Gradient Norm Before Clipping: 0.2885
+Gradient Norm After Clipping: 0.2885
+Gradient Norm Before Clipping: 0.4002
+Gradient Norm After Clipping: 0.4002
+Gradient Norm Before Clipping: 0.6723
+Gradient Norm After Clipping: 0.6723
+Gradient Norm Before Clipping: 0.6536
+Gradient Norm After Clipping: 0.6536
+Gradient Norm Before Clipping: 0.3391
+Gradient Norm After Clipping: 0.3391
+Gradient Norm Before Clipping: 1.7054
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4550
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0975
+Gradient Norm After Clipping: 0.0975
+Gradient Norm Before Clipping: 0.2537
+Gradient Norm After Clipping: 0.2537
+Gradient Norm Before Clipping: 0.6588
+Gradient Norm After Clipping: 0.6588
+Gradient Norm Before Clipping: 0.3732
+Gradient Norm After Clipping: 0.3732
+Gradient Norm Before Clipping: 0.5366
+Gradient Norm After Clipping: 0.5366
+Gradient Norm Before Clipping: 0.4566
+Gradient Norm After Clipping: 0.4566
+Gradient Norm Before Clipping: 0.0580
+Gradient Norm After Clipping: 0.0580
+Gradient Norm Before Clipping: 0.1508
+Gradient Norm After Clipping: 0.1508
+Gradient Norm Before Clipping: 0.2789
+Gradient Norm After Clipping: 0.2789
+Gradient Norm Before Clipping: 1.1162
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0133
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1198
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1207
+Gradient Norm After Clipping: 0.1207
+Gradient Norm Before Clipping: 0.7484
+Gradient Norm After Clipping: 0.7484
+Gradient Norm Before Clipping: 0.9984
+Gradient Norm After Clipping: 0.9984
+Gradient Norm Before Clipping: 1.2943
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5077
+Gradient Norm After Clipping: 0.5077
+Gradient Norm Before Clipping: 0.4566
+Gradient Norm After Clipping: 0.4566
+Gradient Norm Before Clipping: 1.7655
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.6665
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7597
+Gradient Norm After Clipping: 0.7597
+Gradient Norm Before Clipping: 0.0706
+Gradient Norm After Clipping: 0.0706
+Gradient Norm Before Clipping: 0.4696
+Gradient Norm After Clipping: 0.4696
+Gradient Norm Before Clipping: 0.3893
+Gradient Norm After Clipping: 0.3893
+Gradient Norm Before Clipping: 0.9724
+Gradient Norm After Clipping: 0.9724
+Gradient Norm Before Clipping: 0.3926
+Gradient Norm After Clipping: 0.3926
+Gradient Norm Before Clipping: 0.2410
+Gradient Norm After Clipping: 0.2410
+Gradient Norm Before Clipping: 0.3977
+Gradient Norm After Clipping: 0.3977
+Gradient Norm Before Clipping: 0.7908
+Gradient Norm After Clipping: 0.7908
+Gradient Norm Before Clipping: 1.0091
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1765
+Gradient Norm After Clipping: 0.1765
+Gradient Norm Before Clipping: 1.5407
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2809
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0727
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8543
+Gradient Norm After Clipping: 0.8543
+Gradient Norm Before Clipping: 0.2908
+Gradient Norm After Clipping: 0.2908
+Gradient Norm Before Clipping: 0.5216
+Gradient Norm After Clipping: 0.5216
+Gradient Norm Before Clipping: 0.0680
+Gradient Norm After Clipping: 0.0680
+Gradient Norm Before Clipping: 0.5458
+Gradient Norm After Clipping: 0.5458
+Gradient Norm Before Clipping: 0.0531
+Gradient Norm After Clipping: 0.0531
+Gradient Norm Before Clipping: 0.2953
+Gradient Norm After Clipping: 0.2953
+Gradient Norm Before Clipping: 2.0661
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0666
+Gradient Norm After Clipping: 0.0666
+Gradient Norm Before Clipping: 0.4150
+Gradient Norm After Clipping: 0.4150
+Gradient Norm Before Clipping: 1.7215
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5415
+Gradient Norm After Clipping: 0.5415
+Gradient Norm Before Clipping: 1.4800
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9435
+Gradient Norm After Clipping: 0.9435
+Gradient Norm Before Clipping: 0.4987
+Gradient Norm After Clipping: 0.4987
+Gradient Norm Before Clipping: 2.3341
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1101
+Gradient Norm After Clipping: 0.1101
+Gradient Norm Before Clipping: 0.0415
+Gradient Norm After Clipping: 0.0415
+Gradient Norm Before Clipping: 0.3190
+Gradient Norm After Clipping: 0.3190
+Gradient Norm Before Clipping: 0.7786
+Gradient Norm After Clipping: 0.7786
+Gradient Norm Before Clipping: 0.3582
+Gradient Norm After Clipping: 0.3582
+Gradient Norm Before Clipping: 1.5746
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8346
+Gradient Norm After Clipping: 0.8346
+Gradient Norm Before Clipping: 1.1295
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3024
+Gradient Norm After Clipping: 0.3024
+Gradient Norm Before Clipping: 0.1561
+Gradient Norm After Clipping: 0.1561
+Gradient Norm Before Clipping: 0.2173
+Gradient Norm After Clipping: 0.2173
+Gradient Norm Before Clipping: 0.6281
+Gradient Norm After Clipping: 0.6281
+Gradient Norm Before Clipping: 0.0863
+Gradient Norm After Clipping: 0.0863
+Gradient Norm Before Clipping: 0.6332
+Gradient Norm After Clipping: 0.6332
+Gradient Norm Before Clipping: 0.8194
+Gradient Norm After Clipping: 0.8194
+Gradient Norm Before Clipping: 2.4780
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0989
+Gradient Norm After Clipping: 0.0989
+Gradient Norm Before Clipping: 0.7285
+Gradient Norm After Clipping: 0.7285
+Gradient Norm Before Clipping: 0.1275
+Gradient Norm After Clipping: 0.1275
+Gradient Norm Before Clipping: 0.9982
+Gradient Norm After Clipping: 0.9982
+Gradient Norm Before Clipping: 0.6422
+Gradient Norm After Clipping: 0.6422
+Gradient Norm Before Clipping: 0.6583
+Gradient Norm After Clipping: 0.6583
+Gradient Norm Before Clipping: 0.3229
+Gradient Norm After Clipping: 0.3229
+Gradient Norm Before Clipping: 0.0698
+Gradient Norm After Clipping: 0.0698
+Gradient Norm Before Clipping: 0.6818
+Gradient Norm After Clipping: 0.6818
+Gradient Norm Before Clipping: 0.6271
+Gradient Norm After Clipping: 0.6271
+Gradient Norm Before Clipping: 1.5034
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6637
+Gradient Norm After Clipping: 0.6637
+Gradient Norm Before Clipping: 0.3352
+Gradient Norm After Clipping: 0.3352
+Gradient Norm Before Clipping: 0.1150
+Gradient Norm After Clipping: 0.1150
+Gradient Norm Before Clipping: 0.5061
+Gradient Norm After Clipping: 0.5061
+Gradient Norm Before Clipping: 1.3285
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5511
+Gradient Norm After Clipping: 0.5511
+Gradient Norm Before Clipping: 0.3384
+Gradient Norm After Clipping: 0.3384
+Gradient Norm Before Clipping: 0.0585
+Gradient Norm After Clipping: 0.0585
+Gradient Norm Before Clipping: 0.5063
+Gradient Norm After Clipping: 0.5063
+Gradient Norm Before Clipping: 0.8985
+Gradient Norm After Clipping: 0.8985
+Gradient Norm Before Clipping: 0.1570
+Gradient Norm After Clipping: 0.1570
+Gradient Norm Before Clipping: 0.1538
+Gradient Norm After Clipping: 0.1538
+Gradient Norm Before Clipping: 0.7450
+Gradient Norm After Clipping: 0.7450
+Gradient Norm Before Clipping: 0.6555
+Gradient Norm After Clipping: 0.6555
+Gradient Norm Before Clipping: 0.5692
+Gradient Norm After Clipping: 0.5692
+Gradient Norm Before Clipping: 1.1405
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7281
+Gradient Norm After Clipping: 0.7281
+Gradient Norm Before Clipping: 0.4212
+Gradient Norm After Clipping: 0.4212
+Gradient Norm Before Clipping: 0.0620
+Gradient Norm After Clipping: 0.0620
+Gradient Norm Before Clipping: 0.2646
+Gradient Norm After Clipping: 0.2646
+Gradient Norm Before Clipping: 1.2977
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4770
+Gradient Norm After Clipping: 0.4770
+Gradient Norm Before Clipping: 0.0423
+Gradient Norm After Clipping: 0.0423
+Gradient Norm Before Clipping: 0.6992
+Gradient Norm After Clipping: 0.6992
+Gradient Norm Before Clipping: 0.8356
+Gradient Norm After Clipping: 0.8356
+Gradient Norm Before Clipping: 0.5262
+Gradient Norm After Clipping: 0.5262
+Gradient Norm Before Clipping: 0.9076
+Gradient Norm After Clipping: 0.9076
+Gradient Norm Before Clipping: 0.7309
+Gradient Norm After Clipping: 0.7309
+Gradient Norm Before Clipping: 1.4684
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5065
+Gradient Norm After Clipping: 0.5065
+Gradient Norm Before Clipping: 1.0927
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5307
+Gradient Norm After Clipping: 0.5307
+Gradient Norm Before Clipping: 0.4178
+Gradient Norm After Clipping: 0.4178
+Gradient Norm Before Clipping: 0.7055
+Gradient Norm After Clipping: 0.7055
+Gradient Norm Before Clipping: 0.5423
+Gradient Norm After Clipping: 0.5423
+Gradient Norm Before Clipping: 0.2024
+Gradient Norm After Clipping: 0.2024
+Gradient Norm Before Clipping: 1.5784
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7207
+Gradient Norm After Clipping: 0.7207
+Gradient Norm Before Clipping: 0.0546
+Gradient Norm After Clipping: 0.0546
+Gradient Norm Before Clipping: 0.3348
+Gradient Norm After Clipping: 0.3348
+Gradient Norm Before Clipping: 0.1409
+Gradient Norm After Clipping: 0.1409
+Gradient Norm Before Clipping: 0.1522
+Gradient Norm After Clipping: 0.1522
+Gradient Norm Before Clipping: 1.0454
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6691
+Gradient Norm After Clipping: 0.6691
+Gradient Norm Before Clipping: 0.5256
+Gradient Norm After Clipping: 0.5256
+Gradient Norm Before Clipping: 0.2853
+Gradient Norm After Clipping: 0.2853
+Gradient Norm Before Clipping: 1.5083
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3894
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.8085
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4672
+Gradient Norm After Clipping: 0.4672
+Gradient Norm Before Clipping: 1.2384
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5101
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6245
+Gradient Norm After Clipping: 0.6245
+Gradient Norm Before Clipping: 1.0187
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6675
+Gradient Norm After Clipping: 0.6675
+Gradient Norm Before Clipping: 0.3749
+Gradient Norm After Clipping: 0.3749
+Gradient Norm Before Clipping: 0.0440
+Gradient Norm After Clipping: 0.0440
+Gradient Norm Before Clipping: 0.3744
+Gradient Norm After Clipping: 0.3744
+Gradient Norm Before Clipping: 0.3451
+Gradient Norm After Clipping: 0.3451
+Gradient Norm Before Clipping: 0.0590
+Gradient Norm After Clipping: 0.0590
+Gradient Norm Before Clipping: 0.9621
+Gradient Norm After Clipping: 0.9621
+Gradient Norm Before Clipping: 0.5441
+Gradient Norm After Clipping: 0.5441
+Gradient Norm Before Clipping: 1.7343
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7664
+Gradient Norm After Clipping: 0.7664
+Gradient Norm Before Clipping: 0.5066
+Gradient Norm After Clipping: 0.5066
+Gradient Norm Before Clipping: 0.2289
+Gradient Norm After Clipping: 0.2289
+Gradient Norm Before Clipping: 0.2404
+Gradient Norm After Clipping: 0.2404
+Gradient Norm Before Clipping: 1.1829
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3226
+Gradient Norm After Clipping: 0.3226
+Gradient Norm Before Clipping: 0.1712
+Gradient Norm After Clipping: 0.1712
+Gradient Norm Before Clipping: 0.5362
+Gradient Norm After Clipping: 0.5362
+Gradient Norm Before Clipping: 0.3653
+Gradient Norm After Clipping: 0.3653
+Gradient Norm Before Clipping: 0.8135
+Gradient Norm After Clipping: 0.8135
+Gradient Norm Before Clipping: 0.0762
+Gradient Norm After Clipping: 0.0762
+Gradient Norm Before Clipping: 0.8556
+Gradient Norm After Clipping: 0.8556
+Gradient Norm Before Clipping: 1.4521
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0537
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6899
+Gradient Norm After Clipping: 0.6899
+Gradient Norm Before Clipping: 1.9112
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9754
+Gradient Norm After Clipping: 0.9754
+Gradient Norm Before Clipping: 0.0257
+Gradient Norm After Clipping: 0.0257
+Gradient Norm Before Clipping: 0.1602
+Gradient Norm After Clipping: 0.1602
+Gradient Norm Before Clipping: 1.1577
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7252
+Gradient Norm After Clipping: 0.7252
+Gradient Norm Before Clipping: 0.5125
+Gradient Norm After Clipping: 0.5125
+Gradient Norm Before Clipping: 1.7224
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3130
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1469
+Gradient Norm After Clipping: 0.1469
+Gradient Norm Before Clipping: 0.3038
+Gradient Norm After Clipping: 0.3038
+Gradient Norm Before Clipping: 2.2735
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5475
+Gradient Norm After Clipping: 0.5475
+Gradient Norm Before Clipping: 0.3026
+Gradient Norm After Clipping: 0.3026
+Gradient Norm Before Clipping: 0.1632
+Gradient Norm After Clipping: 0.1632
+Gradient Norm Before Clipping: 0.4400
+Gradient Norm After Clipping: 0.4400
+Gradient Norm Before Clipping: 0.3180
+Gradient Norm After Clipping: 0.3180
+Gradient Norm Before Clipping: 0.5792
+Gradient Norm After Clipping: 0.5792
+Gradient Norm Before Clipping: 0.5090
+Gradient Norm After Clipping: 0.5090
+Gradient Norm Before Clipping: 2.1278
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0823
+Gradient Norm After Clipping: 0.0823
+Gradient Norm Before Clipping: 0.7799
+Gradient Norm After Clipping: 0.7799
+Gradient Norm Before Clipping: 1.1876
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4789
+Gradient Norm After Clipping: 0.4789
+Gradient Norm Before Clipping: 0.3634
+Gradient Norm After Clipping: 0.3634
+Gradient Norm Before Clipping: 0.4534
+Gradient Norm After Clipping: 0.4534
+Gradient Norm Before Clipping: 0.4586
+Gradient Norm After Clipping: 0.4586
+Gradient Norm Before Clipping: 0.6468
+Gradient Norm After Clipping: 0.6468
+Gradient Norm Before Clipping: 0.6895
+Gradient Norm After Clipping: 0.6895
+Gradient Norm Before Clipping: 0.1738
+Gradient Norm After Clipping: 0.1738
+Gradient Norm Before Clipping: 0.2244
+Gradient Norm After Clipping: 0.2244
+Gradient Norm Before Clipping: 0.2628
+Gradient Norm After Clipping: 0.2628
+Gradient Norm Before Clipping: 0.0467
+Gradient Norm After Clipping: 0.0467
+Gradient Norm Before Clipping: 0.3506
+Gradient Norm After Clipping: 0.3506
+Gradient Norm Before Clipping: 0.7010
+Gradient Norm After Clipping: 0.7010
+Gradient Norm Before Clipping: 0.0634
+Gradient Norm After Clipping: 0.0634
+Gradient Norm Before Clipping: 0.1287
+Gradient Norm After Clipping: 0.1287
+Gradient Norm Before Clipping: 0.2933
+Gradient Norm After Clipping: 0.2933
+Gradient Norm Before Clipping: 0.5819
+Gradient Norm After Clipping: 0.5819
+Gradient Norm Before Clipping: 0.4973
+Gradient Norm After Clipping: 0.4973
+Gradient Norm Before Clipping: 0.5828
+Gradient Norm After Clipping: 0.5828
+Gradient Norm Before Clipping: 1.2427
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4020
+Gradient Norm After Clipping: 0.4020
+Gradient Norm Before Clipping: 0.1845
+Gradient Norm After Clipping: 0.1845
+Gradient Norm Before Clipping: 1.2199
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3228
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6469
+Gradient Norm After Clipping: 0.6469
+Gradient Norm Before Clipping: 0.1988
+Gradient Norm After Clipping: 0.1988
+Gradient Norm Before Clipping: 0.2937
+Gradient Norm After Clipping: 0.2937
+Gradient Norm Before Clipping: 0.1656
+Gradient Norm After Clipping: 0.1656
+Gradient Norm Before Clipping: 0.2745
+Gradient Norm After Clipping: 0.2745
+Gradient Norm Before Clipping: 0.4825
+Gradient Norm After Clipping: 0.4825
+Gradient Norm Before Clipping: 0.3639
+Gradient Norm After Clipping: 0.3639
+Gradient Norm Before Clipping: 0.8951
+Gradient Norm After Clipping: 0.8951
+Gradient Norm Before Clipping: 0.8473
+Gradient Norm After Clipping: 0.8473
+Gradient Norm Before Clipping: 0.0451
+Gradient Norm After Clipping: 0.0451
+Gradient Norm Before Clipping: 0.9793
+Gradient Norm After Clipping: 0.9793
+Gradient Norm Before Clipping: 1.0985
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.9495
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1250
+Gradient Norm After Clipping: 0.1250
+Gradient Norm Before Clipping: 0.0285
+Gradient Norm After Clipping: 0.0285
+Gradient Norm Before Clipping: 1.0278
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0696
+Gradient Norm After Clipping: 0.0696
+Gradient Norm Before Clipping: 0.5209
+Gradient Norm After Clipping: 0.5209
+Gradient Norm Before Clipping: 0.3406
+Gradient Norm After Clipping: 0.3406
+Gradient Norm Before Clipping: 0.3720
+Gradient Norm After Clipping: 0.3720
+Gradient Norm Before Clipping: 0.2089
+Gradient Norm After Clipping: 0.2089
+Gradient Norm Before Clipping: 0.5203
+Gradient Norm After Clipping: 0.5203
+Gradient Norm Before Clipping: 0.2895
+Gradient Norm After Clipping: 0.2895
+Gradient Norm Before Clipping: 0.3318
+Gradient Norm After Clipping: 0.3318
+Gradient Norm Before Clipping: 0.1509
+Gradient Norm After Clipping: 0.1509
+Gradient Norm Before Clipping: 0.1110
+Gradient Norm After Clipping: 0.1110
+Gradient Norm Before Clipping: 0.6033
+Gradient Norm After Clipping: 0.6033
+Gradient Norm Before Clipping: 0.6664
+Gradient Norm After Clipping: 0.6664
+Gradient Norm Before Clipping: 0.4611
+Gradient Norm After Clipping: 0.4611
+Gradient Norm Before Clipping: 0.5947
+Gradient Norm After Clipping: 0.5947
+Gradient Norm Before Clipping: 0.8284
+Gradient Norm After Clipping: 0.8284
+Gradient Norm Before Clipping: 0.1452
+Gradient Norm After Clipping: 0.1452
+Gradient Norm Before Clipping: 0.7209
+Gradient Norm After Clipping: 0.7209
+Gradient Norm Before Clipping: 0.7112
+Gradient Norm After Clipping: 0.7112
+Gradient Norm Before Clipping: 0.9619
+Gradient Norm After Clipping: 0.9619
+Gradient Norm Before Clipping: 0.2336
+Gradient Norm After Clipping: 0.2336
+Gradient Norm Before Clipping: 1.4309
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6137
+Gradient Norm After Clipping: 0.6137
+Gradient Norm Before Clipping: 0.5244
+Gradient Norm After Clipping: 0.5244
+Gradient Norm Before Clipping: 0.5116
+Gradient Norm After Clipping: 0.5116
+Gradient Norm Before Clipping: 0.0729
+Gradient Norm After Clipping: 0.0729
+Gradient Norm Before Clipping: 0.1089
+Gradient Norm After Clipping: 0.1089
+Gradient Norm Before Clipping: 0.0976
+Gradient Norm After Clipping: 0.0976
+Gradient Norm Before Clipping: 0.2044
+Gradient Norm After Clipping: 0.2044
+Gradient Norm Before Clipping: 0.2504
+Gradient Norm After Clipping: 0.2504
+Gradient Norm Before Clipping: 0.0588
+Gradient Norm After Clipping: 0.0588
+Gradient Norm Before Clipping: 0.0489
+Gradient Norm After Clipping: 0.0489
+Gradient Norm Before Clipping: 0.4576
+Gradient Norm After Clipping: 0.4576
+Gradient Norm Before Clipping: 0.6189
+Gradient Norm After Clipping: 0.6189
+Gradient Norm Before Clipping: 0.8562
+Gradient Norm After Clipping: 0.8562
+Gradient Norm Before Clipping: 0.1225
+Gradient Norm After Clipping: 0.1225
+Gradient Norm Before Clipping: 0.3410
+Gradient Norm After Clipping: 0.3410
+Gradient Norm Before Clipping: 0.8724
+Gradient Norm After Clipping: 0.8724
+Gradient Norm Before Clipping: 0.1451
+Gradient Norm After Clipping: 0.1451
+Gradient Norm Before Clipping: 0.7779
+Gradient Norm After Clipping: 0.7779
+Gradient Norm Before Clipping: 0.6838
+Gradient Norm After Clipping: 0.6838
+Gradient Norm Before Clipping: 0.6944
+Gradient Norm After Clipping: 0.6944
+Gradient Norm Before Clipping: 0.1116
+Gradient Norm After Clipping: 0.1116
+Gradient Norm Before Clipping: 0.5482
+Gradient Norm After Clipping: 0.5482
+Gradient Norm Before Clipping: 0.8644
+Gradient Norm After Clipping: 0.8644
+Gradient Norm Before Clipping: 0.1648
+Gradient Norm After Clipping: 0.1648
+Gradient Norm Before Clipping: 0.4455
+Gradient Norm After Clipping: 0.4455
+Gradient Norm Before Clipping: 0.7343
+Gradient Norm After Clipping: 0.7343
+Gradient Norm Before Clipping: 0.0214
+Gradient Norm After Clipping: 0.0214
+Gradient Norm Before Clipping: 1.0633
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1021
+Gradient Norm After Clipping: 0.1021
+Gradient Norm Before Clipping: 0.8437
+Gradient Norm After Clipping: 0.8437
+Gradient Norm Before Clipping: 1.3182
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5218
+Gradient Norm After Clipping: 0.5218
+Gradient Norm Before Clipping: 0.3238
+Gradient Norm After Clipping: 0.3238
+Gradient Norm Before Clipping: 1.6307
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2047
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3454
+Gradient Norm After Clipping: 0.3454
+Gradient Norm Before Clipping: 0.0933
+Gradient Norm After Clipping: 0.0933
+Gradient Norm Before Clipping: 1.5138
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2076
+Gradient Norm After Clipping: 0.2076
+Gradient Norm Before Clipping: 0.9242
+Gradient Norm After Clipping: 0.9242
+Gradient Norm Before Clipping: 1.1335
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2802
+Gradient Norm After Clipping: 0.2802
+Gradient Norm Before Clipping: 1.0460
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5225
+Gradient Norm After Clipping: 0.5225
+Gradient Norm Before Clipping: 1.1341
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3705
+Gradient Norm After Clipping: 0.3705
+Gradient Norm Before Clipping: 0.1224
+Gradient Norm After Clipping: 0.1224
+Gradient Norm Before Clipping: 0.1569
+Gradient Norm After Clipping: 0.1569
+Gradient Norm Before Clipping: 0.3263
+Gradient Norm After Clipping: 0.3263
+Gradient Norm Before Clipping: 0.1408
+Gradient Norm After Clipping: 0.1408
+Gradient Norm Before Clipping: 1.3915
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6976
+Gradient Norm After Clipping: 0.6976
+Gradient Norm Before Clipping: 0.3742
+Gradient Norm After Clipping: 0.3742
+Gradient Norm Before Clipping: 1.3109
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3369
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3680
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9266
+Gradient Norm After Clipping: 0.9266
+Gradient Norm Before Clipping: 0.1512
+Gradient Norm After Clipping: 0.1512
+Gradient Norm Before Clipping: 0.4545
+Gradient Norm After Clipping: 0.4545
+Gradient Norm Before Clipping: 0.0963
+Gradient Norm After Clipping: 0.0963
+Gradient Norm Before Clipping: 0.7860
+Gradient Norm After Clipping: 0.7860
+Gradient Norm Before Clipping: 0.4913
+Gradient Norm After Clipping: 0.4913
+Gradient Norm Before Clipping: 0.1022
+Gradient Norm After Clipping: 0.1022
+Gradient Norm Before Clipping: 1.1803
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.1696
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2944
+Gradient Norm After Clipping: 0.2944
+Gradient Norm Before Clipping: 1.0294
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3672
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0995
+Gradient Norm After Clipping: 0.0995
+Gradient Norm Before Clipping: 1.2029
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2875
+Gradient Norm After Clipping: 0.2875
+Gradient Norm Before Clipping: 0.4646
+Gradient Norm After Clipping: 0.4646
+Gradient Norm Before Clipping: 0.8553
+Gradient Norm After Clipping: 0.8553
+Gradient Norm Before Clipping: 0.6016
+Gradient Norm After Clipping: 0.6016
+Gradient Norm Before Clipping: 1.2228
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0084
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3718
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9290
+Gradient Norm After Clipping: 0.9290
+Gradient Norm Before Clipping: 0.1993
+Gradient Norm After Clipping: 0.1993
+Gradient Norm Before Clipping: 0.4544
+Gradient Norm After Clipping: 0.4544
+Gradient Norm Before Clipping: 0.3933
+Gradient Norm After Clipping: 0.3933
+Gradient Norm Before Clipping: 0.0351
+Gradient Norm After Clipping: 0.0351
+Gradient Norm Before Clipping: 0.0401
+Gradient Norm After Clipping: 0.0401
+Gradient Norm Before Clipping: 0.0885
+Gradient Norm After Clipping: 0.0885
+Gradient Norm Before Clipping: 0.0849
+Gradient Norm After Clipping: 0.0849
+Gradient Norm Before Clipping: 0.2287
+Gradient Norm After Clipping: 0.2287
+Gradient Norm Before Clipping: 1.1719
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2283
+Gradient Norm After Clipping: 0.2283
+Gradient Norm Before Clipping: 0.6170
+Gradient Norm After Clipping: 0.6170
+Gradient Norm Before Clipping: 0.1203
+Gradient Norm After Clipping: 0.1203
+Gradient Norm Before Clipping: 1.3308
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5955
+Gradient Norm After Clipping: 0.5955
+Gradient Norm Before Clipping: 1.7093
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1352
+Gradient Norm After Clipping: 0.1352
+Gradient Norm Before Clipping: 0.2653
+Gradient Norm After Clipping: 0.2653
+Gradient Norm Before Clipping: 0.1114
+Gradient Norm After Clipping: 0.1114
+Gradient Norm Before Clipping: 0.9392
+Gradient Norm After Clipping: 0.9392
+Gradient Norm Before Clipping: 1.1231
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0533
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3520
+Gradient Norm After Clipping: 0.3520
+Gradient Norm Before Clipping: 0.0481
+Gradient Norm After Clipping: 0.0481
+Gradient Norm Before Clipping: 1.7213
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0604
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2563
+Gradient Norm After Clipping: 0.2563
+Gradient Norm Before Clipping: 0.7861
+Gradient Norm After Clipping: 0.7861
+Gradient Norm Before Clipping: 0.5828
+Gradient Norm After Clipping: 0.5828
+Gradient Norm Before Clipping: 0.7200
+Gradient Norm After Clipping: 0.7200
+Gradient Norm Before Clipping: 0.3225
+Gradient Norm After Clipping: 0.3225
+Gradient Norm Before Clipping: 0.1720
+Gradient Norm After Clipping: 0.1720
+Gradient Norm Before Clipping: 1.1536
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6002
+Gradient Norm After Clipping: 0.6002
+Gradient Norm Before Clipping: 0.1710
+Gradient Norm After Clipping: 0.1710
+Gradient Norm Before Clipping: 0.4483
+Gradient Norm After Clipping: 0.4483
+Gradient Norm Before Clipping: 1.2453
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6232
+Gradient Norm After Clipping: 0.6232
+Gradient Norm Before Clipping: 0.1144
+Gradient Norm After Clipping: 0.1144
+Gradient Norm Before Clipping: 0.9274
+Gradient Norm After Clipping: 0.9274
+Gradient Norm Before Clipping: 1.5154
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8088
+Gradient Norm After Clipping: 0.8088
+Gradient Norm Before Clipping: 0.3904
+Gradient Norm After Clipping: 0.3904
+Gradient Norm Before Clipping: 0.2101
+Gradient Norm After Clipping: 0.2101
+Gradient Norm Before Clipping: 1.2826
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5670
+Gradient Norm After Clipping: 0.5670
+Gradient Norm Before Clipping: 2.0673
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0471
+Gradient Norm After Clipping: 0.0471
+Gradient Norm Before Clipping: 0.2789
+Gradient Norm After Clipping: 0.2789
+Gradient Norm Before Clipping: 0.6839
+Gradient Norm After Clipping: 0.6839
+Gradient Norm Before Clipping: 0.6173
+Gradient Norm After Clipping: 0.6173
+Gradient Norm Before Clipping: 0.1489
+Gradient Norm After Clipping: 0.1489
+Gradient Norm Before Clipping: 0.3741
+Gradient Norm After Clipping: 0.3741
+Gradient Norm Before Clipping: 0.3509
+Gradient Norm After Clipping: 0.3509
+Gradient Norm Before Clipping: 0.1087
+Gradient Norm After Clipping: 0.1087
+Gradient Norm Before Clipping: 0.1320
+Gradient Norm After Clipping: 0.1320
+Gradient Norm Before Clipping: 0.0959
+Gradient Norm After Clipping: 0.0959
+Gradient Norm Before Clipping: 0.1689
+Gradient Norm After Clipping: 0.1689
+Gradient Norm Before Clipping: 0.0531
+Gradient Norm After Clipping: 0.0531
+Gradient Norm Before Clipping: 0.8188
+Gradient Norm After Clipping: 0.8188
+Gradient Norm Before Clipping: 0.2999
+Gradient Norm After Clipping: 0.2999
+Gradient Norm Before Clipping: 0.4814
+Gradient Norm After Clipping: 0.4814
+Gradient Norm Before Clipping: 0.1150
+Gradient Norm After Clipping: 0.1150
+Gradient Norm Before Clipping: 0.6149
+Gradient Norm After Clipping: 0.6149
+Gradient Norm Before Clipping: 2.1563
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1290
+Gradient Norm After Clipping: 0.1290
+Gradient Norm Before Clipping: 0.3925
+Gradient Norm After Clipping: 0.3925
+Gradient Norm Before Clipping: 0.2988
+Gradient Norm After Clipping: 0.2988
+Gradient Norm Before Clipping: 0.7516
+Gradient Norm After Clipping: 0.7516
+Gradient Norm Before Clipping: 1.2535
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4639
+Gradient Norm After Clipping: 0.4639
+Gradient Norm Before Clipping: 0.4816
+Gradient Norm After Clipping: 0.4816
+Gradient Norm Before Clipping: 0.7545
+Gradient Norm After Clipping: 0.7545
+Gradient Norm Before Clipping: 0.6031
+Gradient Norm After Clipping: 0.6031
+Gradient Norm Before Clipping: 1.1423
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1198
+Gradient Norm After Clipping: 0.1198
+Gradient Norm Before Clipping: 0.4605
+Gradient Norm After Clipping: 0.4605
+Gradient Norm Before Clipping: 0.7944
+Gradient Norm After Clipping: 0.7944
+Gradient Norm Before Clipping: 0.6328
+Gradient Norm After Clipping: 0.6328
+Gradient Norm Before Clipping: 1.0171
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.2896
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4486
+Gradient Norm After Clipping: 0.4486
+Gradient Norm Before Clipping: 0.0388
+Gradient Norm After Clipping: 0.0388
+Gradient Norm Before Clipping: 0.1488
+Gradient Norm After Clipping: 0.1488
+Gradient Norm Before Clipping: 2.2596
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2332
+Gradient Norm After Clipping: 0.2332
+Gradient Norm Before Clipping: 0.7226
+Gradient Norm After Clipping: 0.7226
+Gradient Norm Before Clipping: 0.0301
+Gradient Norm After Clipping: 0.0301
+Gradient Norm Before Clipping: 0.7024
+Gradient Norm After Clipping: 0.7024
+Gradient Norm Before Clipping: 1.1743
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7565
+Gradient Norm After Clipping: 0.7565
+Gradient Norm Before Clipping: 0.8441
+Gradient Norm After Clipping: 0.8441
+Gradient Norm Before Clipping: 0.1143
+Gradient Norm After Clipping: 0.1143
+Gradient Norm Before Clipping: 0.3735
+Gradient Norm After Clipping: 0.3735
+Gradient Norm Before Clipping: 1.1001
+Gradient Norm After Clipping: 1.0000
+Epoch:  3 | Step:  500 | Train Loss:  0.5564665794372559
+Epoch:  3 | Step:  1 | Val Loss:  0.49451664090156555
+Epoch:  3 | Step:  2 | Val Loss:  0.43965664505958557
+Epoch:  3 | Step:  3 | Val Loss:  0.6742757558822632
+Epoch:  3 | Step:  4 | Val Loss:  0.4779183268547058
+Epoch:  3 | Step:  5 | Val Loss:  0.5659923553466797
+Epoch:  3 | Step:  6 | Val Loss:  0.49764323234558105
+Epoch:  3 | Step:  7 | Val Loss:  0.6114115715026855
+Epoch:  3 | Step:  8 | Val Loss:  0.44664889574050903
+Epoch:  3 | Step:  9 | Val Loss:  0.5638792514801025
+Epoch:  3 | Step:  10 | Val Loss:  0.5450299978256226
+Epoch:  3 | Step:  11 | Val Loss:  0.4958762228488922
+Epoch:  3 | Step:  12 | Val Loss:  0.6157606244087219
+Epoch:  3 | Step:  13 | Val Loss:  0.44684767723083496
+Epoch:  3 | Step:  14 | Val Loss:  0.3660072982311249
+Epoch:  3 | Step:  15 | Val Loss:  0.6186693906784058
+Epoch:  3 | Step:  16 | Val Loss:  0.3500831425189972
+Epoch:  3 | Step:  17 | Val Loss:  0.41766828298568726
+Epoch:  3 | Step:  18 | Val Loss:  0.34444141387939453
+Epoch:  3 | Step:  19 | Val Loss:  0.29863131046295166
+Epoch:  3 | Step:  20 | Val Loss:  0.6479876637458801
+Epoch:  3 | Step:  21 | Val Loss:  0.4555533230304718
+Epoch:  3 | Step:  22 | Val Loss:  0.488716721534729
+Epoch:  3 | Step:  23 | Val Loss:  0.6101520657539368
+Epoch:  3 | Step:  24 | Val Loss:  0.254269003868103
+Epoch:  3 | Step:  25 | Val Loss:  0.6892387866973877
+Epoch:  3 | Step:  26 | Val Loss:  0.41405409574508667
+Epoch:  3 | Step:  27 | Val Loss:  0.5943705439567566
+Epoch:  3 | Step:  28 | Val Loss:  0.6000992059707642
+Epoch:  3 | Step:  29 | Val Loss:  0.46416568756103516
+Epoch:  3 | Step:  30 | Val Loss:  0.49499380588531494
+Epoch:  3 | Step:  31 | Val Loss:  0.5223726034164429
+Epoch:  3 | Step:  32 | Val Loss:  0.41646718978881836
+Epoch:  3 | Step:  33 | Val Loss:  0.6397333145141602
+Epoch:  3 | Step:  34 | Val Loss:  0.5904872417449951
+Epoch:  3 | Step:  35 | Val Loss:  0.4883689284324646
+Epoch:  3 | Step:  36 | Val Loss:  0.3663035035133362
+Epoch:  3 | Step:  37 | Val Loss:  0.6600639820098877
+Epoch:  3 | Step:  38 | Val Loss:  0.5340341329574585
+Epoch:  3 | Step:  39 | Val Loss:  0.5212743878364563
+Epoch:  3 | Step:  40 | Val Loss:  0.6220525503158569
+Epoch:  3 | Step:  41 | Val Loss:  0.41977444291114807
+Epoch:  3 | Step:  42 | Val Loss:  0.5681259036064148
+Epoch:  3 | Step:  43 | Val Loss:  0.5030797719955444
+Epoch:  3 | Step:  44 | Val Loss:  0.522498607635498
+Epoch:  3 | Step:  45 | Val Loss:  0.48481833934783936
+Epoch:  3 | Step:  46 | Val Loss:  0.554474413394928
+Epoch:  3 | Step:  47 | Val Loss:  0.5263915657997131
+Epoch:  3 | Step:  48 | Val Loss:  0.5997041463851929
+Epoch:  3 | Step:  49 | Val Loss:  0.4084692895412445
+Epoch:  3 | Step:  50 | Val Loss:  0.5115439295768738
+Epoch:  3 | Step:  51 | Val Loss:  0.5694558024406433
+Epoch:  3 | Step:  52 | Val Loss:  0.5664206743240356
+Epoch:  3 | Step:  53 | Val Loss:  0.5261250138282776
+Epoch:  3 | Step:  54 | Val Loss:  0.43086034059524536
+Epoch:  3 | Step:  55 | Val Loss:  0.5186663866043091
+Epoch:  3 | Step:  56 | Val Loss:  0.5807839632034302
+Epoch:  3 | Step:  57 | Val Loss:  0.5204071998596191
+Epoch:  3 | Step:  58 | Val Loss:  0.41738539934158325
+Epoch:  3 | Step:  59 | Val Loss:  0.4764110743999481
+Epoch:  3 | Step:  60 | Val Loss:  0.6131534576416016
+Epoch:  3 | Step:  61 | Val Loss:  0.5931069850921631
+Epoch:  3 | Step:  62 | Val Loss:  0.5829222202301025
+Epoch:  3 | Step:  63 | Val Loss:  0.5181974768638611
+Epoch:  3 | Step:  64 | Val Loss:  0.46252620220184326
+Epoch:  3 | Step:  65 | Val Loss:  0.540043294429779
+Epoch:  3 | Step:  66 | Val Loss:  0.7520666122436523
+Epoch:  3 | Step:  67 | Val Loss:  0.5244444608688354
+Epoch:  3 | Step:  68 | Val Loss:  0.4768359065055847
+Epoch:  3 | Step:  69 | Val Loss:  0.4090171456336975
+Epoch:  3 | Step:  70 | Val Loss:  0.45961934328079224
+Epoch:  3 | Step:  71 | Val Loss:  0.6164431571960449
+Epoch:  3 | Step:  72 | Val Loss:  0.49843651056289673
+Epoch:  3 | Step:  73 | Val Loss:  0.67625892162323
+Epoch:  3 | Step:  74 | Val Loss:  0.614082932472229
+Epoch:  3 | Step:  75 | Val Loss:  0.48849084973335266
+Epoch:  3 | Step:  76 | Val Loss:  0.4586508572101593
+Epoch:  3 | Step:  77 | Val Loss:  0.38008007407188416
+Epoch:  3 | Step:  78 | Val Loss:  0.5152406096458435
+Epoch:  3 | Step:  79 | Val Loss:  0.4887884259223938
+Epoch:  3 | Step:  80 | Val Loss:  0.4910508394241333
+Epoch:  3 | Step:  81 | Val Loss:  0.5779954195022583
+Epoch:  3 | Step:  82 | Val Loss:  0.5781964063644409
+Epoch:  3 | Step:  83 | Val Loss:  0.4507738947868347
+Epoch:  3 | Step:  84 | Val Loss:  0.4279799461364746
+Epoch:  3 | Step:  85 | Val Loss:  0.3978901505470276
+Epoch:  3 | Step:  86 | Val Loss:  0.6073594689369202
+Epoch:  3 | Step:  87 | Val Loss:  0.5139667391777039
+Epoch:  3 | Step:  88 | Val Loss:  0.6180616617202759
+Epoch:  3 | Step:  89 | Val Loss:  0.5261106491088867
+Epoch:  3 | Step:  90 | Val Loss:  0.5378210544586182
+Epoch:  3 | Step:  91 | Val Loss:  0.5296556949615479
+Epoch:  3 | Step:  92 | Val Loss:  0.5830499529838562
+Epoch:  3 | Step:  93 | Val Loss:  0.5116128921508789
+Epoch:  3 | Step:  94 | Val Loss:  0.41743791103363037
+Epoch:  3 | Step:  95 | Val Loss:  0.5604501962661743
+Epoch:  3 | Step:  96 | Val Loss:  0.5899218320846558
+Epoch:  3 | Step:  97 | Val Loss:  0.5654371976852417
+Epoch:  3 | Step:  98 | Val Loss:  0.5304403901100159
+Epoch:  3 | Step:  99 | Val Loss:  0.523401141166687
+Epoch:  3 | Step:  100 | Val Loss:  0.3701403737068176
+Epoch:  3 | Step:  101 | Val Loss:  0.46273481845855713
+Epoch:  3 | Step:  102 | Val Loss:  0.5593914985656738
+Epoch:  3 | Step:  103 | Val Loss:  0.647432267665863
+Epoch:  3 | Step:  104 | Val Loss:  0.6447525024414062
+Epoch:  3 | Step:  105 | Val Loss:  0.5294770002365112
+Epoch:  3 | Step:  106 | Val Loss:  0.6589602828025818
+Epoch:  3 | Step:  107 | Val Loss:  0.4237620532512665
+Epoch:  3 | Step:  108 | Val Loss:  0.42645326256752014
+Epoch:  3 | Step:  109 | Val Loss:  0.4705279767513275
+Epoch:  3 | Step:  110 | Val Loss:  0.4789431691169739
+Epoch:  3 | Step:  111 | Val Loss:  0.5550332069396973
+Epoch:  3 | Step:  112 | Val Loss:  0.4567713141441345
+Epoch:  3 | Step:  113 | Val Loss:  0.5682154893875122
+Epoch:  3 | Step:  114 | Val Loss:  0.45304903388023376
+Epoch:  3 | Step:  115 | Val Loss:  0.5096077919006348
+Epoch:  3 | Step:  116 | Val Loss:  0.3855442404747009
+Epoch:  3 | Step:  117 | Val Loss:  0.37817245721817017
+Epoch:  3 | Step:  118 | Val Loss:  0.704236626625061
+Epoch:  3 | Step:  119 | Val Loss:  0.5181641578674316
+Epoch:  3 | Step:  120 | Val Loss:  0.46652835607528687
+Epoch:  3 | Step:  121 | Val Loss:  0.5698755383491516
+Epoch:  3 | Step:  122 | Val Loss:  0.6496811509132385
+Epoch:  3 | Step:  123 | Val Loss:  0.5277542471885681
+Epoch:  3 | Step:  124 | Val Loss:  0.49508845806121826
+Epoch:  3 | Step:  125 | Val Loss:  0.4437878429889679
+Epoch:  3 | Train Loss:  tensor(0.5181, device='cuda:0') | Val Loss:  tensor(0.5169, device='cuda:0')
+Gradient Norm Before Clipping: 0.1718
+Gradient Norm After Clipping: 0.1718
+Gradient Norm Before Clipping: 0.8977
+Gradient Norm After Clipping: 0.8977
+Gradient Norm Before Clipping: 0.9414
+Gradient Norm After Clipping: 0.9414
+Gradient Norm Before Clipping: 0.3512
+Gradient Norm After Clipping: 0.3512
+Gradient Norm Before Clipping: 0.3109
+Gradient Norm After Clipping: 0.3109
+Gradient Norm Before Clipping: 0.2816
+Gradient Norm After Clipping: 0.2816
+Gradient Norm Before Clipping: 1.4475
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.4394
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9835
+Gradient Norm After Clipping: 0.9835
+Gradient Norm Before Clipping: 1.3461
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1699
+Gradient Norm After Clipping: 0.1699
+Gradient Norm Before Clipping: 0.5519
+Gradient Norm After Clipping: 0.5519
+Gradient Norm Before Clipping: 0.2082
+Gradient Norm After Clipping: 0.2082
+Gradient Norm Before Clipping: 0.4628
+Gradient Norm After Clipping: 0.4628
+Gradient Norm Before Clipping: 1.4580
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.4892
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6444
+Gradient Norm After Clipping: 0.6444
+Gradient Norm Before Clipping: 0.1031
+Gradient Norm After Clipping: 0.1031
+Gradient Norm Before Clipping: 0.6408
+Gradient Norm After Clipping: 0.6408
+Gradient Norm Before Clipping: 0.1873
+Gradient Norm After Clipping: 0.1873
+Gradient Norm Before Clipping: 0.0965
+Gradient Norm After Clipping: 0.0965
+Gradient Norm Before Clipping: 1.4268
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4011
+Gradient Norm After Clipping: 0.4011
+Gradient Norm Before Clipping: 0.8846
+Gradient Norm After Clipping: 0.8846
+Gradient Norm Before Clipping: 0.4630
+Gradient Norm After Clipping: 0.4630
+Gradient Norm Before Clipping: 1.1139
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.3358
+Gradient Norm After Clipping: 0.3358
+Gradient Norm Before Clipping: 0.5951
+Gradient Norm After Clipping: 0.5951
+Gradient Norm Before Clipping: 1.1672
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7183
+Gradient Norm After Clipping: 0.7183
+Gradient Norm Before Clipping: 0.4285
+Gradient Norm After Clipping: 0.4285
+Gradient Norm Before Clipping: 0.6458
+Gradient Norm After Clipping: 0.6458
+Gradient Norm Before Clipping: 0.0664
+Gradient Norm After Clipping: 0.0664
+Gradient Norm Before Clipping: 0.1294
+Gradient Norm After Clipping: 0.1294
+Gradient Norm Before Clipping: 0.4012
+Gradient Norm After Clipping: 0.4012
+Gradient Norm Before Clipping: 1.5741
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2133
+Gradient Norm After Clipping: 0.2133
+Gradient Norm Before Clipping: 0.6204
+Gradient Norm After Clipping: 0.6204
+Gradient Norm Before Clipping: 0.1761
+Gradient Norm After Clipping: 0.1761
+Gradient Norm Before Clipping: 0.9029
+Gradient Norm After Clipping: 0.9029
+Gradient Norm Before Clipping: 0.2287
+Gradient Norm After Clipping: 0.2287
+Gradient Norm Before Clipping: 1.0048
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3027
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3673
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0884
+Gradient Norm After Clipping: 0.0884
+Gradient Norm Before Clipping: 0.3921
+Gradient Norm After Clipping: 0.3921
+Gradient Norm Before Clipping: 2.4715
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2517
+Gradient Norm After Clipping: 0.2517
+Gradient Norm Before Clipping: 0.1983
+Gradient Norm After Clipping: 0.1983
+Gradient Norm Before Clipping: 0.7595
+Gradient Norm After Clipping: 0.7595
+Gradient Norm Before Clipping: 1.1500
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5450
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0467
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1026
+Gradient Norm After Clipping: 0.1026
+Gradient Norm Before Clipping: 0.4094
+Gradient Norm After Clipping: 0.4094
+Gradient Norm Before Clipping: 0.5321
+Gradient Norm After Clipping: 0.5321
+Gradient Norm Before Clipping: 0.2028
+Gradient Norm After Clipping: 0.2028
+Gradient Norm Before Clipping: 0.3623
+Gradient Norm After Clipping: 0.3623
+Gradient Norm Before Clipping: 1.4789
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5859
+Gradient Norm After Clipping: 0.5859
+Gradient Norm Before Clipping: 0.3101
+Gradient Norm After Clipping: 0.3101
+Gradient Norm Before Clipping: 0.7042
+Gradient Norm After Clipping: 0.7042
+Gradient Norm Before Clipping: 0.1154
+Gradient Norm After Clipping: 0.1154
+Gradient Norm Before Clipping: 1.1626
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.8211
+Gradient Norm After Clipping: 0.8211
+Gradient Norm Before Clipping: 0.2044
+Gradient Norm After Clipping: 0.2044
+Gradient Norm Before Clipping: 0.3432
+Gradient Norm After Clipping: 0.3432
+Gradient Norm Before Clipping: 0.6211
+Gradient Norm After Clipping: 0.6211
+Gradient Norm Before Clipping: 0.1916
+Gradient Norm After Clipping: 0.1916
+Gradient Norm Before Clipping: 0.4348
+Gradient Norm After Clipping: 0.4348
+Gradient Norm Before Clipping: 0.8053
+Gradient Norm After Clipping: 0.8053
+Gradient Norm Before Clipping: 0.0750
+Gradient Norm After Clipping: 0.0750
+Gradient Norm Before Clipping: 0.0960
+Gradient Norm After Clipping: 0.0960
+Gradient Norm Before Clipping: 0.6386
+Gradient Norm After Clipping: 0.6386
+Gradient Norm Before Clipping: 0.6777
+Gradient Norm After Clipping: 0.6777
+Gradient Norm Before Clipping: 0.0882
+Gradient Norm After Clipping: 0.0882
+Gradient Norm Before Clipping: 0.8134
+Gradient Norm After Clipping: 0.8134
+Gradient Norm Before Clipping: 0.0667
+Gradient Norm After Clipping: 0.0667
+Gradient Norm Before Clipping: 1.1730
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.9232
+Gradient Norm After Clipping: 0.9232
+Gradient Norm Before Clipping: 1.4717
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2508
+Gradient Norm After Clipping: 0.2508
+Gradient Norm Before Clipping: 1.0158
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4380
+Gradient Norm After Clipping: 0.4380
+Gradient Norm Before Clipping: 1.2720
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4727
+Gradient Norm After Clipping: 0.4727
+Gradient Norm Before Clipping: 0.1711
+Gradient Norm After Clipping: 0.1711
+Gradient Norm Before Clipping: 0.7997
+Gradient Norm After Clipping: 0.7997
+Gradient Norm Before Clipping: 0.1429
+Gradient Norm After Clipping: 0.1429
+Gradient Norm Before Clipping: 1.4187
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0922
+Gradient Norm After Clipping: 0.0922
+Gradient Norm Before Clipping: 0.0831
+Gradient Norm After Clipping: 0.0831
+Gradient Norm Before Clipping: 0.4776
+Gradient Norm After Clipping: 0.4776
+Gradient Norm Before Clipping: 1.4220
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 2.0673
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.3495
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2513
+Gradient Norm After Clipping: 0.2513
+Gradient Norm Before Clipping: 0.0275
+Gradient Norm After Clipping: 0.0275
+Gradient Norm Before Clipping: 0.2341
+Gradient Norm After Clipping: 0.2341
+Gradient Norm Before Clipping: 1.0788
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5917
+Gradient Norm After Clipping: 0.5917
+Gradient Norm Before Clipping: 0.2427
+Gradient Norm After Clipping: 0.2427
+Gradient Norm Before Clipping: 1.0521
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.5961
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1510
+Gradient Norm After Clipping: 0.1510
+Gradient Norm Before Clipping: 0.0939
+Gradient Norm After Clipping: 0.0939
+Gradient Norm Before Clipping: 0.3752
+Gradient Norm After Clipping: 0.3752
+Gradient Norm Before Clipping: 0.5717
+Gradient Norm After Clipping: 0.5717
+Gradient Norm Before Clipping: 0.3507
+Gradient Norm After Clipping: 0.3507
+Gradient Norm Before Clipping: 0.5807
+Gradient Norm After Clipping: 0.5807
+Gradient Norm Before Clipping: 0.1476
+Gradient Norm After Clipping: 0.1476
+Gradient Norm Before Clipping: 0.3259
+Gradient Norm After Clipping: 0.3259
+Gradient Norm Before Clipping: 0.3663
+Gradient Norm After Clipping: 0.3663
+Gradient Norm Before Clipping: 0.3941
+Gradient Norm After Clipping: 0.3941
+Gradient Norm Before Clipping: 0.4316
+Gradient Norm After Clipping: 0.4316
+Gradient Norm Before Clipping: 0.5379
+Gradient Norm After Clipping: 0.5379
+Gradient Norm Before Clipping: 0.3135
+Gradient Norm After Clipping: 0.3135
+Gradient Norm Before Clipping: 0.7254
+Gradient Norm After Clipping: 0.7254
+Gradient Norm Before Clipping: 1.0494
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4473
+Gradient Norm After Clipping: 0.4473
+Gradient Norm Before Clipping: 0.9902
+Gradient Norm After Clipping: 0.9902
+Gradient Norm Before Clipping: 0.2712
+Gradient Norm After Clipping: 0.2712
+Gradient Norm Before Clipping: 1.0192
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.2834
+Gradient Norm After Clipping: 0.2834
+Gradient Norm Before Clipping: 0.6412
+Gradient Norm After Clipping: 0.6412
+Gradient Norm Before Clipping: 0.9275
+Gradient Norm After Clipping: 0.9275
+Gradient Norm Before Clipping: 1.1282
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4634
+Gradient Norm After Clipping: 0.4634
+Gradient Norm Before Clipping: 0.6803
+Gradient Norm After Clipping: 0.6803
+Gradient Norm Before Clipping: 1.6350
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.4516
+Gradient Norm After Clipping: 0.4516
+Gradient Norm Before Clipping: 1.4529
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.0858
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1777
+Gradient Norm After Clipping: 0.1777
+Gradient Norm Before Clipping: 0.6750
+Gradient Norm After Clipping: 0.6750
+Gradient Norm Before Clipping: 0.1712
+Gradient Norm After Clipping: 0.1712
+Gradient Norm Before Clipping: 0.5128
+Gradient Norm After Clipping: 0.5128
+Gradient Norm Before Clipping: 0.4996
+Gradient Norm After Clipping: 0.4996
+Gradient Norm Before Clipping: 0.2181
+Gradient Norm After Clipping: 0.2181
+Gradient Norm Before Clipping: 0.0265
+Gradient Norm After Clipping: 0.0265
+Gradient Norm Before Clipping: 0.8606
+Gradient Norm After Clipping: 0.8606
+Gradient Norm Before Clipping: 0.3083
+Gradient Norm After Clipping: 0.3083
+Gradient Norm Before Clipping: 0.6085
+Gradient Norm After Clipping: 0.6085
+Gradient Norm Before Clipping: 0.2718
+Gradient Norm After Clipping: 0.2718
+Gradient Norm Before Clipping: 0.7824
+Gradient Norm After Clipping: 0.7824
+Gradient Norm Before Clipping: 0.7044
+Gradient Norm After Clipping: 0.7044
+Gradient Norm Before Clipping: 1.0186
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1899
+Gradient Norm After Clipping: 0.1899
+Gradient Norm Before Clipping: 0.2034
+Gradient Norm After Clipping: 0.2034
+Gradient Norm Before Clipping: 1.4561
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.1753
+Gradient Norm After Clipping: 0.1753
+Gradient Norm Before Clipping: 0.5442
+Gradient Norm After Clipping: 0.5442
+Gradient Norm Before Clipping: 2.7349
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0590
+Gradient Norm After Clipping: 0.0590
+Gradient Norm Before Clipping: 0.2489
+Gradient Norm After Clipping: 0.2489
+Gradient Norm Before Clipping: 0.0591
+Gradient Norm After Clipping: 0.0591
+Gradient Norm Before Clipping: 0.2077
+Gradient Norm After Clipping: 0.2077
+Gradient Norm Before Clipping: 0.1904
+Gradient Norm After Clipping: 0.1904
+Gradient Norm Before Clipping: 0.4081
+Gradient Norm After Clipping: 0.4081
+Gradient Norm Before Clipping: 0.1454
+Gradient Norm After Clipping: 0.1454
+Gradient Norm Before Clipping: 0.1314
+Gradient Norm After Clipping: 0.1314
+Gradient Norm Before Clipping: 0.2678
+Gradient Norm After Clipping: 0.2678
+Gradient Norm Before Clipping: 0.1537
+Gradient Norm After Clipping: 0.1537
+Gradient Norm Before Clipping: 0.7946
+Gradient Norm After Clipping: 0.7946
+Gradient Norm Before Clipping: 0.5289
+Gradient Norm After Clipping: 0.5289
+Gradient Norm Before Clipping: 0.1039
+Gradient Norm After Clipping: 0.1039
+Gradient Norm Before Clipping: 0.4735
+Gradient Norm After Clipping: 0.4735
+Gradient Norm Before Clipping: 0.7867
+Gradient Norm After Clipping: 0.7867
+Gradient Norm Before Clipping: 0.1079
+Gradient Norm After Clipping: 0.1079
+Gradient Norm Before Clipping: 0.6407
+Gradient Norm After Clipping: 0.6407
+Gradient Norm Before Clipping: 1.0744
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.5907
+Gradient Norm After Clipping: 0.5907
+Gradient Norm Before Clipping: 0.2700
+Gradient Norm After Clipping: 0.2700
+Gradient Norm Before Clipping: 0.5518
+Gradient Norm After Clipping: 0.5518
+Gradient Norm Before Clipping: 0.1591
+Gradient Norm After Clipping: 0.1591
+Gradient Norm Before Clipping: 1.1124
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7901
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0920
+Gradient Norm After Clipping: 0.0920
+Gradient Norm Before Clipping: 0.4357
+Gradient Norm After Clipping: 0.4357
+Gradient Norm Before Clipping: 0.5223
+Gradient Norm After Clipping: 0.5223
+Gradient Norm Before Clipping: 1.4042
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6988
+Gradient Norm After Clipping: 0.6988
+Gradient Norm Before Clipping: 0.8602
+Gradient Norm After Clipping: 0.8602
+Gradient Norm Before Clipping: 1.0778
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 1.7004
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.6995
+Gradient Norm After Clipping: 0.6995
+Gradient Norm Before Clipping: 1.3277
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0692
+Gradient Norm After Clipping: 0.0692
+Gradient Norm Before Clipping: 0.5300
+Gradient Norm After Clipping: 0.5300
+Gradient Norm Before Clipping: 0.4949
+Gradient Norm After Clipping: 0.4949
+Gradient Norm Before Clipping: 0.0323
+Gradient Norm After Clipping: 0.0323
+Gradient Norm Before Clipping: 0.7470
+Gradient Norm After Clipping: 0.7470
+Gradient Norm Before Clipping: 0.3032
+Gradient Norm After Clipping: 0.3032
+Gradient Norm Before Clipping: 1.5781
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.0620
+Gradient Norm After Clipping: 0.0620
+Gradient Norm Before Clipping: 1.5695
+Gradient Norm After Clipping: 1.0000
+Gradient Norm Before Clipping: 0.7813
+Gradient Norm After Clipping: 0.7813
+Gradient Norm Before Clipping: 0.6834
+Gradient Norm After Clipping: 0.6834
