@@ -1,0 +1,64 @@
+{"time":"2025-03-01T23:59:15.719041042Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250301_235915-uyr8lcwi/logs/debug-core.log"}
+{"time":"2025-03-01T23:59:15.917163313Z","level":"INFO","msg":"created new stream","id":"uyr8lcwi"}
+{"time":"2025-03-01T23:59:15.91761006Z","level":"INFO","msg":"stream: started","id":"uyr8lcwi"}
+{"time":"2025-03-01T23:59:15.91763404Z","level":"INFO","msg":"writer: Do: started","stream_id":"uyr8lcwi"}
+{"time":"2025-03-01T23:59:15.917657279Z","level":"INFO","msg":"handler: started","stream_id":"uyr8lcwi"}
+{"time":"2025-03-01T23:59:15.917694466Z","level":"INFO","msg":"sender: started","stream_id":"uyr8lcwi"}
+{"time":"2025-03-01T23:59:16.54993656Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T00:00:12.55192467Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:46.2996739Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:46.305796479Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:46.846813979Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:46.891760336Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:47.669309081Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:47.67613674Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:47.809535236Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:47.8133987Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:48.445456022Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:48.453240774Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:49.774655312Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:49.777424031Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:49.847436441Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:49.851048708Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:51.456587555Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:51.463665731Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:52.744712662Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:52.74738941Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:54.974668767Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:54.979602082Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:57.394398885Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:57.441802388Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:58.985757669Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:58.995306234Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:59.087463737Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:59.094687366Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:00:59.516036113Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:00:59.51869037Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:02.924323315Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:02.927449096Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:03.304453649Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:03.307538092Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:04.43612994Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:04.43997Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:12.015082238Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:12.071795578Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:12.718048563Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:12.724193648Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:14.356801726Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:14.362367892Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:16.660269501Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:16.664340635Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:16.791687459Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38426->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-02T00:01:20.460340644Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:20.464120998Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:22.530210621Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:22.534261791Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:23.763481289Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:23.769382658Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:26.641070908Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:26.644539416Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:27.938825463Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:27.986190506Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:29.239992931Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-02T00:01:29.244872612Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-02T00:01:31.726687092Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57254->35.186.228.49:443: read: connection reset by peer"}

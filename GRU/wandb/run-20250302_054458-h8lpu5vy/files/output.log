@@ -1,0 +1,16 @@
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Epoch:  0 | Train Loss:  tensor(0.5179, device='cuda:0') | Val Loss:  tensor(0.5079, device='cuda:0')
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Epoch:  1 | Train Loss:  tensor(0.5148, device='cuda:0') | Val Loss:  tensor(0.4851, device='cuda:0')
+Epoch:  2 | Train Loss:  tensor(0.5162, device='cuda:0') | Val Loss:  tensor(0.4784, device='cuda:0')
+Requirement already satisfied: torchinfo in /home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages (1.8.0)
+Requirement already satisfied: torchinfo in /home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages (1.8.0)
+Requirement already satisfied: torchinfo in /home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages (1.8.0)
+Requirement already satisfied: torchinfo in /home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages (1.8.0)
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Epoch:  0 | Train Loss:  tensor(0.6006, device='cuda:0') | Val Loss:  tensor(0.5217, device='cuda:0')
+Epoch:  1 | Train Loss:  tensor(0.5403, device='cuda:0') | Val Loss:  tensor(0.5201, device='cuda:0')
+Epoch:  2 | Train Loss:  tensor(0.5351, device='cuda:0') | Val Loss:  tensor(0.5194, device='cuda:0')

@@ -1,0 +1,111 @@
+2025-03-02 06:17:10,230 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061710-kz421iqh/logs/debug.log
+2025-03-02 06:17:10,239 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061710-kz421iqh/logs/debug-internal.log
+2025-03-02 06:17:10,243 INFO    MainThread:1158138 [wandb_init.py:init():756] calling init triggers
+2025-03-02 06:17:10,248 INFO    MainThread:1158138 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 06:17:10,252 INFO    MainThread:1158138 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 06:17:10,641 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:10,646 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:17,986 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:17,993 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:17,999 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:18,205 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:18,216 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:18,221 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:18,432 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:18,440 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:18,448 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:18,628 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:18,639 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:18,644 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:19,557 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:19,565 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:19,570 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:19,882 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:19,887 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:19,892 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:22,436 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:22,445 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:22,453 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:17:22,692 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:17:22,765 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061722-bz8ffxbp/logs/debug.log
+2025-03-02 06:17:22,772 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061722-bz8ffxbp/logs/debug-internal.log
+2025-03-02 06:17:22,781 INFO    MainThread:1158138 [wandb_init.py:init():756] calling init triggers
+2025-03-02 06:17:22,787 INFO    MainThread:1158138 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 06:17:22,799 INFO    MainThread:1158138 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 06:17:24,090 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:17:24,095 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:18:55,467 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:18:55,480 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:18:55,486 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:18:57,346 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:18:57,353 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:18:57,360 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:18:57,941 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:18:57,951 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:18:57,960 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:18:59,477 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:18:59,489 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:18:59,500 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:01,546 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:01,552 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:01,556 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:01,845 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:01,936 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061901-mc6g8gab/logs/debug.log
+2025-03-02 06:19:01,939 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061901-mc6g8gab/logs/debug-internal.log
+2025-03-02 06:19:01,943 INFO    MainThread:1158138 [wandb_init.py:init():756] calling init triggers
+2025-03-02 06:19:01,946 INFO    MainThread:1158138 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 06:19:01,950 INFO    MainThread:1158138 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 06:19:08,109 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:08,113 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:08,441 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:08,447 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:08,456 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:08,490 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:09,865 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:09,872 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:33,398 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:33,404 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:33,413 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:35,775 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:35,783 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:35,788 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:39,432 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:39,437 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:39,440 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:40,079 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:40,086 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:40,096 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:41,937 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:41,944 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:41,950 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:19:42,253 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:19:42,340 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061942-gl3lm5wy/logs/debug.log
+2025-03-02 06:19:42,346 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_061942-gl3lm5wy/logs/debug-internal.log
+2025-03-02 06:19:42,350 INFO    MainThread:1158138 [wandb_init.py:init():756] calling init triggers
+2025-03-02 06:19:42,359 INFO    MainThread:1158138 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 06:19:42,364 INFO    MainThread:1158138 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 06:19:42,615 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:19:42,624 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:20:06,597 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:20:06,605 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:20:06,611 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:20:07,067 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:20:07,078 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:20:07,084 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:20:07,584 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:20:07,591 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:20:07,598 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:20:10,618 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:20:10,625 INFO    MainThread:1158138 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 06:20:10,629 INFO    MainThread:1158138 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 06:20:10,976 INFO    MainThread:1158138 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 06:20:11,061 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_062010-iyh7grdw/logs/debug.log
+2025-03-02 06:20:11,067 INFO    MainThread:1158138 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_062010-iyh7grdw/logs/debug-internal.log
+2025-03-02 06:20:11,074 INFO    MainThread:1158138 [wandb_init.py:init():756] calling init triggers
+2025-03-02 06:20:11,080 INFO    MainThread:1158138 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 06:20:11,086 INFO    MainThread:1158138 [wandb_init.py:init():781] wandb.init() called when a run is still active

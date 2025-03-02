@@ -1,0 +1,7 @@
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([16])) that is different to the input size (torch.Size([16, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Epoch:  0 | Train Loss:  tensor(0.5194, device='cuda:0') | Val Loss:  tensor(0.4465, device='cuda:0')
+Epoch:  1 | Train Loss:  tensor(0.5153, device='cuda:0') | Val Loss:  tensor(0.4726, device='cuda:0')
+Epoch:  2 | Train Loss:  tensor(0.5164, device='cuda:0') | Val Loss:  tensor(0.4506, device='cuda:0')
+Epoch:  3 | Train Loss:  tensor(0.5147, device='cuda:0') | Val Loss:  tensor(0.4574, device='cuda:0')
+Epoch:  4 | Train Loss:  tensor(0.5139, device='cuda:0') | Val Loss:  tensor(0.4643, device='cuda:0')

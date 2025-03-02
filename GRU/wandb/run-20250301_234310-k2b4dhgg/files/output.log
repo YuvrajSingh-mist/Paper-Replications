@@ -1,0 +1,3 @@
+/home/yuvrajsingh/anaconda3/envs/unsloth_env/lib/python3.11/site-packages/torch/utils/_device.py:106: UserWarning: Using a target size (torch.Size([32])) that is different to the input size (torch.Size([32, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return func(*args, **kwargs)
+Epoch:  0 | Train Loss:
