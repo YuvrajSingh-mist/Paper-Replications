@@ -1,0 +1,6 @@
+2025-03-02 09:38:50,659 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093850-um9tvz8v/logs/debug.log
+2025-03-02 09:38:50,661 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093850-um9tvz8v/logs/debug-internal.log
+2025-03-02 09:38:50,662 INFO    MainThread:1252627 [wandb_init.py:init():756] calling init triggers
+2025-03-02 09:38:50,663 INFO    MainThread:1252627 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 09:38:50,665 INFO    MainThread:1252627 [wandb_init.py:init():781] wandb.init() called when a run is still active

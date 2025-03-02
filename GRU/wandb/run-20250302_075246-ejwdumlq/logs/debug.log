@@ -153,3 +153,265 @@ config: {'_wandb': {}}
 2025-03-02 08:53:54,077 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
 2025-03-02 08:53:54,081 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
 2025-03-02 08:53:54,082 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:42,422 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:42,450 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:42,456 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:42,936 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:42,947 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:42,952 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:47,323 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:47,331 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:47,332 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:47,591 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:47,604 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:47,606 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:48,339 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:48,349 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:48,351 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:48,588 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:48,596 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:48,596 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:48,813 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:48,817 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:48,817 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:48,978 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:48,983 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:48,983 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:49,142 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:49,146 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:49,146 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:50,260 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:50,266 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:50,267 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:53,066 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:53,079 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:53,080 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:54,637 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:54,642 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:54,642 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:54,857 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:54,861 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:54,862 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:55,962 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:55,966 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:55,967 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:56,486 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:56,491 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:56,491 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:56,924 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:56,931 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:56,932 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:57,335 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:57,340 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:57,340 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:57,998 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:58,001 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:58,002 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:09:59,318 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:09:59,331 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:09:59,331 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:00,020 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:00,024 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:00,025 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:01,446 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:01,450 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:01,451 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:07,715 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:07,721 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:07,722 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:08,757 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:08,765 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:08,769 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:12,153 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:12,156 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:12,156 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:13,408 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:13,412 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:13,413 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:26,675 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:26,681 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:26,682 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:28,099 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:28,104 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:28,105 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:28,642 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:28,645 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:28,648 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:10:33,994 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:10:33,997 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:10:33,997 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:05,984 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:06,000 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:06,000 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:06,767 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:06,771 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:06,772 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:08,636 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:08,641 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:08,641 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:09,250 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:09,338 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:09,339 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:34,369 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:34,374 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:34,376 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:36,566 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:36,587 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:36,588 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:11:39,500 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:11:41,955 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:11:41,955 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:31,860 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:31,871 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:31,871 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:33,288 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:33,297 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:33,298 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:33,357 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:33,361 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:33,361 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:34,693 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:34,699 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:34,700 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:34,947 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:34,950 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:34,951 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:35,786 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:35,788 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:35,788 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:36,228 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:36,246 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:36,246 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:36,657 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:36,905 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:36,906 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:14:37,163 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:14:38,209 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:14:38,210 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:03,039 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:03,043 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:03,044 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:03,947 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:03,948 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:03,949 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:04,172 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:04,174 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:04,174 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:04,821 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:04,834 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:04,834 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:05,244 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:05,259 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:05,260 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:06,415 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:10,608 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:10,609 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:35,244 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:35,246 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:35,247 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:35,586 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:35,588 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:35,589 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:35,908 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:35,910 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:35,911 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:36,202 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:36,206 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:36,208 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:36,728 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:36,741 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:36,747 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:15:37,593 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:15:38,562 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:15:38,565 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:50,232 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:50,313 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:50,313 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:50,413 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:54,570 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:54,571 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:54,602 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:54,631 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:54,631 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:54,664 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:54,684 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:54,685 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:54,767 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,207 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,208 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,266 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,423 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,425 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,475 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,503 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,504 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,524 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,531 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,531 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,597 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,600 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,609 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,640 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,656 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,661 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,724 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,727 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,728 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,848 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,849 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,849 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,889 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,893 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,894 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:55,919 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:55,962 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:55,963 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:56,008 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:56,029 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:56,029 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:56,080 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:57,232 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:57,233 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:36:57,291 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:36:57,322 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:36:57,323 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:37:00,161 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:37:00,451 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093700-h1pkq7sc/logs/debug.log
+2025-03-02 09:37:00,452 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093700-h1pkq7sc/logs/debug-internal.log
+2025-03-02 09:37:00,455 INFO    MainThread:1252627 [wandb_init.py:init():756] calling init triggers
+2025-03-02 09:37:00,455 INFO    MainThread:1252627 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 09:37:00,456 INFO    MainThread:1252627 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 09:37:01,664 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:37:01,666 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:37:14,776 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:37:14,781 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:37:14,782 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:37:17,927 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:37:17,931 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:37:17,933 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:37:18,126 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:37:18,206 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093718-69tvebrl/logs/debug.log
+2025-03-02 09:37:18,208 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093718-69tvebrl/logs/debug-internal.log
+2025-03-02 09:37:18,209 INFO    MainThread:1252627 [wandb_init.py:init():756] calling init triggers
+2025-03-02 09:37:18,209 INFO    MainThread:1252627 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 09:37:18,210 INFO    MainThread:1252627 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 09:37:18,508 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:37:18,510 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:38:41,687 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:38:41,766 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093841-gh40j9t4/logs/debug.log
+2025-03-02 09:38:41,769 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093841-gh40j9t4/logs/debug-internal.log
+2025-03-02 09:38:41,770 INFO    MainThread:1252627 [wandb_init.py:init():756] calling init triggers
+2025-03-02 09:38:41,773 INFO    MainThread:1252627 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 09:38:41,774 INFO    MainThread:1252627 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-03-02 09:38:42,214 INFO    MainThread:1252627 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-02 09:38:42,216 INFO    MainThread:1252627 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-02 09:38:50,588 INFO    MainThread:1252627 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-02 09:38:50,659 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093850-um9tvz8v/logs/debug.log
+2025-03-02 09:38:50,661 INFO    MainThread:1252627 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/GRU/wandb/run-20250302_093850-um9tvz8v/logs/debug-internal.log
+2025-03-02 09:38:50,662 INFO    MainThread:1252627 [wandb_init.py:init():756] calling init triggers
+2025-03-02 09:38:50,663 INFO    MainThread:1252627 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-02 09:38:50,665 INFO    MainThread:1252627 [wandb_init.py:init():781] wandb.init() called when a run is still active
