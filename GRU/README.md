@@ -11,7 +11,7 @@ Trained a GRU model coded from scratch in Pytorch
 | `max_lr`     | 1e-4     | Maximum learning rate.                                                      |
 | `dropout`    | 0.2      | Dropout.                                                                    |
 | `epochs`     | 50       | Epochs                                                                      |           
-| `block_size` | 16      | Weight decay values for the optimizer                                        |
+| `block_size` | 16      | Seq Len                                     |
 | `No of neurons`| 16      | No of neurons in an GRU per layer                                          |    
 
 
