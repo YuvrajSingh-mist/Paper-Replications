@@ -12,7 +12,7 @@ Trained a RNN model coded from scratch in Pytorch
 | `dropout`    | 0.2      | Dropout.                                                                    |
 | `epochs`     | 50       | Epochs                                                                      |           
 | `block_size` | 16      | Weight decay values for the optimizer                                        |
-| `No of neurons`| 16      | No of neurons in an GRU per layer                                          |    
+| `No of neurons`| 16      | No of neurons in an RNN per layer                                          |    
 
 
 ### Frameworks:
