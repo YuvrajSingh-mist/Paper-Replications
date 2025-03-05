@@ -21,7 +21,7 @@
 
 
 ### Epochs/Steps
-Epochs (train) = 50
+Epochs (train) = 10
 
 Val iterations = every epoch
 
