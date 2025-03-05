@@ -34,7 +34,7 @@ Val loss - 1.39
 
 ### Loss Curves
 
-![Train and Val loss curves](img/losss.jpg)
+![Train and Val loss curves](img/loss.jpg)
 
 
 
