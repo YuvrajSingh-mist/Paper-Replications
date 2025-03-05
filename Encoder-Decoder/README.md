@@ -1,7 +1,7 @@
 
-# GRU in Pytorch from scratch implementation
+# Encoder-Decoder in Pytorch from scratch implementation on German (de) to English (en)
 
-Trained a GRU model coded from scratch in Pytorch 
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215)
 
 ## ModelArgs Hyperparameters
 
