@@ -1,5 +1,8 @@
 
-# Encoder-Decoder in Pytorch from scratch implementation on German (de) to English (en)
+# Coded an Encoder-Decoder in Pytorch from scratch  
+
+Trained on the on German (de) to English (en) dataset
+
 
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215)
 
