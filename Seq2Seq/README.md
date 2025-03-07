@@ -4,6 +4,8 @@
 
 Trained a Seq2Seq model with the said attention mechanism  coded from scratch in Pytorch 
 
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.0473)
+
 ## ModelArgs Hyperparameters
 
 | Parameter    | Value    | Description                                                                 
