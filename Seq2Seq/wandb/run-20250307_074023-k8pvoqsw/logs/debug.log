@@ -1,0 +1,24 @@
+2025-03-07 07:40:23,315 INFO    MainThread:2100671 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-07 07:40:23,317 INFO    MainThread:2100671 [wandb_setup.py:_flush():67] Configure stats pid to 2100671
+2025-03-07 07:40:23,319 INFO    MainThread:2100671 [wandb_setup.py:_flush():67] Loading settings from /home/yuvrajsingh/.config/wandb/settings
+2025-03-07 07:40:23,321 INFO    MainThread:2100671 [wandb_setup.py:_flush():67] Loading settings from /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/settings
+2025-03-07 07:40:23,323 INFO    MainThread:2100671 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 07:40:23,326 INFO    MainThread:2100671 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_074023-k8pvoqsw/logs/debug.log
+2025-03-07 07:40:23,329 INFO    MainThread:2100671 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_074023-k8pvoqsw/logs/debug-internal.log
+2025-03-07 07:40:23,330 INFO    MainThread:2100671 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fc2aa5f5550>
+2025-03-07 07:40:23,333 INFO    MainThread:2100671 [wandb_init.py:init():761] calling init triggers
+2025-03-07 07:40:23,335 INFO    MainThread:2100671 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-07 07:40:23,336 INFO    MainThread:2100671 [wandb_init.py:init():784] starting backend
+2025-03-07 07:40:23,338 INFO    MainThread:2100671 [wandb_init.py:init():788] sending inform_init request
+2025-03-07 07:40:23,359 INFO    MainThread:2100671 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-07 07:40:23,361 INFO    MainThread:2100671 [wandb_init.py:init():798] backend started and connected
+2025-03-07 07:40:23,363 INFO    MainThread:2100671 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-07 07:40:23,380 INFO    MainThread:2100671 [wandb_init.py:init():891] updated telemetry
+2025-03-07 07:40:23,930 INFO    MainThread:2100671 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-07 07:40:24,611 INFO    MainThread:2100671 [wandb_init.py:init():990] starting run threads in backend
+2025-03-07 07:40:24,756 INFO    MainThread:2100671 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-07 07:40:24,759 INFO    MainThread:2100671 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-07 07:40:24,768 INFO    MainThread:2100671 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-07 07:40:24,774 INFO    MainThread:2100671 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-07 07:40:24,782 INFO    MainThread:2100671 [wandb_init.py:init():1032] run started, returning control to user process

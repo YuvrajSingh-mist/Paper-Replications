@@ -1,0 +1,21 @@
+2025-03-07 07:08:49,901 INFO    MainThread:1991708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_070849-sp54rw1v/logs/debug.log
+2025-03-07 07:08:49,911 INFO    MainThread:1991708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_070849-sp54rw1v/logs/debug-internal.log
+2025-03-07 07:08:49,920 INFO    MainThread:1991708 [wandb_init.py:init():761] calling init triggers
+2025-03-07 07:08:49,930 INFO    MainThread:1991708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-07 07:08:49,938 INFO    MainThread:1991708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 07:08:53,272 INFO    MainThread:1991708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-07 07:08:53,277 INFO    MainThread:1991708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-07 07:09:12,300 INFO    MainThread:1991708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-07 07:09:12,312 INFO    MainThread:1991708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-07 07:09:12,318 INFO    MainThread:1991708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-07 07:09:14,652 INFO    MainThread:1991708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-07 07:09:14,657 INFO    MainThread:1991708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-07 07:09:14,660 INFO    MainThread:1991708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-07 07:09:15,965 INFO    MainThread:1991708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-07 07:09:16,129 INFO    MainThread:1991708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_070915-hr12aksl/logs/debug.log
+2025-03-07 07:09:16,137 INFO    MainThread:1991708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/Seq2Seq/wandb/run-20250307_070915-hr12aksl/logs/debug-internal.log
+2025-03-07 07:09:16,145 INFO    MainThread:1991708 [wandb_init.py:init():761] calling init triggers
+2025-03-07 07:09:16,152 INFO    MainThread:1991708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-07 07:09:16,160 INFO    MainThread:1991708 [wandb_init.py:init():776] wandb.init() called while a run is active

@@ -1,0 +1,22 @@
+Done
+<bos> woman with <bos>
+ a
+Epoch:  0 | Train Loss:  tensor(6.5065, device='cuda:0') | Val Loss:  tensor(5.2250, device='cuda:0')
+Done
+
+Epoch:  1 | Train Loss:  tensor(5.3852, device='cuda:0') | Val Loss:  tensor(4.9024, device='cuda:0')
+Done
+
+Epoch:  2 | Train Loss:  tensor(5.1296, device='cuda:0') | Val Loss:  tensor(4.6612, device='cuda:0')
+Done
+a wearing a a a white
+Epoch:  3 | Train Loss:  tensor(4.9044, device='cuda:0') | Val Loss:  tensor(4.4332, device='cuda:0')
+Done
+red <bos> playing . sitting of Two boy and , a
+ for red street <bos> <bos> . his <bos>
+Epoch:  4 | Train Loss:  tensor(4.6866, device='cuda:0') | Val Loss:  tensor(4.2162, device='cuda:0')
+Done
+holding shirt Two a <bos> the brown <bos> of children <bos> is walking for young
+ boy man with and his for , <bos> wearing dressed . Two brown A his
+ with for the man a a man young A hat , wearing <bos> A
+Epoch:  5 | Train Loss:  tensor(4.4760, device='cuda:0') | Val Loss:  tensor(4.0127, device='cuda:0')
