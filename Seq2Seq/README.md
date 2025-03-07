@@ -1,20 +1,21 @@
 
 
-# GRU in Pytorch from scratch implementation
+# Seq2Seq with Bahdanau Attention in Pytorch from scratch implementation
 
-Trained a GRU model coded from scratch in Pytorch 
+Trained a Seq2Seq model with the said attention mechanism  coded from scratch in Pytorch 
 
 ## ModelArgs Hyperparameters
 
 | Parameter    | Value    | Description                                                                 
 |--------------|----------|-----------------------------------------------------------------------------|
-| `batch_size` | 16       | The number of samples processed before the model is updated.                |
+| `batch_size` | 32       | The number of samples processed before the model is updated.                |
 | `max_lr`     | 1e-4     | Maximum learning rate.                                                      |
-| `dropout`    | 0.2      | Dropout.                                                                    |
+| `dropout`    | 0.1      | Dropout.                                                                    |
 | `epochs`     | 50       | Epochs                                                                      |           
-| `block_size` | 16      | Seq Len                                     |
-| `No of neurons`| 16      | No of neurons in an GRU per layer                                          |    
-
+| `block_size` | 32      | Seq Len                                                                      |
+| `No of neurons`| 128      | No of neurons in an GRU per layer                                         |    
+| `hidden_dim`| 4*embedding_dims      | No of neurons in FFN                                            |  
+| `No of neurons`| 128      | No of neurons in an GRU per layer                                         |  
 
 ### Frameworks:
 **Pytorch**
@@ -25,12 +26,6 @@ Epochs (train) = 50
 
 Val iterations = every epoch
 
-
-### Losses
-
-Train loss - 0.51 
-
-Val loss - 0.48
 
 ### Loss Curves
 

@@ -22,3 +22,5 @@ config: {'_wandb': {}}
 2025-03-07 07:40:24,768 INFO    MainThread:2100671 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-07 07:40:24,774 INFO    MainThread:2100671 [wandb_run.py:_redirect():2315] Redirects installed.
 2025-03-07 07:40:24,782 INFO    MainThread:2100671 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-07 11:08:30,095 INFO    MainThread:2100671 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-07 11:08:30,116 INFO    MainThread:2100671 [wandb_init.py:_pause_backend():564] pausing backend
