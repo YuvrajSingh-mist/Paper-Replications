@@ -1,8 +1,10 @@
 
 
-# Seq2Seq with Bahdanau Attention in Pytorch from scratch implementation
+# Seq2Seq with Bahdanau and Luong Attention in Pytorch from scratch implementation
 
 Trained a Seq2Seq model with the said attention mechanism  coded from scratch in Pytorch 
+
+[Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
 
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.0473)
 
