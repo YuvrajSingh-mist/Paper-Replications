@@ -37,6 +37,12 @@ Trained a small whisper model coded and trained from scratch in Pytorch
 | `hidden_dim`            | 4 * `embeddings_dims`  | Number of neurons in the feed-forward network (FFN).                        |
 """
 
+### Dataset
+
+[Gigaspeech](https://huggingface.co/datasets/speechcolab/gigaspeech)
+
+Used the 'xs' snapshot.
+
 ### Frameworks:
 **Pytorch**
 
