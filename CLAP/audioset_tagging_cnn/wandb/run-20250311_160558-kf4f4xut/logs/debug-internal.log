@@ -1,0 +1,807 @@
+{"time":"2025-03-11T16:05:58.689626524Z","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250311_160558-kf4f4xut/logs/debug-core.log"}
+{"time":"2025-03-11T16:05:58.929922781Z","level":"INFO","msg":"created new stream","id":"kf4f4xut"}
+{"time":"2025-03-11T16:05:58.930461062Z","level":"INFO","msg":"stream: started","id":"kf4f4xut"}
+{"time":"2025-03-11T16:05:58.930494973Z","level":"INFO","msg":"writer: Do: started","stream_id":"kf4f4xut"}
+{"time":"2025-03-11T16:05:58.930522373Z","level":"INFO","msg":"handler: started","stream_id":"kf4f4xut"}
+{"time":"2025-03-11T16:05:58.930518926Z","level":"INFO","msg":"sender: started","stream_id":"kf4f4xut"}
+{"time":"2025-03-11T16:05:59.735085282Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T16:05:59.959494625Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:06:13.211172447Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:06:13.256777788Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:06:20.5068246Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:06:20.648225167Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:06:36.659952448Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:06:36.707939468Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:06:53.021492837Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:06:53.16158543Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:06:53.656151359Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:06:53.671952138Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:04.609075878Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:04.656950485Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:04.692172293Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:04.709661007Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:06.391712626Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:06.417833926Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:08.928797589Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:08.93835418Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:11.0983263Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:11.156469897Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:13.474136494Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:13.479486867Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:34.720470553Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:34.76612061Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:37.751668227Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:37.768153733Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:42.995561637Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:43.046077088Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:43.204417834Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:43.206936699Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:07:47.422553823Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:07:47.527695146Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:08:08.568211894Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:08:08.849049054Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:08:25.15712526Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:08:25.200761356Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:08:38.525155821Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:08:48.263701968Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:42:38.783664009Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:42:38.828789239Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:50:46.484164064Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:50:46.532774134Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:50:46.680108097Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:50:59.783483622Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:51:09.71756676Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:51:09.745469806Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:52:04.358220764Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:52:04.508189501Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:52:14.722974664Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:52:24.993188402Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:52:25.003649014Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:52:25.018671223Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:31.985811001Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:32.04249257Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:34.607002016Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:34.628837885Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:37.900798328Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:37.911999189Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:47.343908223Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:47.391222028Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:54.201607811Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:54.219261818Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:55.620713354Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:55.68608974Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:58.828486502Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:58.835814617Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T16:59:59.828433601Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T16:59:59.832078176Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:00:00.391183273Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:00:09.018932085Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:01:36.191373493Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:01:36.238861042Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:01:41.780439179Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:01:41.829283797Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:15.063050174Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:15.122394441Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:19.292382076Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:19.303809094Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:20.577378831Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:20.598235732Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:23.722073838Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:23.732775936Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:27.565459317Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:35.216312311Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:02:56.447433791Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:02:56.459012454Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:03:00.759950361Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:03:00.81119409Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:03:11.294841612Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:03:19.934745582Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:03:19.960263014Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:03:19.99295823Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:14:47.926672721Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:14:56.664211384Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:20.088648881Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:20.141708343Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:21.151897645Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:21.201287144Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:21.924169165Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:21.934129048Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:23.114746359Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:23.127985703Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:24.653309703Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:24.663517526Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:27.49995391Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:27.510796724Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:16:33.118513908Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:16:39.466197731Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:17:05.16164198Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:17:05.220853673Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:17:15.081455262Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:17:15.130676022Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:17:15.200700988Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:17:23.356750682Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:18:10.4106795Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:18:10.786745122Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:18:54.464935004Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:18:54.479487931Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:19:02.647585073Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:19:19.848096626Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:19:43.986431377Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:19:44.033280634Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:19:50.794273512Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:19:51.014750239Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:16.342162199Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:20:16.386093608Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:22.627120614Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:20:22.658363904Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:24.703219509Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:20:24.722643081Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:29.684982013Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:20:29.701793537Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:44.077986332Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:20:44.129042695Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:20:57.686199027Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:21:05.195751282Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:21:09.1909742Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:21:19.52195376Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:58:09.433618503Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:58:11.434534848Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:58:40.546125437Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:58:40.599279098Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T17:58:51.216040833Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T17:58:52.063947147Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:00:14.978504177Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:00:13.880571908Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:12:28.378016266Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:12:28.851652312Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:19:00.711815443Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:19:00.790136672Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:19:01.003467789Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:19:01.028588544Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:19:43.525749566Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42522->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:19:52.599863926Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:19:52.640016519Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:19:56.291220098Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T18:19:56.84154493Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33418->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:19:56.917781099Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T18:20:41.939690613Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43752->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:20:56.831565272Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35604->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:21:56.963379857Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57900->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:22:11.891282Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43674->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:32:56.396665269Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:58820->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:33:11.393560131Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34024->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:44:10.492057172Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40322->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:44:24.004068759Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:41596->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:51:54.588986066Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:46572->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T18:52:07.962177658Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:47102->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:02:38.776340153Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:56516->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:03:37.184747423Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:52414->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:03:52.161028104Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40128->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:04:37.153780107Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:39916->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:05:07.197746252Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34230->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:05:22.364324862Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:50414->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:06:37.22447288Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:59892->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:07:07.21173074Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42164->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:09:37.292276045Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43740->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:11:37.242421229Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60806->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:12:50.619621775Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35916->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:13:04.010923236Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:51122->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:14:19.024737822Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44962->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:15:19.083820413Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:47754->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:15:34.029290886Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:56828->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:18:49.146251747Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:49800->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:19:19.211535797Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:37906->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:21:19.408974868Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40750->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:21:34.431630749Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60604->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:22:19.434845694Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57312->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:40:50.747954912Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:55606->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:41:05.777335375Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57890->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:42:05.805232488Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36062->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:42:20.836017209Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33654->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:45:05.883796709Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35996->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:45:20.865298874Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:59168->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:46:05.863761779Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:58230->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:46:20.902082055Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:58580->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:47:05.864025996Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38700->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:47:35.918243651Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:56278->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:48:05.876001436Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38158->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:48:35.880023901Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33022->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:48:50.90985158Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33788->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:51:19.129311102Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57780->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T19:51:47.358523747Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54272->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:01:32.508616026Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36510->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:01:45.627356214Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:59774->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:02:45.619213657Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57494->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:02:58.86318724Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33582->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:06:58.944638832Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:53262->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:07:44.00478506Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57212->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:08:58.948810182Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:41300->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:09:58.948392762Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33632->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:11:29.035729087Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36764->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:12:29.012426476Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36898->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:12:58.997609131Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:46488->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:13:13.989655268Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33890->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:13:29.011320809Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57108->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:13:44.074239251Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34066->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:13:59.011673556Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45244->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:15:59.045396211Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:46342->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:16:14.02152067Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42910->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:19:12.173664347Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:56946->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:22:12.230345518Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45114->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:23:12.21620471Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54498->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:23:42.223536328Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:37500->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:24:12.234361253Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34946->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:25:12.226285954Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:46076->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:25:57.239920081Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:51032->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:26:27.263511377Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:39956->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:27:27.251950966Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44848->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:29:57.339555108Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40096->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:31:27.312722105Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54806->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:32:12.106697844Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": read tcp 172.21.251.184:57874->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:33:10.466078804Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:56746->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:33:38.513300331Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:51704->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:34:08.528949147Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:41180->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:35:08.553164435Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60450->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:35:23.576148104Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:41196->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:36:08.564276632Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:52998->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:37:38.608695143Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34218->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:38:16.11074556Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40270->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:39:06.715896503Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34458->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:39:21.724439686Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45956->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:39:36.7067487Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35610->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:41:06.765749451Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:48682->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:41:21.738500746Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38960->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:42:06.73556264Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:58028->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:42:21.739065846Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44630->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:43:06.750427816Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35686->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:43:34.871828937Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57314->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:44:49.901742155Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35834->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:46:17.976031659Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54956->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:47:47.990463222Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:59032->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:50:48.084196195Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44830->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:51:03.06199415Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:47216->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:51:18.036072468Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36078->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:51:33.053904311Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43064->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:52:18.042733865Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34738->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:55:33.094443539Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54008->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:56:01.133157188Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42944->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T20:56:14.184494119Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38204->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:00:59.214186384Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35560->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:01:29.238775804Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:37428->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:01:44.240519338Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:41690->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:02:59.465222667Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:49080->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:03:14.261580079Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60064->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:03:29.247905664Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35758->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:04:29.275592039Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57382->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:05:59.296101945Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43668->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:06:59.366668027Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:49232->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:07:14.356593201Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60538->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:07:29.351744302Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:58812->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:07:44.380834131Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45992->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:07:59.351491972Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:43444->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:08:14.369997649Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38172->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:08:29.395074951Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44500->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:08:59.401475674Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35748->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:09:59.373161255Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:38860->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:11:12.446598863Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44372->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:11:25.508983541Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35870->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:11:40.515257243Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:55176->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:11:55.50488588Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:32832->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:12:40.532824799Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:55928->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:12:55.510679293Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57822->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:14:10.543020795Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:39666->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:14:40.517975857Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:47686->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:14:55.548565019Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33556->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:15:10.534100279Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:53704->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:15:25.552663946Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:52194->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:15:55.640526423Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57602->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:16:10.554711191Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:50132->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:17:25.555730204Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44494->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:17:40.554835393Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44992->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:17:55.557558478Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45148->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:18:10.561564112Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40684->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:21:25.628485731Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:37850->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:27:55.698802924Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:53430->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:45:38.922840781Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:44614->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:50:08.984891046Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54754->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T21:50:23.992440025Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42958->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T23:07:49.006829216Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36902->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T23:08:19.030856966Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36096->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T23:08:49.042140962Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:36908->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-11T23:09:04.019722421Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45922->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T02:59:04.92029214Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T02:59:09.205921017Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:00:03.115498656Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:00:03.171639407Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:00:08.351746247Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:00:08.408857248Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:00:10.564237163Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:00:10.581144039Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:00:10.804589545Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:00:10.834320321Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:00:12.65419895Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:00:13.250301081Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:00.722304548Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:00.774650816Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:15.082960699Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:15.135548721Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:16.489752825Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:16.535722955Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:22.428792498Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:24.909456097Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:31.515511065Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:31.565643395Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:31.759502999Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:31.838239284Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:32.562848571Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:34.055143009Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:05:55.683582556Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:05:55.712237857Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:03.977026294Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:04.003420484Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:06.392390523Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:06.434224708Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:06.643461357Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:07.330445502Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:24.676349012Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:24.695803894Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:25.281778177Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:25.316468031Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:06:25.860619529Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:06:26.35140581Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:07:12.429351169Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:07:12.476997244Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:07:17.563423855Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:07:17.586362137Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:07:19.162830941Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:07:19.349980746Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:25.650659301Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:25.683929117Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:27.549267754Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:27.596614511Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:29.802734249Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:29.839147787Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:29.870223672Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:29.888730211Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:29.988967384Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:30.007504359Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:11:31.921872065Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:11:32.630380045Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:14:26.245249309Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:14:26.80596122Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:24:47.722920652Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:24:48.755645768Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:36:22.343348798Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:36:22.365760493Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:36:49.62685936Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:36:49.676423821Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:36:59.315496741Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:36:59.362358919Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:36:59.458244112Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:36:59.499056628Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:37:15.119131216Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:37:15.187259882Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:39:54.042461913Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:39:54.074921393Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:35.803792739Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:35.820563416Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.186834242Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.236404158Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.317844681Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.340350028Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.353873011Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.385021181Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.400120796Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.427310405Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.451724547Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.479251245Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.496673136Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:36.539630549Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:36.605319528Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:37.091671156Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:44.422622144Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:44.434630101Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:44.802645469Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:44.835392397Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:45.252383766Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:45.705339738Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:49.376848641Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:49.418262413Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:50.773648459Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:50.801836627Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:51.590789552Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:51.62488581Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:51.743735302Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:51.799873792Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:58.399534575Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:58.464377218Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:58.488635346Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:58.50439451Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:40:58.55057215Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:40:58.563733797Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:01.650902288Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:01.680506639Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:02.818273139Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:02.836919303Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:02.863649141Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:02.877053957Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:05.468073627Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:05.551036117Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:12.830995764Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:12.878808556Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:15.156739861Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:15.275910561Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:31.288807643Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:31.34863574Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:32.721395439Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:32.74296059Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:33.624836288Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:33.646118793Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:35.154959104Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:35.239237286Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:39.917614958Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:39.958869518Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:40.715842932Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:40.736461941Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:41.438739496Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:41.50164966Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:43.278289709Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:43.37957214Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:57.065597992Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:57.109791717Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:41:57.606537692Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:41:57.689915689Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:42:34.140388382Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:42:34.192345267Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:42:34.480171304Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:42:34.567782768Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:42:54.912494312Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:42:56.630423386Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:43:00.265497371Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:43:06.920576288Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:43:06.945173877Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:43:06.960821222Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:43:06.993984071Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:43:07.089628096Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:47:57.518758095Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:47:57.565667083Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:48:16.470141602Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:48:16.490947913Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:48:18.844058613Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:48:18.892746605Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:48:19.755529684Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:48:19.823481715Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:49:08.55251062Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:49:08.606235952Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:49:11.666695358Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:49:11.714571009Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:49:16.353320377Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:49:16.386628395Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:49:56.183703626Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:49:56.332215443Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:50:48.732484551Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:50:48.781752805Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:51:16.627407028Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:51:17.358292395Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:51:28.39981811Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:51:28.443167366Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:51:29.872976755Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:51:29.889540685Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:51:30.194608439Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:51:30.252071305Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:51:30.616867025Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:51:31.154858878Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:18.215313177Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:26.341772365Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:28.751304708Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:28.796311757Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:32.285130453Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:32.795817644Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:52.004487237Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:52.050231656Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:54.263198206Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:54.287128352Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:55.860589582Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:55.894742494Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:52:57.809213218Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:52:57.851028774Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:02.880988231Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:02.881793893Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:06.202155174Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:07.138216507Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:14.64036967Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:14.641025897Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:15.895450928Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:19.857116462Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:44.907552144Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:44.935604656Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:46.871916541Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:47.45100652Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:53.792516332Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:53.81101922Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:53:55.561515282Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:53:56.156637061Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:02.384733971Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:02.440529907Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:03.821642652Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:04.405698247Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:12.553658437Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:12.574001042Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:13.372658932Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:13.406456129Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:14.057302093Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:14.5480786Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:24.412735516Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:24.455492045Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:26.853539442Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:26.883463037Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:28.974867253Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:31.543040503Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:39.471911814Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:39.524206688Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:39.84707862Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:39.862643056Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:41.723606228Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:54:43.944021803Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T03:54:58.392559777Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T03:55:00.894945927Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:21:54.379243721Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:21:54.42228785Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:22:29.865198217Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60570->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:24:57.404776119Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:40618->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:25:25.008269952Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42708->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:25:54.866786708Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:53110->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:26:09.838229163Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:48274->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:29:09.932337173Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:49980->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:29:41.144872185Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:29:41.190608521Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:29:54.935097539Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33890->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:30:07.460256392Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:54496->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:34:52.516979798Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45168->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:34:52.910518708Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:52.93045609Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:34:53.1126788Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:53.128284491Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:34:53.03192773Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:53.051763151Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:34:53.257822163Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:53.301001488Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:34:53.584911889Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:53.611532877Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:34:56.363334067Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:34:58.466409374Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:05.015471195Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:49880->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:35:15.805204092Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:15.865260483Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:16.961363Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:16.98916147Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:19.661959941Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:20.459280012Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:36.068782808Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:36.099789881Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:38.769758283Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:38.789508278Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:43.785398564Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:43.831557857Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:45.70311418Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:46.380426666Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:35:59.03231326Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:35:59.048784796Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:01.059116967Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:01.744534598Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:09.422091945Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:09.434400781Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:13.327657686Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:13.375861854Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:15.425286492Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:16.001384899Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:23.250437302Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:23.269016461Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:23.112709285Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:23.497059256Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:38.333534373Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:38.352432462Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:40.757978635Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:36:41.542346762Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:36:50.049016783Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:57740->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:37:34.615808118Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:37:34.662072576Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:37:36.209722333Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:37:36.609916892Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:37:41.423787514Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:37:41.47874172Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:37:50.04785027Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:45572->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:37:51.367084379Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:37:51.618929245Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:38:30.343553132Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:38:30.391188709Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:38:32.50060215Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:38:32.525603464Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:38:32.833472799Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:38:32.915621832Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:38:38.741166809Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:38:38.833218087Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:39:05.83595981Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:39:05.860194855Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:39:06.768442577Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:39:06.812566686Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:39:18.842345651Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:39:18.913100922Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:40:47.550209805Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:33262->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:41:02.564041566Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:46368->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:41:17.572508494Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:55756->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:42:01.481698299Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:01.533629463Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:12.663598265Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:12.713551333Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:15.406990498Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:15.434177663Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:19.217831202Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:19.242807944Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:19.324860423Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:19.386666051Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:21.377369539Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:21.423543327Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:25.150378364Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:25.167586472Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:28.069050364Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:42:30.071167868Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:35248->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:42:33.222623521Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:42:45.071842953Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:42502->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:43:00.067413545Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:34852->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:43:30.107562922Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.21.251.184:60042->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-12T04:44:37.75779914Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:37.804175252Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:44:44.989763721Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:45.034155532Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:44:47.719374919Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:47.762470468Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:44:54.831865206Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:54.874257011Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:44:55.071011527Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:55.087175454Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:44:55.342321841Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:44:56.932266062Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:24.594997095Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:24.650492468Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:25.563806956Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:25.586501034Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:26.179103132Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:26.201793152Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:26.216620925Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:26.230703716Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:26.438698298Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:26.45799176Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:26.546402649Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:26.566376811Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:28.299814124Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:28.332310534Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:29.45966326Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:29.769686196Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:43.291094245Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:43.872904894Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:49.152235352Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:49.172112265Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:49.488122667Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:45:49.507904067Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:45:55.750710285Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:00.241090195Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:00.26855023Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:00.286967876Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:00.310732163Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:00.331991024Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:00.356360148Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:00.41964241Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:00.450182797Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:01.722784706Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:01.725701362Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:01.728688807Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:01.75548465Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:01.783405402Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:05.996187042Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:06.022033768Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:08.918700606Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:08.954356632Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:12.133822027Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:12.615391872Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:24.621540191Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:24.665126639Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:31.354093547Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:31.40496005Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:31.196425902Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:31.22265199Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:44.703926553Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:44.750967466Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:47.944790197Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:47.989497859Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:46:57.653593134Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:46:57.699014199Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:08.724237336Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:08.772650146Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:08.928596514Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:09.057561898Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:14.387403138Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:14.432928319Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:15.477008472Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:16.734978936Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:24.475025063Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:24.736837323Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:35.407942265Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:35.453782918Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:38.368493528Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:38.403282843Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:38.774255515Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:38.797211151Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:47:40.526531442Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:47:42.178116091Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:50:28.744066413Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:50:28.770466852Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:50:29.147851719Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:50:29.172327727Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:50:32.795884366Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:50:32.853697774Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:50:34.304490777Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:50:34.336236124Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:50:38.267094027Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:50:38.94174031Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:51:26.157685986Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:51:26.199696559Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:52:02.270052239Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:52:05.230203645Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:52:05.289865567Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:52:05.320177812Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:52:58.806663446Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:52:58.933276495Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:53:00.04740461Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:53:00.097173811Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:53:03.357391075Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:53:03.931403627Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:53:32.293994466Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:53:32.350160549Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T04:53:32.573031645Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T04:53:33.458041517Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:15:08.299715462Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:15:10.571775219Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:24:31.334529228Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:44088->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:24:37.349104519Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:24:43.828274992Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:43054->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:24:58.461115014Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:57786->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:25:09.598944788Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-12T05:25:17.507735446Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:38962->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:25:43.918542141Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-12T05:25:45.915082549Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:55582->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:26:01.734144294Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:26:01.784728572Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:26:04.798023433Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:26:04.846546788Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:26:05.144748445Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:26:05.379132256Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:26:07.063215139Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:26:07.096190989Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:26:07.278278484Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:26:10.674641382Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:26:22.088956515Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:26:36.014881238Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:54542->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:27:11.732688009Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:27:46.175614623Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:48687->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:28:20.688075626Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:28:56.321146258Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:52175->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:29:50.690505979Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:30:06.47236689Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:51855->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:31:16.615679404Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:58361->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:31:20.693579493Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:32:34.65692548Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:36796->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:32:50.69611834Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:33:45.66920161Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:40570->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:34:07.349161519Z","level":"WARN","msg":"sender: taking a long time","seconds":600.000844489,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"e14u01vy0etv\" connection_id:\"127.0.0.1:50772\")"}
+{"time":"2025-03-12T05:34:20.705337382Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:34:55.687472921Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:40418->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:35:50.70726086Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-12T05:36:05.69127476Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/rentio/clap-From-Scratch/kf4f4xut/file_stream\": dial tcp: lookup api.wandb.ai on 10.255.255.254:53: read udp 10.255.255.254:53915->10.255.255.254:53: i/o timeout"}
+{"time":"2025-03-12T05:36:51.593882223Z","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":764.247501958,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"e14u01vy0etv\" connection_id:\"127.0.0.1:50772\")"}
+{"time":"2025-03-12T05:39:09.341751568Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:39:09.370226282Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:39:13.466088308Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:39:15.270993609Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T05:40:02.447418919Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T05:40:04.194081173Z","level":"INFO","msg":"Pausing system monitor"}

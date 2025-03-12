@@ -1,0 +1,15 @@
+2025-03-12 11:16:05,255 INFO    MainThread:482849 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_111605-phko11nj/logs/debug.log
+2025-03-12 11:16:05,259 INFO    MainThread:482849 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_111605-phko11nj/logs/debug-internal.log
+2025-03-12 11:16:05,264 INFO    MainThread:482849 [wandb_init.py:init():761] calling init triggers
+2025-03-12 11:16:05,267 INFO    MainThread:482849 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-12 11:16:05,270 INFO    MainThread:482849 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-12 11:16:28,379 INFO    MainThread:482849 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-12 11:16:28,388 INFO    MainThread:482849 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-12 11:16:37,178 INFO    MainThread:482849 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-12 11:16:37,363 INFO    MainThread:482849 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_111637-j8yegob5/logs/debug.log
+2025-03-12 11:16:37,371 INFO    MainThread:482849 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_111637-j8yegob5/logs/debug-internal.log
+2025-03-12 11:16:37,375 INFO    MainThread:482849 [wandb_init.py:init():761] calling init triggers
+2025-03-12 11:16:37,378 INFO    MainThread:482849 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-12 11:16:37,382 INFO    MainThread:482849 [wandb_init.py:init():776] wandb.init() called while a run is active
