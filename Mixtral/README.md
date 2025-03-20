@@ -17,7 +17,7 @@ I implemented the Mixtral architecture from scratch using Pytorch on Tinyshakesp
 ### Results (on T4 GPU Single)
 
 **Training steps:** 1000
-**Validation steps:** per 50 training steps
+**IValidation steps:** per 50 training steps
 
 **Train loss:** 2.0422 
 **Val loss:** 2.0898
