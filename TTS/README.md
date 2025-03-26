@@ -4,7 +4,7 @@
 
 Trained a small transformer based TTS model coded and trained from scratch in Pytorch 
 
-
+(will be uploading the implementation of Wavenet soon)
 
 [Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895)
 
