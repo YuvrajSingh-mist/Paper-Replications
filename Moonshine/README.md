@@ -25,7 +25,7 @@ Trained a small transformer based ASR model coded and trained from scratch in Py
 
 ### Dataset
 
-[Gigaspeech](https://huggingface.co/datasets/speechcolab/gigaspeech) (can be used)
+[Gigaspeech](https://huggingface.co/datasets/speechcolab/gigaspeech) 
 
 
 ### Frameworks:
