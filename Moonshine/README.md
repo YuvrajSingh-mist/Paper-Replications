@@ -57,7 +57,7 @@ Val iterations = every 50 steps
 
 ### Loss Curves
 
-![Train and Val loss curves](uimages/loss_curves.jpg)
+![Train and Val loss curves](images/loss_curves.jpg)
 
 
 
