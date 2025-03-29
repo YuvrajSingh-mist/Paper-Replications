@@ -1,8 +1,8 @@
 
 
-# Moonshine- A faster Alternative to Whisper!
+# Moonshine- A faster Alternative to Whisper (Replication)!
 
-Trained a small transformer based ASR model coded and trained from scratch in Pytorch.
+Trained a small transformer-based ASR model coded and trained from scratch in Pytorch.
 
 [Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://arxiv.org/pdf/2410.15608)
 
