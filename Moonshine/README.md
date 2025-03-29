@@ -42,5 +42,7 @@ Val iterations = every 50 steps
 
 ![Train and Val loss curves](images/loss_curves.jpg)
 
+Looks like 25 hours isnt enough thus started to overfit!
+
 
 
