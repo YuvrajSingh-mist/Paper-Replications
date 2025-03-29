@@ -2,12 +2,12 @@
 
 # Moonshine- An ASR model in Pytorch from scratch implementation
 
-Trained a small transformer based ASR model coded and trained from scratch in Pytorc.
+Trained a small transformer based ASR model coded and trained from scratch in Pytorch.
 
 [Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://arxiv.org/pdf/2410.15608)
 
 
-## 📊 Hyperparameters
+### Hyperparameters
 | Parameter                | Value      | Description                                                                 |
 |--------------------------|------------|-----------------------------------------------------------------------------|
 | `epochs`                 | 10         | Total training epochs.                                                      |
