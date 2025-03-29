@@ -1,6 +1,6 @@
 
 
-# Moonshine- An ASR model in Pytorch from scratch implementation
+# Moonshine- A faster Alternative to Whisper!
 
 Trained a small transformer based ASR model coded and trained from scratch in Pytorch.
 
