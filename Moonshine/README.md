@@ -1,48 +1,31 @@
 
 
-# Moonshine- An ASR model in Pytorch from scratch implementation
+# Moonshine- A faster Alternative to Whisper (Replication)!
 
-Trained a small transformer based ASR model coded and trained from scratch in Pytorc.
+Trained a small transformer-based ASR model coded and trained from scratch in Pytorch.
 
 [Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://arxiv.org/pdf/2410.15608)
 
-## Model Hyperparameters
 
-### Core Architecture
-| Parameter                      | Value            | Description                                  |
-|--------------------------------|------------------|----------------------------------------------|
-| `batch_size`                   | 32               | Number of samples per batch                 |
-| `max_lr`                       | 6e-4             | Maximum learning rate                       |
-| `dropout`                      | 0.1              | General dropout rate                        |
-| `epochs`                       | 10               | Total training epochs                       |
-| `block_size`                   | 80               | Sequence length in tokens                   |
-| `src_vocab_size`               | dynamic          | Source vocabulary size                      |
-| `phenome_embeddings_dims`      | 512              | Phoneme embedding dimension                 |
-| `embeddings_dims`              | 512              | Main embedding dimension                    |
-| `prenet_encoder_embeddings_dims` | 512            | Encoder prenet dimension                    |
-| `embeddings_dims_decoder`      | 256              | Decoder-specific embedding dimension        |
-| `attn_dropout`                 | 0.1              | Attention dropout rate                      |
-| `no_of_heads`                  | 4                | Attention heads per layer                   |
-| `no_of_decoder_layers`         | 8                | Number of decoder layers                    |
-| `weight_decay_optim`           | 0.01             | Optimizer weight decay                      |
-| `hidden_dim`                   | 2048 (4×512)     | FFN hidden dimension                        |
-| `clip`                         | 1.0              | Gradient clipping threshold                 |
+### Hyperparameters
+| Parameter                | Value      | Description                                                                 |
+|--------------------------|------------|-----------------------------------------------------------------------------|
+| `epochs`                 | 10         | Total training epochs.                                                      |
+| `batch_size`             | 128        | Samples per batch.                                                          |
+| `block_size`             | 40         | Context window length for attention.                                        |
+| `embeddings_dims`        | 288        | Embedding dimension (must be divisible by `no_of_heads`).                   |
+| `no_of_heads`            | 6          | Attention heads in multi-head attention.                                    |
+| `no_of_decoder_layers`   | 6          | Transformer decoder layers.                                                 |
+| `dropout`                | 0.1        | Dropout rate for regularization.                                            |
+| `max_lr`                 | 6e-4       | Peak learning rate (use with learning rate scheduler).                      |
+| `weight_decay_optim`     | 0.1        | Weight decay for AdamW (consider reducing to `0.01` if unstable).           |
+| `sr`                     | 16000      | Audio sampling rate (fix conflict with `SAMPLING_RATE=480000` if needed).   |
 
-### Audio Processing
-| Parameter               | Value    | Description                                  |
-|-------------------------|----------|----------------------------------------------|
-| `log_mel_features`      | 80       | Mel spectrogram channels                    |
-| `kernel_size`           | 5        | Convolution kernel size                     |
-| `stride`                | (2,10)   | Convolution stride (time, freq)             |
-| `sr`, `SAMPLING_RATE`   | 16000    | Audio sample rate (Hz)                      |
-| `N_MELS`                | 80       | Number of Mel bands                         |
-| `WINDOW_DURATION`       | 0.050s   | Analysis window duration                    |
-| `STRIDE_DURATION`       | 0.0125s  | Window stride duration                      |
-| `max_t`                 | 512      | Maximum spectrogram time steps              |
-| `n_channels`            | 80       | Input spectrogram channels                  |
+---
+
 ### Dataset
 
-[Gigaspeech](https://huggingface.co/datasets/speechcolab/gigaspeech) (can be used)
+[Gigaspeech](https://huggingface.co/datasets/speechcolab/gigaspeech) 
 
 
 ### Frameworks:
@@ -58,6 +41,8 @@ Val iterations = every 50 steps
 ### Loss Curves
 
 ![Train and Val loss curves](images/loss_curves.jpg)
+
+Looks like 25 hours isnt enough thus started to overfit!
 
 
 
