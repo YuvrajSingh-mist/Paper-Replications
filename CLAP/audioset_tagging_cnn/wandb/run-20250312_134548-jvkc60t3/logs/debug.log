@@ -24,3 +24,6 @@ config: {'_wandb': {}}
 2025-03-12 13:45:50,737 INFO    MainThread:616569 [wandb_init.py:init():1032] run started, returning control to user process
 2025-03-12 13:46:11,978 INFO    MainThread:616569 [jupyter.py:save_ipynb():386] not saving jupyter notebook
 2025-03-12 13:46:11,978 INFO    MainThread:616569 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-12 22:48:27,916 INFO    MainThread:616569 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-12 22:48:28,075 INFO    MainThread:616569 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-12 22:48:28,085 INFO    MainThread:616569 [wandb_init.py:_pause_backend():564] pausing backend

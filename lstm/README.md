@@ -12,7 +12,7 @@ Trained 128K LSTM model coded from scratch in Pytorch
 | `dropout`    | 0.1      | Dropout.                                                                    |
 | `epochs`     | 50       | Epochs                                                                      |           
 | `block_size` | 64       | Sequence length                                                             |
-| `No of neurons`     | 128       | Epochs                                                                      |   
+| `No of neurons`     | 128       | Epochs                                                               |   
 
 
 ### Frameworks:

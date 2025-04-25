@@ -1,0 +1,6 @@
+2025-03-16 15:19:16,189 INFO    MainThread:950230 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250316_151916-a1u9tj53/logs/debug.log
+2025-03-16 15:19:16,192 INFO    MainThread:950230 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250316_151916-a1u9tj53/logs/debug-internal.log
+2025-03-16 15:19:16,194 INFO    MainThread:950230 [wandb_init.py:init():761] calling init triggers
+2025-03-16 15:19:16,195 INFO    MainThread:950230 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-16 15:19:16,197 INFO    MainThread:950230 [wandb_init.py:init():776] wandb.init() called while a run is active
