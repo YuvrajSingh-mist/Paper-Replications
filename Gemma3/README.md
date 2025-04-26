@@ -5,7 +5,6 @@
 Trained a small Gemma 3 model (90M) coded and trained from scratch in Pytorch (text only) 
 
 
-
 [Gemma 3](https://arxiv.org/abs/2503.19786)
 
 ## ModelArgs Hyperparameters
