@@ -1,8 +1,8 @@
 
 
-# Gemma 3 (text only) model in Pytorch from scratch implementation
+# Gemma 3 model in Pytorch from scratch implementation
 
-Trained a small Gemma 3 model (90M) coded and trained from scratch in Pytorch 
+Trained a small Gemma 3 model (90M) coded and trained from scratch in Pytorch (text only) 
 
 
 
