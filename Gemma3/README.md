@@ -6,7 +6,7 @@ Trained a small Gemma 3 model (90M) coded and trained from scratch in Pytorch
 
 
 
-['Gemma 3'](https://arxiv.org/abs/2503.19786)
+[Gemma 3](https://arxiv.org/abs/2503.19786)
 
 ## ModelArgs Hyperparameters
 
@@ -50,5 +50,8 @@ Val iterations = every 500 steps
 
 ![Train and Val loss curves](img/loss.png)
 
+Train loss: 2.08 (last step)
+
+Val loss: 1.77 
 
 
