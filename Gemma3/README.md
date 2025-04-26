@@ -16,7 +16,7 @@ Trained a small Gemma 3 model (90M) coded and trained from scratch in Pytorch (t
 | `max_lr`                | 2.5e-4                                 | Maximum learning rate                                                       |
 | `dropout`               | 0.1                                    | Dropout rate for regularization                                            |                                               |
 | `block_size`            | 256                                    | Sequence length (number of tokens)                                         |
-| `tgt_vocab_size`        | len(tokenizer.get_vocab()) + 768       | Target vocabulary size                                                     |
+| `vocab_size`        | 32000 + 768       |  vocabulary size                                                     |
 | `embeddings_dims`       | 512                                    | Token embedding dimensionality                                             |
 | `attn_dropout`          | 0.1                                    | Dropout rate for attention layers                                          |
 | `no_of_heads`           | 8                                      | Number of attention heads in multi-head attention                          |
