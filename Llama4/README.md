@@ -29,7 +29,7 @@ Trained a small llama scout model (128M) coded and trained from scratch in Pytor
 | `device`                 | `cuda:0`                               | Device used for training (GPU)                                  |
 | `no_kv_heads`            | 2                                      | Number of key/value heads in attention                          |
 | `scaling_factor`         | 0.5                                    | Scaling factor for certain operations                           |
-| `vocab_size`             | `len(tokenizer.get_vocab()) + 768`     | Vocabulary size                                                 |
+| `vocab_size`             | `32768`     | Vocabulary size                                                 |
 | `base_freq`              | 10000                                  | Base frequency for rotary embeddings                            |
 | `s`                      | 1.0                                    | Scaling factor used elsewhere in the model                      |
 | `experts`                | 16                                     | Number of experts in Mixture of Experts (MoE)                   |
@@ -57,8 +57,8 @@ Val iterations = every 500 steps
 
 ![Train and Val loss curves](img/loss.png)
 
-Train loss: 2.08 (last step)
+Train loss:  0.22 (last step)
 
-Val loss: 1.77 
+Val loss: 0.235
 
 
