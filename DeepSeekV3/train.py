@@ -25,7 +25,7 @@ from datasets import load_dataset, concatenate_datasets
 # Load model directly
 from transformers import AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='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')
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='...')
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
 #liger kernels
