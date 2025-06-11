@@ -23,25 +23,26 @@ This repository contains a PyTorch implementation of the DeepSeekV3 architecture
 ####  ModelArgs (Hyperparameters)
 # Model Configuration (`ModelArgs`)
 
-This dataclass defines hyperparameters and configuration settings for a neural network model, optimized for modern deep learning tasks.
+This dataclass defines hyperparameters and configuration settings for the DeepSeekV3 model, as defined in `train.py`.
 
 ## Hyperparameters Overview
 
 ### Architecture
 | Parameter | Value | Description |
 |-----------|-------|-------------|
-| `block_size` | 1024 | Context window length for sequential data |
-| `embeddings_dims` | 768 | Dimension size for embeddings |
+| `block_size` | 256 | Context window length for sequential data |
+| `embeddings_dims` | 512 | Dimension size for embeddings |
 | `no_of_heads` | 8 | Number of attention heads in multi-head attention |
 | `no_of_decoder_layers` | 8 | Number of transformer decoder layers |
-| `vocab_size` | 32000 | Vocabulary size from tokenizer |
+| `vocab_size` | len(tokenizer.get_vocab()) | Vocabulary size from tokenizer |
 | `base_freq` | 10000 | Base frequency for positional encodings |
+| `latent_dim` | 64 | Latent dimension for attention |
 
 ### Training
 | Parameter | Value | Description |
 |-----------|-------|-------------|
 | `epochs` | 1 | Total training epochs |
-| `batch_size` | 16 | Samples per batch |
+| `batch_size` | 32 | Samples per batch |
 | `max_lr` | 6e-4 | Maximum learning rate |
 | `clip` | 1.0 | Gradient clipping threshold |
 
@@ -58,23 +59,25 @@ This dataclass defines hyperparameters and configuration settings for a neural n
 | `beta_1` | 0.9 | AdamW first momentum factor |
 | `beta_2` | 0.95 | AdamW second momentum factor |
 | `eps` | 1e-8 | Epsilon for numerical stability |
+| `loss_scale` | 0.3 | Loss scaling factor |
 
 ### Mixture-of-Experts (MoE)
 | Parameter | Value | Description |
 |-----------|-------|-------------|
-| `experts` | 31 | Total number of experts in MoE layer |
-| `top_experts` | 1 | Number of active experts per token |
+| `experts` | 16 | Total number of experts in MoE layer |
+| `top_experts` | 4 | Number of active experts per token |
 | `noisy_topk` | False | Enable noisy top-k expert selection |
 | `use_shared_expert` | True | Enable/disable shared expert |
 | `useauxFreeLoadBalancingLoss` | True | Use auxiliary-free load balancing loss |
 | `aux_free_bias_update_rate` | 0.001 | Update rate for auxiliary-free bias |
+| `mtp_heads` | 1 | Multi-token prediction heads |
 
 ### Hardware & Optimization
 | Parameter | Value | Description |
 |-----------|-------|-------------|
-| `device` | 'cuda:4' | Training accelerator (GPU/CPU) |
+| `device` | 'cuda:8' | Training accelerator (GPU/CPU) |
 | `use_checkpointing` | False | Enable gradient checkpointing |
-| `use_liger` | True | Use Liger kernels for optimized operations |
+| `use_liger` | False | Use Liger kernels for optimized operations |
 | `ignore_pad_token_in_loss` | True | Whether to ignore padding tokens in loss calculation |
 
 
