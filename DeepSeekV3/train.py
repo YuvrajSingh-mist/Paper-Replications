@@ -25,7 +25,7 @@ from datasets import load_dataset, concatenate_datasets
 # Load model directly
 from transformers import AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='...')
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='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')
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
 #liger kernels
@@ -40,8 +40,8 @@ torch.autograd.set_detect_anomaly(True)
 class ModelArgs:
     #Hyperparameters
 
-    block_size = 1024 
-    batch_size = 16
+    block_size = 256 
+    batch_size = 32
     embeddings_dims = 512
     attn_dropout = 0.1
     no_of_heads = 8 #IMP needs to be thoroughly calculated
@@ -54,7 +54,7 @@ class ModelArgs:
     beta_2 = 0.95
     device = 'cuda:8'
     vocab_size = len(tokenizer.get_vocab())
-    # base_freq=10000
+    base_freq=10000
     # s = 1.0
     experts=16
     clip = 1.0
@@ -68,7 +68,7 @@ class ModelArgs:
     loss_scale = 0.3
     useauxFreeLoadBalancingLoss = True  
     aux_free_bias_update_rate = 0.001
-    mtp_heads = 2  # Multi-token prediction heads
+    mtp_heads = 1  # Multi-token prediction heads
     latent_dim = 64  # Latent dimension for attention
 #Datasets
 
@@ -158,8 +158,8 @@ def prepare_dataset(split, device, batch_size):
         input_encodings = tokenizer(texts, max_length = ModelArgs.block_size,padding='max_length', truncation=True, return_tensors="pt")
         
         input_encodings["labels"] = input_encodings["input_ids"].clone()  # Use `input_ids` as labels
-        
-        input_encodings["labels"][:, 1:] = input_encodings["input_ids"][:, :-1]  # Shift right
+
+        input_encodings["labels"][:, :-1] = input_encodings["input_ids"][:, 1:]  
         # input_encodings['labels'][:, 0] = tokenizer.bos_token_id
         # input_encodings["labels"][:, -1] = tokenizer.eos_token_id  # Let the last token be end 
        
@@ -346,8 +346,8 @@ class MoeLayer(nn.Module):
         # self.b = torch.zeros((ModelArgs.batch_size, ModelArgs.block_size, ModelArgs.experts), device=device)
 
         if ModelArgs.useauxFreeLoadBalancingLoss:
-            # self.register_buffer('routing_bias', torch.zeros(ModelArgs.experts, device=self.device))
-            self.routing_bias = torch.zeros(ModelArgs.experts, device=self.device)
+            self.register_buffer('routing_bias', torch.zeros(ModelArgs.experts, device=self.device))
+            # self.routing_bias = torch.zeros(ModelArgs.experts, device=self.device)
             self.bias_update_speed = ModelArgs.aux_free_bias_update_rate
         
         
@@ -468,11 +468,12 @@ class MoeLayer(nn.Module):
                 ci = probs.sum(dim=(0,1))  # Su  of tokens for each expert
                 ci_avg = ci.mean()
                 
+                
                 error_i = ci_avg - ci
                 
-                self.update = self.bias_update_speed * torch.sign(error_i.detach())  # Update routing bias
-                # self.routing_bias.add_(self.update)
-                self.routing_bias = self.routing_bias + self.update
+                self.update = self.bias_update_speed * torch.sign(error_i)  # Update routing bias
+                self.routing_bias.add_(self.update)
+                # self.routing_bias = self.routing_bias + self.update
 
         return out
     
@@ -535,6 +536,7 @@ class LatentAttention(nn.Module):
         # self.keys = nn.Linear(in_features=embeddings_dims, out_features=self.head_size,device=ModelArgs.device, bias=False)
         # self.values = nn.Linear(in_features=embeddings_dims, out_features=self.head_size, device=ModelArgs.device,bias=False)
     # self.dropout = nn.Dropout(p = attn_dropout)
+        
 
         self.dropout = nn.Dropout(p = attn_dropout)
         self.device = device
@@ -552,8 +554,7 @@ class LatentAttention(nn.Module):
         # v = self.values(x)
         
         self.latent_matrix = self.W_dkv(x)
-        self.compressed_k = self.W_k(self.latent_matrix)
-        self.compressed_v = self.W_v(self.latent_matrix)
+
         # print("q shape: ", q.shape)
         
         # print("Shape of latent mat: ", self.query.weight.shape)
@@ -574,22 +575,33 @@ class LatentAttention(nn.Module):
             # print("Shape of kv_cache: ", kv_cache.shape)
             kv_cache = torch.cat([kv_cache, self.latent_matrix], dim=1)
 
+        self.compressed_k = self.W_k(kv_cache)
+        self.compressed_v = self.W_v(kv_cache)
+        
         q_res = torch.matmul(x , self.absorbed_q)
         weights =  q_res @ torch.transpose(kv_cache, dim0=-2, dim1=-1) * (self.head_size ** -0.5)  # [batch_size, block_size, block_size]
-        
+        # print("Shape of weights: ", weights.shape)
+        # print("Shape of kv_cache: ", kv_cache.shape)
         if(mask is not None):
             weights = weights.masked_fill(mask == 0, float('-1e20')) #Masking the attention weights
             
-        masked_table = torch.tril(torch.ones(block_size, block_size, device=ModelArgs.device))
+        masked_table = torch.tril(torch.ones(q_res.shape[1], kv_cache.shape[1], device=ModelArgs.device))
 
-        masked_values = weights.masked_fill(masked_table[: block_size, : block_size] == 0, float('-1e20'))
+        masked_values = weights.masked_fill(masked_table[: q_res.shape[1], : kv_cache.shape[1]] == 0, float('-1e20'))
         weights_normalized = nn.functional.softmax(masked_values, dim=-1) #Normalize along the embeddings dimension for all the tokens
         weights_normalized = self.dropout(weights_normalized)
         
+        # print("Shape of weights_normalized: ", weights_normalized.shape)
         # Apply positional embeddings to the output
+        
+        
+        
+        
+        # print("Shape of compressed_v: ", self.compressed_v.shape)
         out = weights_normalized @ self.compressed_v
+        
         # out = self.pos_embeddings(out)
-        return out
+        return out, kv_cache
 
 # MHA
 
@@ -606,12 +618,17 @@ class MHLA(nn.Module):
         self.heads = nn.ModuleList([LatentAttention(attn_dropout=attn_dropout, embeddings_dims=embeddings_dims, no_of_heads=no_of_heads) for _ in range(no_of_heads)])
         self.dropout = nn.Dropout(p = attn_dropout)
         self.linear = nn.Linear(in_features=embeddings_dims, out_features=embeddings_dims, device=device, bias=False) # 12 (no of heads) * (batch_size) 64 = 768 -> gives out the text embeddings
-
+        
     def forward(self, x, kv_cache=None, mask=None):
-        concat = torch.cat([head(x, kv_cache=kv_cache, mask=mask) for head in self.heads], dim=-1)
+        # concat = torch.cat([head(x, kv_cache=kv_cache, mask=mask) for head in self.heads], dim=-1)
+        res = []
+        for head in self.heads:
+            head_out, kv_cache = head(x, kv_cache=kv_cache, mask=mask)
+            res.append(head_out)
+        concat = torch.cat(res, dim=-1)  # Concatenate along the last dimension
         linear_layer = self.linear(concat)
         out = self.dropout(linear_layer)
-        return out
+        return out, kv_cache
 
 class FFN(nn.Module):
     def __init__(self,
@@ -668,14 +685,13 @@ class DecoderLayer(nn.Module):
 
     def forward(self, x, kv_cache=None, ffn=None, mask=None):
 
-        x = x + self.mha(self.layer_norm1(x), kv_cache=kv_cache, mask=mask)  #Very important step -> Layer Norm on input and then passes it to the subsequent blocks
+        out, kv_cache = self.mha(self.layer_norm1(x), kv_cache=kv_cache, mask=mask)  #Very important step -> Layer Norm on input and then passes it to the subsequent blocks
+        x = x + out  # Fixed: removed in-place operation
         x = x + self.moe_block(self.layer_norm2(x)) #Very important step
 
-        return x
+        return x, kv_cache
 
 
-    
-    
 class Block(nn.Module):
     def __init__(self,
                   device,
@@ -724,11 +740,11 @@ class Block(nn.Module):
         index = 0
         no_of_layers = 0
         # x = self.embeddings(x)
-        # x = self.dropout(x)
-        if(mask is not None):
-            mask = mask.unsqueeze(-1)
-            x = x * mask
-            
+        # # x = self.dropout(x)
+        # if(mask is not None):
+        kv_cache = None
+        #     x = x * mask
+        #     # mask = mask.unsqueeze(-1)
         # x = self.decoder(x)
         for layer in self.decoder:
             # if no_of_layers % 2 == 0:
@@ -743,11 +759,12 @@ class Block(nn.Module):
             #     if no_of_layers % 4 == 0:
             #         # print("x shape: ", x.shape)
             #         x = layer(x, rope=False, ffn=False, mask=mask)
-            x = layer(x, kv_cache=None, ffn=None, mask=mask)
+            x, kv_cache = layer(x, kv_cache=kv_cache, ffn=None, mask=mask)
                 # print("x shape local: ", x.shape)
             # no_of_layers += 1
         # print(x.shape)
         x = self.dropout(x)
+        x = 2 * ((ModelArgs.no_of_decoder_layers) ** -0.5) * x
         x = self.norm(x)
         
         # if(inference):
@@ -799,6 +816,8 @@ class DeepSeekV3(nn.Module):
         # B,T,C = x.shape
         if(mask is not None):
             x = x * mask
+            # x = x.unsqueeze(-1)
+            
         x = self.embedding(x)
         x = x + self.pos_embeddings(x)  # Add positional embeddings
         B, T, C = x.shape
@@ -914,7 +933,7 @@ save_checkpoint_iter = 2000
 total_iters = 10000 * ModelArgs.epochs
 eval_iters = 400
 eval_check = 400
-warmup_iters = 700 * ModelArgs.epochs
+warmup_iters = 400 * ModelArgs.epochs
 min_lr = 0.1 * ModelArgs.max_lr
 lr_decay_iters = 10000 * ModelArgs.epochs  # Total iterations for learning rate decay
 total_batch_size = 524288
@@ -1018,7 +1037,7 @@ def train():
                 # Standard cross entropy path
                 mask= torch.ones(ModelArgs.batch_size, ModelArgs.block_size, dtype=idx.dtype).to(device)  # Create a mask of ones for the entire block
                 mask = mask.masked_fill(idx == tokenizer.pad_token_id, 0)  # Set padding tokens to 0 in the mask
-                logits = model(idx, mask=mask, inference=False)  # Get logits from the model
+                logits = model(idx, mask=None)  # Get logits from the model
                 
                 B,T,D,C = logits.shape
                 loss = 0.0
@@ -1029,7 +1048,7 @@ def train():
                         loss += F.cross_entropy(logits_, _targets, ignore_index=tokenizer.pad_token_id)
 
                 loss /= (T * D)  # Average loss over all tokens
-                loss *= ModelArgs.loss_scale  # Apply loss scaling if needed
+                # loss *= ModelArgs.loss_scale  # Apply loss scaling if needed
                 # batch_size, block_size, embeddings_dims = logits.shape
                 
                 # logits = logits.view(batch_size*block_size, embeddings_dims)
@@ -1109,8 +1128,9 @@ def train():
             
             token_count += idx.numel()
             
-            
-            logits = model(idx)
+            mask = torch.ones(ModelArgs.batch_size, ModelArgs.block_size, dtype=idx.dtype).to(device)  # Create a mask of ones for the entire block\
+            mask = mask.masked_fill(idx == tokenizer.pad_token_id, 0)  # Set padding tokens to 0 in the mask
+            logits = model(idx, mask=None)
             
             B,T,D,C = logits.shape
             loss = 0.0
@@ -1121,7 +1141,8 @@ def train():
                     loss += F.cross_entropy(logits_, _targets, ignore_index=tokenizer.pad_token_id)
                     # print(loss)
             loss /= (T * D)  # Average loss over all tokens
-            
+            # loss *= ModelArgs.loss_scale  # Apply loss scaling if needed
+            # logits = model(idx, inference=False)  # Get logits from the model
             
             # mask = torch.ones(ModelArgs.batch_size, ModelArgs.block_size, dtype=idx.dtype).to(device)  # Create a mask of ones for the entire block
             # mask = mask.masked_fill(idx == tokenizer.pad_token_id, 0)  # Set padding tokens to 0 in the mask
