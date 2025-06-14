@@ -1,8 +1,18 @@
-# Autoencoder (AE) from Scratch
+# Variational Autoencoder (VAE) from Scratch
 
-I implemented an Autoencoder Architecture from Scratch using Pytorch on MNIST dataset.
+I implemented a Variational Autoencoder Architecture from Scratch using PyTorch on MNIST dataset.
 
 [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+
+## Results
+
+### Original vs Reconstructed Images
+
+The following image shows the comparison between original MNIST digits (top row) and their reconstructions by the VAE (bottom row):
+
+![VAE Results](vae_results.png)
+
+*VAE: Original (top) vs Reconstructed (bottom) - Shows the model's ability to reconstruct handwritten digits from the latent space representation.*
 
 ## ModelArgs Hyperparameters
 
@@ -28,7 +38,7 @@ I implemented an Autoencoder Architecture from Scratch using Pytorch on MNIST da
 **Encoder**: 
 - 4 Convolutional layers with LeakyReLU activation
 - Stride 2 for downsampling in middle layers
-- Final linear layer maps to latent space
+- Final linear layers for mean and log variance (reparameterization trick)
 
 **Decoder**:
 - Linear layer to expand latent representation
@@ -38,15 +48,24 @@ I implemented an Autoencoder Architecture from Scratch using Pytorch on MNIST da
 ### Training Details
 
 **Optimizer**: Adam with learning rate 0.0005  
-**Loss Function**: Mean Squared Error (MSE)  
+**Loss Function**: Reconstruction Loss (MSE) + KL Divergence  
 **Training/Validation Split**: 80/20  
 **Device**: CUDA
 
+### VAE-Specific Components
+
+**Reparameterization Trick**: Enables backpropagation through stochastic sampling  
+**KL Divergence**: Regularizes latent space to follow standard normal distribution  
+**Latent Space**: 2D for visualization and compression
+
 ### Results
 
-The autoencoder successfully reconstructs MNIST digits with a 2-dimensional latent space compression. The model shows good reconstruction quality despite the extreme compression ratio (784 → 2 → 784).
+The VAE successfully reconstructs MNIST digits while learning a meaningful 2-dimensional latent space. The model balances reconstruction quality with latent space regularization through the KL divergence term.
 
-**Final Training Loss**: Converged after 200 epochs
+**Final Training Metrics**:
+- Reconstruction Loss: Measures how well images are reconstructed
+- KL Loss: Ensures latent variables follow desired distribution
+- Total Loss: Combination of both terms
 
 ### Frameworks:
-**Pytorch**
+**PyTorch**
