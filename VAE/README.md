@@ -10,21 +10,47 @@ I implemented a Variational Autoencoder Architecture from Scratch using PyTorch 
 
 The following images show the comparison between original CelebA face images (top row) and their reconstructions by the VAE (bottom row):
 
-![VAE Results](data/image.png)
+<!-- Main image reference -->
+<img src="data/image.png" alt="VAE Results" width="800"/>
+
+<!-- Fallback references -->
+![VAE Results](./data/image.png) > **Note**: If images don't load, please check the `data/` folder in this repository:
+> - `data/image.png` - Reconstruction comparison results
+> - `data/losses.jpg` - Training loss curves  
+> - `data/arithmetic.jpg` - Latent space visualizations
+> - `data/samples.jpg` - Generated sample faces from latent space
 
 *VAE: Original (top) vs Reconstructed (bottom) - Shows the model's ability to reconstruct high-resolution face images from the latent space representation.*
 
 ### Training Progress
 
-![Training Losses](data/losses.jpg)
+<!-- Main image reference -->
+<img src="data/losses.jpg" alt="Training Losses" width="600"/>
+
+<!-- Fallback reference -->
+![Training Losses](./data/losses.jpg)
 
 *Training and validation losses over epochs showing convergence of reconstruction and KL divergence losses.*
 
 ### Latent Space Arithmetic
 
-![Latent Arithmetic](data/arithmetic.jpg)
+<!-- Main image reference -->
+<img src="data/arithmetic.jpg" alt="Latent Arithmetic" width="700"/>
+
+<!-- Fallback reference -->
+![Latent Arithmetic](./data/arithmetic.jpg)
 
 *Latent space interpolation and arithmetic operations demonstrating the smooth and meaningful latent representations learned by the VAE.*
+
+### Generated Samples
+
+<!-- Main image reference -->
+<img src="data/samples.jpg" alt="Generated Samples" width="800"/>
+
+<!-- Fallback reference -->
+![Generated Samples](./data/samples.jpg)
+
+*Random samples generated from the latent space showing the diversity and quality of faces that the VAE can produce.*
 
 ## Model Hyperparameters
 
@@ -106,8 +132,16 @@ The following images show the comparison between original CelebA face images (to
 
 ### Data
 - `data/image.png` - Sample reconstruction results visualization
-- `data/losses.jpg` - Training loss curves and convergence plots
+- `data/losses.jpg` - Training loss curves and convergence plots  
 - `data/arithmetic.jpg` - Latent space interpolation and arithmetic examples
+- `data/samples.jpg` - Generated sample faces from latent space
+
+> **Image Loading Issues?** 
+> If images don't display in your markdown viewer:
+> 1. Navigate to the `data/` folder directly to view images
+> 2. Try using absolute paths: `./data/image.png`
+> 3. Some markdown viewers require the repository to be cloned locally
+> 4. GitHub should display the images correctly in the web interface
 
 ### Model Checkpoints
 - `vae_checkpoint_epoch_240.pth` - Trained model weights after 240 epochs
