@@ -11,36 +11,28 @@ import math
 import tqdm 
 from dataclasses import dataclass
 from torch.nn import RMSNorm
-from tokenizers import Tokenizer
+# from tokenizers import Tokenizer
 from pathlib import Path
-import torch.multiprocessing as mp
-from torch.utils.data.distributed import DistributedSampler 
-from torch.nn.parallel import DistributedDataParallel as DDP
-from torch.distributed import init_process_group, destroy_process_group
 import wandb
 from torch.utils.data import DataLoader
-from datasets import load_dataset, concatenate_datasets
+from datasets import load_dataset
 
 
 # Load model directly
 from transformers import AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='...')
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='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')
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 
 #liger kernels
 from liger_kernel.transformers import LigerFusedLinearCrossEntropyLoss
 
 
-
-torch.autograd.set_detect_anomaly(True)
-
-
 @dataclass
 class ModelArgs:
     #Hyperparameters
 
-    block_size = 256 
+    block_size = 512 
     batch_size = 32
     embeddings_dims = 512
     attn_dropout = 0.1
@@ -48,20 +40,20 @@ class ModelArgs:
     dropout = 0.1
     epochs = 1
     max_lr = 6e-4
-    no_of_decoder_layers = 8 #IMP needs to be thoroughly calculated
+    no_of_decoder_layers = 6 #IMP needs to be thoroughly calculated
     weight_decay_optim = 0.1
     beta_1 = 0.9
     beta_2 = 0.95
-    device = 'cuda:8'
+    device = 'cuda'
     vocab_size = len(tokenizer.get_vocab())
-    base_freq=10000
+    base_freq=100000
     # s = 1.0
     experts=16
     clip = 1.0
     top_experts=4
     noisy_topk = False
     use_checkpointing = False
-    use_liger = False  # Use Liger kernels for optimized operations
+    use_liger = True  # Use Liger kernels for optimized operations
     use_shared_expert = True  # Enable/disable shared expert
     ignore_pad_token_in_loss = True  # Whether to ignore padding tokens in loss calculation
     eps: float = 1e-8
@@ -81,7 +73,7 @@ with open('data/input.txt', 'r', encoding='utf-8') as f:
 
 #Subword level tokenization
 
-#Loading custom trained BPE
+# Loading custom trained BPE
 # Load the tokenizer
 # tokenizer = Tokenizer.from_file("data/bpe_tokenizer_tinyshakespeare_1k.json")
 # vocab_size = tokenizer.get_vocab_size()
@@ -101,7 +93,7 @@ chars = sorted(list(set(text)))
 vocab_size = len(chars)
 
 
-# create a mapping from characters to integers
+# # create a mapping from characters to integers
 stoi = { ch: i for i,ch in enumerate(chars) }
 itos = { i:ch for i,ch in enumerate(chars) }
 encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
@@ -814,6 +806,7 @@ class DeepSeekV3(nn.Module):
 
     def forward(self, x, inference=False, mask=None):
         # B,T,C = x.shape
+        mtp_heads_curr = 0
         if(mask is not None):
             x = x * mask
             # x = x.unsqueeze(-1)
@@ -840,7 +833,7 @@ class DeepSeekV3(nn.Module):
                 for k in range(ModelArgs.mtp_heads):
                     # if i + k < T:
                     
-                    if k % ModelArgs.mtp_heads == 0:
+                    if mtp_heads_curr == 0:
                         h_z = self.decoder(x[:, i + k + 1, :].unsqueeze(1), mask)  # Use decoder for the first head
                     else:
                         h_z = self.unilayer[k](x[:, i + k + 1, :].unsqueeze(1), mask)  # Add sequence dimension
@@ -905,12 +898,12 @@ else:
 
 #Printing a summary of the architecture
 from torchinfo import summary
-# from log_model_parameters import log_model_summary
+# # from log_model_parameters import log_model_summary
 
 idx, targets = get_batch('test')
 idx = idx.to(ModelArgs.device)
 
-# Print summary to console
+# # Print summary to console
 print(summary(model=model,
         input_data=idx,
         # input_size=(ModelArgs.batch_size, ModelArgs.block_size, ModelArgs.embeddings_dims),
@@ -1039,15 +1032,33 @@ def train():
                 mask = mask.masked_fill(idx == tokenizer.pad_token_id, 0)  # Set padding tokens to 0 in the mask
                 logits = model(idx, mask=None)  # Get logits from the model
                 
-                B,T,D,C = logits.shape
-                loss = 0.0
+                B, T, D, C = logits.shape
+                
+                # Vectorized loss calculation for multi-token prediction
+                # Reshape logits to [B, T*D, C] using contiguous().view() to handle non-contiguous tensors
+                logits_flat = logits.contiguous().view(B, T * D, C)
+                
+                # Create target indices for each position and head
+                target_indices = []
                 for i in range(T):
                     for k in range(D):
-                        logits_ = logits[: , i , k, :]
-                        _targets = targets[:, i + k + 1]
-                        loss += F.cross_entropy(logits_, _targets, ignore_index=tokenizer.pad_token_id)
-
-                loss /= (T * D)  # Average loss over all tokens
+                        if i + k + 1 < targets.shape[1]:  # Ensure we don't go out of bounds
+                            target_indices.append(i + k + 1)
+                        else:
+                            target_indices.append(targets.shape[1] - 1)  # Use last token if out of bounds
+                
+                # Convert to tensor and gather targets
+                target_indices = torch.tensor(target_indices, device=targets.device)
+                target_indices = target_indices.unsqueeze(0).expand(B, -1)  # [B, T*D]
+                targets_flat = torch.gather(targets, 1, target_indices)  # [B, T*D]
+                
+                # Compute vectorized cross entropy loss
+                loss = F.cross_entropy(
+                    logits_flat.contiguous().view(-1, C), 
+                    targets_flat.contiguous().view(-1), 
+                    ignore_index=tokenizer.pad_token_id,
+                    reduction='mean'
+                )
                 # loss *= ModelArgs.loss_scale  # Apply loss scaling if needed
                 # batch_size, block_size, embeddings_dims = logits.shape
                 
@@ -1132,15 +1143,34 @@ def train():
             mask = mask.masked_fill(idx == tokenizer.pad_token_id, 0)  # Set padding tokens to 0 in the mask
             logits = model(idx, mask=None)
             
-            B,T,D,C = logits.shape
-            loss = 0.0
+            B, T, D, C = logits.shape
+            
+            # Vectorized loss calculation for multi-token prediction
+            # Reshape logits to [B, T*D, C] using contiguous().view() to handle non-contiguous tensors
+            logits_flat = logits.contiguous().view(B, T * D, C)
+            
+            # Create target indices for each position and head
+            # targets[:, i + k + 1] for all i in range(T) and k in range(D)
+            target_indices = []
             for i in range(T):
                 for k in range(D):
-                    logits_ = logits[: , i , k, :]
-                    _targets = targets[:, i + k + 1]
-                    loss += F.cross_entropy(logits_, _targets, ignore_index=tokenizer.pad_token_id)
-                    # print(loss)
-            loss /= (T * D)  # Average loss over all tokens
+                    if i + k + 1 < targets.shape[1]:  # Ensure we don't go out of bounds
+                        target_indices.append(i + k + 1)
+                    else:
+                        target_indices.append(targets.shape[1] - 1)  # Use last token if out of bounds
+            
+            # Convert to tensor and gather targets
+            target_indices = torch.tensor(target_indices, device=targets.device)
+            target_indices = target_indices.unsqueeze(0).expand(B, -1)  # [B, T*D]
+            targets_flat = torch.gather(targets, 1, target_indices)  # [B, T*D]
+            
+            # Compute vectorized cross entropy loss
+            loss = F.cross_entropy(
+                logits_flat.contiguous().view(-1, C), 
+                targets_flat.contiguous().view(-1), 
+                ignore_index=tokenizer.pad_token_id,
+                reduction='mean'
+            )
             # loss *= ModelArgs.loss_scale  # Apply loss scaling if needed
             # logits = model(idx, inference=False)  # Get logits from the model
             
