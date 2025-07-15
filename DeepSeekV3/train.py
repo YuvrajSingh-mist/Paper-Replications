@@ -18,15 +18,15 @@ from torch.utils.data import DataLoader
 from datasets import load_dataset
 
 
+#liger kernels
+from liger_kernel.transformers import LigerFusedLinearCrossEntropyLoss
+
+
 # Load model directly
 from transformers import AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", token='...')
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-
-#liger kernels
-from liger_kernel.transformers import LigerFusedLinearCrossEntropyLoss
-
 
 @dataclass
 class ModelArgs:
