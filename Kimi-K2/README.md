@@ -1,6 +1,6 @@
-# StoryKimi - DeepSeek V3 Inspired Model
+# Kimi-K2 - DeepSeek V3 Inspired Model
 
-A PyTorch implementation of a DeepSeek V3 inspired transformer model with Mixture of Experts (MoE), Latent Attention, and other advanced features.
+A PyTorch reimplementation of a DeepSeek V3-inspired transformer model with Mixture of Experts (MoE), Latent Attention, and other advanced features.
 
 ![StoryKimi Model](images/image.png)
 
