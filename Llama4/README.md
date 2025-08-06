@@ -5,8 +5,9 @@
 - Trained on TiyStories dataset form HuggingFace consisting of 4.2B tokens for 1 FULL epoch.
 
 
+---
 
- ### Pretraining
+### Pretraining
 
 #### Dataset
 
