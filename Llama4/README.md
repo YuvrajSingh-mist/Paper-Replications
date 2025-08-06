@@ -102,7 +102,7 @@ This dataclass defines hyperparameters and configuration settings for a neural n
 
 - Loss Curves (Train and Val)
 
-![Loss Curves (Train and Val)](data/loss.png)
+![Loss Curves (Train and Val)](img/loss.png)
 
 --- 
 #### Output
