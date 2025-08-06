@@ -1,7 +1,0 @@
-{"time":"2025-03-16T15:20:07.820683446Z","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250316_152007-k921yov4/logs/debug-core.log"}
-{"time":"2025-03-16T15:20:08.103741667Z","level":"INFO","msg":"created new stream","id":"k921yov4"}
-{"time":"2025-03-16T15:20:08.1041165Z","level":"INFO","msg":"writer: Do: started","stream_id":"k921yov4"}
-{"time":"2025-03-16T15:20:08.104189506Z","level":"INFO","msg":"sender: started","stream_id":"k921yov4"}
-{"time":"2025-03-16T15:20:08.104326349Z","level":"INFO","msg":"stream: started","id":"k921yov4"}
-{"time":"2025-03-16T15:20:08.104919Z","level":"INFO","msg":"handler: started","stream_id":"k921yov4"}
-{"time":"2025-03-16T15:20:08.759929226Z","level":"INFO","msg":"Starting system monitor"}

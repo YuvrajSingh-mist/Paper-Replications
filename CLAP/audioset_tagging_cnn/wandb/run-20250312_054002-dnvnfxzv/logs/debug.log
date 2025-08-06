@@ -1,8 +1,0 @@
-2025-03-12 05:40:02,569 INFO    MainThread:123001 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_054002-dnvnfxzv/logs/debug.log
-2025-03-12 05:40:02,595 INFO    MainThread:123001 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/c/Users/yuvra/OneDrive/Desktop/Work/pytorch/Paper-Replications/CLAP/audioset_tagging_cnn/wandb/run-20250312_054002-dnvnfxzv/logs/debug-internal.log
-2025-03-12 05:40:02,608 INFO    MainThread:123001 [wandb_init.py:init():761] calling init triggers
-2025-03-12 05:40:02,626 INFO    MainThread:123001 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
-config: {'_wandb': {}}
-2025-03-12 05:40:02,639 INFO    MainThread:123001 [wandb_init.py:init():776] wandb.init() called while a run is active
-2025-03-12 05:40:04,169 INFO    MainThread:123001 [jupyter.py:save_ipynb():386] not saving jupyter notebook
-2025-03-12 05:40:04,182 INFO    MainThread:123001 [wandb_init.py:_pause_backend():564] pausing backend
