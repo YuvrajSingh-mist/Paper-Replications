@@ -19,7 +19,7 @@
 
 ---
 
-####  ModelArgs (Hyperparameters)
+
 # Model Configuration (`ModelArgs`)
 
 This dataclass defines hyperparameters and configuration settings for a neural network model, optimized for modern deep learning tasks.
