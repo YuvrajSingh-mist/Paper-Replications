@@ -3,6 +3,12 @@
 
 This repository contains a collection of code implementations and experiments replicating results from a wide range of influential machine learning and deep learning research papers. Each subfolder corresponds to a specific paper, model, or technique, with code, notes, and sometimes pretrained weights or results.
 
+
+## Deployed models
+
+Visit [smolhub](https://smolhub.com) to view the deployed models.
+
+
 ## Structure
 
 - **Attention Mechanisms/**: Implementations and experiments with various attention mechanisms.
@@ -42,11 +48,6 @@ This repository contains a collection of code implementations and experiments re
 - **WGANs/**: Wasserstein GANs.
 - **Whisper/**: Whisper speech recognition model replications.
 
-## Other Contents
-
-- **generated_audio_final.wav**: Example output from TTS or audio models.
-- **README.md**: This file.
-- **Errror_Gihtub_Login.txt**: Log or error notes.
 
 ## Usage
 
@@ -56,15 +57,6 @@ Each folder is self-contained and includes code, scripts, and sometimes notebook
 
 Feel free to open issues or pull requests if you have suggestions, improvements, or additional replications to add!
 
-## License
-
-This repository is for educational and research purposes. Please check individual folders for any additional license or citation requirements.
-# Paper/Architecture Replication  from Scratch Repository using PyTorch 
-
-A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers.
-
-
-
 ### 🔗 Links
 [HuggingFace Account](https://huggingface.co/YuvrajSingh9886)
 
@@ -72,4 +64,20 @@ A repository consisting of paper/architecture replications of classic/SOTA AI/ML
 ### Authors
 
 - [@YuvrajSingh](https://www.github.com/YuvrajSingh-mist)
+
+## Citation
+
+If you find this repository useful in your research, please cite it:
+
+```bibtex
+@misc{singh_paper_replications_2025,
+  author       = {Yuvraj Singh},
+  title        = {Paper-Replications: Paper/Architecture Replication from Scratch Repository using PyTorch},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/YuvrajSingh-mist/Paper-Replications}},
+  commit       = {1d7a1b37a82e441cde884f591c9c41fa4e47ddbb}
+}
+```
 
