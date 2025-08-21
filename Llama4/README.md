@@ -1,12 +1,12 @@
 
-# Introducing StoryLlamaMoE - A Smaller MoE based Language Model for Bedtime Stories! 
-
+# Llama 4 Scout from-scratch in PyTorch
 - So, I trained a MoE based Llama 1.2B (32x12M) architecture I coded from ground up.
 - Trained on TiyStories dataset form HuggingFace consisting of 4.2B tokens for 1 FULL epoch.
 
 
+---
 
- ### Pretraining
+### Pretraining
 
 #### Dataset
 
@@ -102,7 +102,7 @@ This dataclass defines hyperparameters and configuration settings for a neural n
 
 - Loss Curves (Train and Val)
 
-![Loss Curves (Train and Val)](data/loss.jpg)
+![Loss Curves (Train and Val)](img/loss.png)
 
 --- 
 #### Output
