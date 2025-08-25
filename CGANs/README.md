@@ -1,6 +1,6 @@
 # Conditional Generative Adversarial Networks (CGANs)
 
-![CGAN Architecture](https://github.com/YuvrajSingh-mist/Paper-Replications/blob/main/CGANs/output_images/MNIST/fake_images_steps_14000.png)
+
 
 ## Overview
 
