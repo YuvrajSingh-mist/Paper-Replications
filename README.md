@@ -72,7 +72,7 @@ If you find this repository useful in your research, please cite it:
 ```bibtex
 @misc{singh_paper_replications_2025,
   author       = {Yuvraj Singh},
-  title        = {Paper-Replications: Paper/Architecture Replication from Scratch Repository using PyTorch},
+  title        = {Paper-Replications: Replication from Scratch Repository using PyTorch},
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
