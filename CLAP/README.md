@@ -1,6 +1,6 @@
 
 
-# Whisper model in Pytorch from scratch implementation
+# CLAP model in Pytorch from scratch implementation
 
 Implementation of CLAP model coded from scratch in Pytorch 
 
