@@ -803,7 +803,7 @@ class Block(nn.Module):
 
 
 
-class DeepSeekV3(nn.Module):
+class Kimik2(nn.Module):
     def __init__(self,
                  device,
                  embeddings_dims: int = ModelArgs.embeddings_dims,
@@ -849,7 +849,7 @@ class DeepSeekV3(nn.Module):
     
 
 
-model = DeepSeekV3(embeddings_dims=ModelArgs.embeddings_dims, block_size=ModelArgs.block_size, vocab_size=ModelArgs.vocab_size, dropout=ModelArgs.dropout, device=ModelArgs.device)
+model = Kimik2(embeddings_dims=ModelArgs.embeddings_dims, block_size=ModelArgs.block_size, vocab_size=ModelArgs.vocab_size, dropout=ModelArgs.dropout, device=ModelArgs.device)
 model = model.to(ModelArgs.device)
 
 # Log padding token handling
@@ -955,7 +955,7 @@ def train():
         )
     
     # Create model and move to GPU
-    model = DeepSeekV3(embeddings_dims=ModelArgs.embeddings_dims, block_size=ModelArgs.block_size, vocab_size=ModelArgs.vocab_size, dropout=ModelArgs.dropout, device=device)
+    model = Kimik2(embeddings_dims=ModelArgs.embeddings_dims, block_size=ModelArgs.block_size, vocab_size=ModelArgs.vocab_size, dropout=ModelArgs.dropout, device=device)
     model = model.to(device)
     
     # Wrap model with DDP if using distributed training
