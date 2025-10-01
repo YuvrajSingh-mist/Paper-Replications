@@ -1,8 +1,8 @@
 
 
-# Transformer based TTS model in Pytorch from scratch implementation
+# Transformer-based TTS model in Pytorch - Tacotron!
 
-Trained a small transformer based TTS model coded and trained from scratch in Pytorch 
+Trained a small transformer-based TTS model, coded and trained from scratch in Pytorch 
 
 (will be uploading the implementation of Wavenet soon)
 
