@@ -60,7 +60,7 @@ Feel free to open issues or pull requests if you have suggestions, improvements,
 ## Sponsors
 
 Thank you everyone for their support and love for this project!
-- ![https://github.com/abstrait](abstrait)
+- [abstrait](https://github.com/abstrait)
 
 ### 🔗 Links
 [HuggingFace Account](https://huggingface.co/YuvrajSingh9886)
