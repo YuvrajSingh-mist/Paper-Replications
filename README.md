@@ -57,6 +57,11 @@ Each folder is self-contained and includes code, scripts, and sometimes notebook
 
 Feel free to open issues or pull requests if you have suggestions, improvements, or additional replications to add!
 
+## Sponsors
+
+Thank you everyone for their support and love for this project!
+- ![https://github.com/abstrait](abstrait)
+
 ### 🔗 Links
 [HuggingFace Account](https://huggingface.co/YuvrajSingh9886)
 
