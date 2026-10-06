@@ -1,0 +1,37 @@
+{
+  "title": "Paper-Replications: From-Scratch PyTorch Replications of Classic and SOTA AI/ML Papers",
+  "description": "<p><strong>Paper-Replications</strong> is a collection of from-scratch PyTorch implementations replicating classic and state-of-the-art AI/ML papers: transformer variants, attention mechanisms, GANs, diffusion models, CLIP-style vision-language models, LoRA and MoE fine-tuning, and more.</p>\n<p>The Paper-Replications source code and notebooks are licensed under Apache-2.0. Documentation, diagrams, generated results and published experiment artifacts are licensed under CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Singh, Yuvraj",
+      "orcid": "0009-0005-4120-555X"
+    }
+  ],
+  "license": "apache-2.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "paper replication",
+    "pytorch",
+    "transformers",
+    "attention mechanism",
+    "deep learning",
+    "generative models",
+    "from scratch",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/YuvrajSingh-mist/Paper-Replications",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.smolhub.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code is licensed under Apache-2.0. Documentation, diagrams, generated results and published experiment artifacts are additionally licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+}
