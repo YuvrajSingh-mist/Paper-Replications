@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use Paper-Replications (implementations, notebooks, or results), please cite it as below.
+title: "Paper-Replications: From-Scratch PyTorch Replications of Classic and SOTA AI/ML Papers"
+type: software
+authors:
+  - family-names: Singh
+    given-names: Yuvraj
+    orcid: "https://orcid.org/0009-0005-4120-555X"
+date-released: "2026-10-07"
+year: 2026
+url: "https://github.com/YuvrajSingh-mist/Paper-Replications"
+repository-code: "https://github.com/YuvrajSingh-mist/Paper-Replications"
+license: Apache-2.0
+keywords:
+  - paper-replication
+  - pytorch
+  - transformers
+  - attention-mechanism
+  - deep-learning
+  - from-scratch
+preferred-citation:
+  type: generic
+  title: "Paper-Replications: From-Scratch PyTorch Replications of Classic and SOTA AI/ML Papers"
+  authors:
+    - family-names: Singh
+      given-names: Yuvraj
+  year: 2026
+  url: "https://github.com/YuvrajSingh-mist/Paper-Replications"
+  howpublished: "\\url{https://github.com/YuvrajSingh-mist/Paper-Replications}"
