@@ -33,5 +33,6 @@
       "scheme": "url"
     }
   ],
-  "notes": "Code is licensed under Apache-2.0. Documentation, diagrams, generated results and published experiment artifacts are additionally licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+  "notes": "Code is licensed under Apache-2.0. Documentation, diagrams, generated results and published experiment artifacts are additionally licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+  "version": "v1.0.0"
 }
