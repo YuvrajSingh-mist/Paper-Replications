@@ -76,14 +76,13 @@ Thank you everyone for their support and love for this project!
 If you find this repository useful in your research, please cite it:
 
 ```bibtex
-@misc{singh_paper_replications_2025,
-  author       = {Yuvraj Singh},
-  title        = {Paper-Replications: Replication from Scratch Repository using PyTorch},
-  year         = {2025},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/YuvrajSingh-mist/Paper-Replications}},
-  commit       = {1d7a1b37a82e441cde884f591c9c41fa4e47ddbb}
+@software{singh_paper_replications_2025,
+  title     = {Paper-Replications: From-Scratch PyTorch Replications of Classic and SOTA AI/ML Papers},
+  author    = {Singh, Yuvraj},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23198171},
+  url       = {https://github.com/YuvrajSingh-mist/Paper-Replications}
 }
 ```
 
