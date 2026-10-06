@@ -87,3 +87,9 @@ If you find this repository useful in your research, please cite it:
 }
 ```
 
+## License
+
+- **Code and notebooks**: [Apache License 2.0](LICENSE).
+- **Documentation, diagrams, generated results and published artifacts**: [CC BY 4.0](LICENSE-DATASET).
+
+Attribution: Yuvraj Singh. See [NOTICE](NOTICE) and [CITATION.cff](CITATION.cff).
