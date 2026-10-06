@@ -11,6 +11,7 @@ year: 2026
 url: "https://github.com/YuvrajSingh-mist/Paper-Replications"
 repository-code: "https://github.com/YuvrajSingh-mist/Paper-Replications"
 license: Apache-2.0
+doi: "10.5281/zenodo.23198171"
 keywords:
   - paper-replication
   - pytorch
