@@ -92,16 +92,3 @@ If you find this repository useful in your research, please cite it:
 - **Documentation, diagrams, generated results and published artifacts**: [CC BY 4.0](LICENSE-DATASET).
 
 Attribution: Yuvraj Singh. See [NOTICE](NOTICE) and [CITATION.cff](CITATION.cff).
-
-<!-- support-footer -->
----
-
-<div align="center">
-
-## Support the work
-
-If this project saved you time, you can fuel more like it.
-
-[![Sponsor: GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/YuvrajSingh-mist) [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://ko-fi.com/O7W120DR8R)
-
-</div>
